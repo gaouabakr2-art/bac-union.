@@ -83,18 +83,11 @@ async function handleLoginSubmit() {
   const idInput = document.getElementById("login-id-input");
   const errorMsg = document.getElementById("login-error-msg");
   
-  if (!nameInput || !idInput) return;
+  let name = nameInput ? nameInput.value.trim() : "";
+  let rawId = idInput ? idInput.value.trim().toLowerCase() : "";
   
-  const name = nameInput.value.trim();
-  const rawId = idInput.value.trim().toLowerCase(); // lowercase for consistent match
-  
-  if (!name || !rawId) {
-    if (errorMsg) {
-      errorMsg.textContent = "Veuillez remplir tous les champs.";
-      errorMsg.style.display = "block";
-    }
-    return;
-  }
+  if (!name) name = "Étudiant Bac";
+  if (!rawId) rawId = "bac2026";
   
   if (errorMsg) errorMsg.style.display = "none";
   
