@@ -38,22 +38,25 @@ async function checkLoginState() {
     studentId = savedId;
     studentName = savedName;
     
-    // Hide login modal
+    // Hide login modal immediately
     if (loginOverlay) loginOverlay.style.display = "none";
     
     // Update Header and Welcome Banner UI
     updateUserSessionUI();
     renderHomeSections(); // Render immediately with local state
     
-    // Load student's personalized progress from Supabase in background
+    // Load student's progress in background with 2s timeout
     try {
-      studentProgress = await StorageAPI.loadStudentProgress();
+      studentProgress = await Promise.race([
+        StorageAPI.loadStudentProgress(),
+        new Promise(resolve => setTimeout(() => resolve({}), 2000))
+      ]);
     } catch (e) {
-      console.error("Failed to load progress from Supabase, fallback to empty", e);
+      console.warn("Failed to load progress from Supabase, fallback to empty", e);
       studentProgress = {};
     }
     
-    // Update section cards and global stats after Supabase response
+    // Update section cards and global stats after progress load
     renderHomeSections();
     updateGlobalStats();
   } else {
@@ -74,7 +77,7 @@ function updateUserSessionUI() {
   if (logoutBtn) logoutBtn.style.display = "flex";
 }
 
-// Handle login submission
+// Handle login submission (INSTANT UI RESPONSE)
 async function handleLoginSubmit() {
   const nameInput = document.getElementById("login-name-input");
   const idInput = document.getElementById("login-id-input");
@@ -95,48 +98,39 @@ async function handleLoginSubmit() {
   
   if (errorMsg) errorMsg.style.display = "none";
   
-  // Connect/register student in Supabase (with resilient fallback)
-  try {
-    let profile = null;
-    try {
-      profile = await StorageAPI.getProfile(rawId);
+  // 1. INSTANT LOCAL SESSION SAVE & UI HIDE (Zero delay)
+  localStorage.setItem("edu_student_id", rawId);
+  localStorage.setItem("edu_student_name", name);
+  
+  studentId = rawId;
+  studentName = name;
+  
+  const loginOverlay = document.getElementById("login-overlay");
+  if (loginOverlay) loginOverlay.style.display = "none";
+  
+  updateUserSessionUI();
+  renderHomeSections();
+  updateGlobalStats();
+
+  // 2. BACKGROUND ASYNC SUPABASE PROFILE & PROGRESS SYNC
+  Promise.race([
+    StorageAPI.getProfile(rawId).then(async (profile) => {
       if (!profile) {
-        profile = await StorageAPI.createProfile(rawId, name);
+        await StorageAPI.createProfile(rawId, name);
       }
-    } catch (e) {
-      console.warn("Supabase profile sync notice, using local session profile:", e);
-      profile = { id: rawId, name: name };
-    }
-    
-    // Save to local storage
-    localStorage.setItem("edu_student_id", profile.id);
-    localStorage.setItem("edu_student_name", profile.name);
-    
-    // Set active state variables
-    studentId = profile.id;
-    studentName = profile.name;
-    
-    // Hide login modal
-    const loginOverlay = document.getElementById("login-overlay");
-    if (loginOverlay) loginOverlay.style.display = "none";
-    
-    // Update UI and load data
-    updateUserSessionUI();
-    try {
-      studentProgress = await StorageAPI.loadStudentProgress();
-    } catch (e) {
-      studentProgress = {};
-    }
-    
+    }),
+    new Promise(resolve => setTimeout(resolve, 2000))
+  ]).catch(e => console.warn("Background Supabase sync notice:", e));
+
+  try {
+    studentProgress = await Promise.race([
+      StorageAPI.loadStudentProgress(),
+      new Promise(resolve => setTimeout(() => resolve({}), 2000))
+    ]);
     renderHomeSections();
     updateGlobalStats();
-    
-  } catch (err) {
-    console.error("Login failed:", err);
-    if (errorMsg) {
-      errorMsg.textContent = "Erreur de connexion.";
-      errorMsg.style.display = "block";
-    }
+  } catch (e) {
+    studentProgress = {};
   }
 }
 
