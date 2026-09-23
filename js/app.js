@@ -570,42 +570,6 @@ function setupEventListeners() {
       }
     });
   }
-
-  // Login triggers
-  const btnLoginSubmit = document.getElementById("btn-login-submit");
-  const loginNameInput = document.getElementById("login-name-input");
-  const loginIdInput = document.getElementById("login-id-input");
-
-  if (btnLoginSubmit) {
-    btnLoginSubmit.addEventListener("click", handleLoginSubmit);
-  }
-  if (loginNameInput) {
-    loginNameInput.addEventListener("keypress", (e) => {
-      if (e.key === "Enter") handleLoginSubmit();
-    });
-  }
-  if (loginIdInput) {
-    loginIdInput.addEventListener("keypress", (e) => {
-      if (e.key === "Enter") handleLoginSubmit();
-    });
-  }
-
-  // Bind Enter key in login forms
-  const nameInput = document.getElementById("login-name-input");
-  const idInput = document.getElementById("login-id-input");
-  [nameInput, idInput].forEach(inp => {
-    if (inp) {
-      inp.addEventListener("keypress", (e) => {
-        if (e.key === "Enter") handleLoginSubmit();
-      });
-    }
-  });
-
-  // Logout trigger
-  const btnLogout = document.getElementById("btn-logout");
-  if (btnLogout) {
-    btnLogout.addEventListener("click", handleLogout);
-  }
 }
 
 // 10. SETUP SUBJECT WORKSPACE SPECIFIC EVENTS
