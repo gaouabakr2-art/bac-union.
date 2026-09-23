@@ -3,158 +3,21 @@ const SECTIONS = window.SECTIONS;
 const DEFAULT_CHAPTERS = window.DEFAULT_CHAPTERS;
 const StorageAPI = window.StorageAPI;
 
-// Application State (User Profiles & Personal Progress)
-let studentId = null;
-let studentName = null;
-let studentProgress = {}; // Loaded dynamically from Supabase
-
 let currentSectionId = null;
 let activeSubject = null; // Currently selected subject object
 let activeFolder = "Tous"; // "Tous", "Cours", "Exercices", "Résumés"
 let globalSearchQuery = "";
 
 // Initialize App
-document.addEventListener("DOMContentLoaded", async () => {
+document.addEventListener("DOMContentLoaded", () => {
   initTheme();
-  renderHomeSections(); // Immediate instant render of section cards
+  renderHomeSections(); // Instant render of section cards
   setupEventListeners();
   setupSubjectWorkspaceEvents();
   setupMotivationCarousel();
   setupDuaaCarousel();
   setupModalOverlayEvents();
-  
-  // Check login state and sync progress asynchronously
-  await checkLoginState();
 });
-
-// Check if student is already logged in
-async function checkLoginState() {
-  const savedId = localStorage.getItem("edu_student_id");
-  const savedName = localStorage.getItem("edu_student_name");
-  
-  const loginOverlay = document.getElementById("login-overlay");
-  
-  if (savedId && savedName) {
-    studentId = savedId;
-    studentName = savedName;
-    
-    // Hide login modal immediately
-    if (loginOverlay) loginOverlay.style.display = "none";
-    
-    // Update Header and Welcome Banner UI
-    updateUserSessionUI();
-    renderHomeSections(); // Render immediately with local state
-    
-    // Load student's progress in background with 2s timeout
-    try {
-      studentProgress = await Promise.race([
-        StorageAPI.loadStudentProgress(),
-        new Promise(resolve => setTimeout(() => resolve({}), 2000))
-      ]);
-    } catch (e) {
-      console.warn("Failed to load progress from Supabase, fallback to empty", e);
-      studentProgress = {};
-    }
-    
-    // Update section cards and global stats after progress load
-    renderHomeSections();
-    updateGlobalStats();
-  } else {
-    // Show login overlay
-    if (loginOverlay) loginOverlay.style.display = "flex";
-    renderHomeSections();
-  }
-}
-
-// Update UI headers to reflect student session
-function updateUserSessionUI() {
-  const headerName = document.getElementById("header-student-name");
-  const welcomeName = document.getElementById("welcome-student-name");
-  const logoutBtn = document.getElementById("btn-logout");
-  
-  if (headerName) headerName.textContent = studentName;
-  if (welcomeName) welcomeName.textContent = studentName;
-  if (logoutBtn) logoutBtn.style.display = "flex";
-}
-
-// Handle login submission (INSTANT UI RESPONSE)
-async function handleLoginSubmit() {
-  const nameInput = document.getElementById("login-name-input");
-  const idInput = document.getElementById("login-id-input");
-  const errorMsg = document.getElementById("login-error-msg");
-  
-  let name = nameInput ? nameInput.value.trim() : "";
-  let rawId = idInput ? idInput.value.trim().toLowerCase() : "";
-  
-  if (!name) name = "Étudiant Bac";
-  if (!rawId) rawId = "bac2026";
-  
-  if (errorMsg) errorMsg.style.display = "none";
-  
-  // 1. INSTANT LOCAL SESSION SAVE & UI HIDE (Zero delay)
-  localStorage.setItem("edu_student_id", rawId);
-  localStorage.setItem("edu_student_name", name);
-  
-  studentId = rawId;
-  studentName = name;
-  
-  const loginOverlay = document.getElementById("login-overlay");
-  if (loginOverlay) loginOverlay.style.display = "none";
-  
-  updateUserSessionUI();
-  renderHomeSections();
-  updateGlobalStats();
-
-  // 2. BACKGROUND ASYNC SUPABASE PROFILE & PROGRESS SYNC
-  Promise.race([
-    StorageAPI.getProfile(rawId).then(async (profile) => {
-      if (!profile) {
-        await StorageAPI.createProfile(rawId, name);
-      }
-    }),
-    new Promise(resolve => setTimeout(resolve, 2000))
-  ]).catch(e => console.warn("Background Supabase sync notice:", e));
-
-  try {
-    studentProgress = await Promise.race([
-      StorageAPI.loadStudentProgress(),
-      new Promise(resolve => setTimeout(() => resolve({}), 2000))
-    ]);
-    renderHomeSections();
-    updateGlobalStats();
-  } catch (e) {
-    studentProgress = {};
-  }
-}
-
-// Handle log out
-function handleLogout() {
-  localStorage.removeItem("edu_student_id");
-  localStorage.removeItem("edu_student_name");
-  
-  studentId = null;
-  studentName = null;
-  studentProgress = {};
-  
-  // Reset login inputs
-  const nameInput = document.getElementById("login-name-input");
-  const idInput = document.getElementById("login-id-input");
-  if (nameInput) nameInput.value = "";
-  if (idInput) idInput.value = "";
-  
-  // Show login overlay
-  const loginOverlay = document.getElementById("login-overlay");
-  if (loginOverlay) loginOverlay.style.display = "flex";
-  
-  // Update header UI
-  const headerName = document.getElementById("header-student-name");
-  const logoutBtn = document.getElementById("btn-logout");
-  if (headerName) headerName.textContent = "Mon Espace";
-  if (logoutBtn) logoutBtn.style.display = "none";
-  
-  // Reset view to home page
-  navigateToHome();
-}
 
 // Theme Toggle System
 function initTheme() {
@@ -188,26 +51,6 @@ function toggleTheme() {
 
 // Global Dashboard Metrics
 async function updateGlobalStats() {
-  if (!studentId) return;
-
-  // Update Total Progress
-  let totalChapters = 0;
-  let completedChapters = 0;
-
-  Object.keys(DEFAULT_CHAPTERS).forEach(subId => {
-    const total = DEFAULT_CHAPTERS[subId].length;
-    totalChapters += total;
-    const completed = (studentProgress[subId] || []).length;
-    completedChapters += completed;
-  });
-
-  const totalProgressPercent = totalChapters > 0 ? Math.round((completedChapters / totalChapters) * 100) : 0;
-  const totalProgressStat = document.getElementById("total-progress-stat");
-  if (totalProgressStat) {
-    totalProgressStat.textContent = `${totalProgressPercent}%`;
-  }
-
-  // Update Total File Count (Static files count)
   try {
     const count = await StorageAPI.getStudentFilesCount();
     const totalFilesStat = document.getElementById("total-files-stat");
@@ -231,10 +74,6 @@ function renderHomeSections() {
     card.style.setProperty("--accent-color", sec.color);
     card.style.setProperty("--bg-accent", sec.bgColor);
     
-    // Calculate total section progress
-    const progress = StorageAPI.getSectionProgress(sec.subjects, DEFAULT_CHAPTERS, studentProgress);
-
-    // Note: The credit lines (providedBy) are HIDDEN on homepage cards per user request
     card.innerHTML = `
       <div class="section-card-icon">${sec.icon}</div>
       <h3>${sec.name}</h3>
@@ -243,10 +82,6 @@ function renderHomeSections() {
         <div class="section-card-stat">
           <strong>${sec.subjects.length}</strong>
           <span>Matières</span>
-        </div>
-        <div class="section-card-stat">
-          <strong>${progress}%</strong>
-          <span>Progression</span>
         </div>
       </div>
     `;
@@ -406,8 +241,6 @@ function renderSectionBanner() {
   const badge = document.getElementById("section-badge-name");
   const title = document.getElementById("section-title-heading");
   const provided = document.getElementById("section-banner-provided-by");
-  const progressText = document.getElementById("section-progress-text");
-  const progressFill = document.getElementById("section-progress-fill");
 
   if (banner) {
     banner.style.setProperty("--accent-color", sec.color);
@@ -416,14 +249,9 @@ function renderSectionBanner() {
   if (badge) badge.textContent = `Filière`;
   if (title) title.textContent = sec.name;
   
-  // Note: Student name credits are displayed ONLY here after clicking on the section
   if (provided) {
     provided.textContent = sec.providedBy ? `Documents de : ${sec.providedBy}` : "";
   }
-
-  const progress = StorageAPI.getSectionProgress(sec.subjects, DEFAULT_CHAPTERS, studentProgress);
-  if (progressText) progressText.textContent = `${progress}%`;
-  if (progressFill) progressFill.style.width = `${progress}%`;
 }
 
 // 4. RENDER SUBJECTS GRID (SECTION VIEW)
@@ -441,22 +269,10 @@ function renderSectionSubjects() {
     card.style.setProperty("--accent-color", sec.color);
     card.style.setProperty("--bg-accent", sec.bgColor);
 
-    const chapters = DEFAULT_CHAPTERS[subject.id] || [];
-    const progress = StorageAPI.getSubjectProgress(subject.id, chapters, studentProgress);
-
     card.innerHTML = `
       <div class="subject-card-header">
         <div class="subject-emoji">${subject.icon}</div>
         <div class="subject-name">${subject.name}</div>
-      </div>
-      <div class="subject-card-progress">
-        <div class="subject-progress-lbl">
-          <span>Progression</span>
-          <span>${progress}%</span>
-        </div>
-        <div class="progress-bar-container">
-          <div class="progress-bar-fill" style="width: ${progress}%"></div>
-        </div>
       </div>
     `;
 
@@ -477,8 +293,6 @@ function renderSubjectBanner() {
   const banner = document.getElementById("subject-banner-theme");
   const badge = document.getElementById("subject-badge-section-name");
   const title = document.getElementById("subject-title-heading");
-  const progressText = document.getElementById("subject-progress-text");
-  const progressFill = document.getElementById("subject-progress-fill");
 
   if (banner) {
     banner.style.setProperty("--accent-color", sec.color);
@@ -488,25 +302,33 @@ function renderSubjectBanner() {
   if (title) {
     title.innerHTML = `<span id="subject-title-emoji">${activeSubject.icon}</span> ${activeSubject.name}`;
   }
-
-  const chapters = DEFAULT_CHAPTERS[activeSubject.id] || [];
-  const progress = StorageAPI.getSubjectProgress(activeSubject.id, chapters, studentProgress);
-  if (progressText) progressText.textContent = `${progress}%`;
-  if (progressFill) progressFill.style.width = `${progress}%`;
 }
 
-// 6. RENDER INLINE CHAPTERS CHECKLIST
+// Helper to get checked chapters for a subject from localStorage
+function getCheckedChapters(subjectId) {
+  try {
+    return JSON.parse(localStorage.getItem(`edu_checked_${subjectId}`) || "[]");
+  } catch (e) {
+    return [];
+  }
+}
+
+function setCheckedChapters(subjectId, list) {
+  try {
+    localStorage.setItem(`edu_checked_${subjectId}`, JSON.stringify(list));
+  } catch (e) {
+    console.error("Error saving checked chapters", e);
+  }
+}
+
+// 6. RENDER INLINE CHAPTERS CHECKLIST (Tracked locally per user browser)
 function renderSubjectChapters() {
   const listContainer = document.getElementById("subject-chapters-list");
   if (!listContainer || !activeSubject) return;
 
   listContainer.innerHTML = "";
   const chapters = DEFAULT_CHAPTERS[activeSubject.id] || [];
-  
-  if (!studentProgress[activeSubject.id]) {
-    studentProgress[activeSubject.id] = [];
-  }
-  const completed = studentProgress[activeSubject.id];
+  const completed = getCheckedChapters(activeSubject.id);
 
   if (chapters.length === 0) {
     listContainer.innerHTML = `<li class="no-files-placeholder"><h4>Aucun chapitre enregistré</h4><p>Pas de chapitre défini pour cette matière.</p></li>`;
@@ -523,27 +345,17 @@ function renderSubjectChapters() {
       <label class="chapter-label" for="ch-${chapter.replace(/\s+/g, '-')}">${chapter}</label>
     `;
 
-    // Toggle checklist and update Supabase
-    li.addEventListener("click", async () => {
-      const index = completed.indexOf(chapter);
+    // Toggle checklist in localStorage
+    li.addEventListener("click", () => {
+      const currentList = getCheckedChapters(activeSubject.id);
+      const index = currentList.indexOf(chapter);
       if (index > -1) {
-        completed.splice(index, 1);
+        currentList.splice(index, 1);
       } else {
-        completed.push(chapter);
+        currentList.push(chapter);
       }
-      
-      // Update locally
+      setCheckedChapters(activeSubject.id, currentList);
       renderSubjectChapters();
-      renderSubjectBanner();
-      
-      // Save asynchronously to Supabase
-      try {
-        await StorageAPI.updateSubjectProgress(activeSubject.id, completed);
-      } catch (err) {
-        console.error("Failed to sync progress to Supabase:", err);
-      }
-      
-      updateGlobalStats();
     });
 
     listContainer.appendChild(li);
