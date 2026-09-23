@@ -1,13 +1,3 @@
-// Global references from window scope
-const SECTIONS = window.SECTIONS;
-const DEFAULT_CHAPTERS = window.DEFAULT_CHAPTERS;
-const StorageAPI = window.StorageAPI;
-
-let currentSectionId = null;
-let activeSubject = null; // Currently selected subject object
-let activeFolder = "Tous"; // "Tous", "Cours", "Exercices", "Résumés"
-let globalSearchQuery = "";
-
 // Initialize App
 document.addEventListener("DOMContentLoaded", () => {
   initTheme();
@@ -18,6 +8,11 @@ document.addEventListener("DOMContentLoaded", () => {
   setupDuaaCarousel();
   setupModalOverlayEvents();
 });
+
+let currentSectionId = null;
+let activeSubject = null; // Currently selected subject object
+let activeFolder = "Tous"; // "Tous", "Cours", "Exercices", "Résumés"
+let globalSearchQuery = "";
 
 // Theme Toggle System
 function initTheme() {
@@ -52,7 +47,7 @@ function toggleTheme() {
 // Global Dashboard Metrics
 async function updateGlobalStats() {
   try {
-    const count = await StorageAPI.getStudentFilesCount();
+    const count = await window.StorageAPI.getStudentFilesCount();
     const totalFilesStat = document.getElementById("total-files-stat");
     if (totalFilesStat) {
       totalFilesStat.textContent = count;
@@ -68,7 +63,8 @@ function renderHomeSections() {
   if (!grid) return;
   grid.innerHTML = "";
 
-  Object.values(SECTIONS).forEach(sec => {
+  const sections = window.SECTIONS || {};
+  Object.values(sections).forEach(sec => {
     const card = document.createElement("div");
     card.className = "section-card";
     card.style.setProperty("--accent-color", sec.color);
@@ -216,7 +212,8 @@ function renderSidebarNav(containerId) {
   if (!sidebarNav) return;
   sidebarNav.innerHTML = "";
 
-  Object.values(SECTIONS).forEach(sec => {
+  const sections = window.SECTIONS || {};
+  Object.values(sections).forEach(sec => {
     const btn = document.createElement("button");
     btn.className = `sidebar-nav-item ${sec.id === currentSectionId ? 'active' : ''}`;
     btn.style.setProperty("--accent-color", sec.color);
@@ -234,7 +231,8 @@ function renderSidebarNav(containerId) {
 
 // 3. RENDER BANNER IN SECTION VIEW
 function renderSectionBanner() {
-  const sec = SECTIONS[currentSectionId];
+  const sections = window.SECTIONS || {};
+  const sec = sections[currentSectionId];
   if (!sec) return;
 
   const banner = document.getElementById("section-banner-theme");
@@ -256,7 +254,8 @@ function renderSectionBanner() {
 
 // 4. RENDER SUBJECTS GRID (SECTION VIEW)
 function renderSectionSubjects() {
-  const sec = SECTIONS[currentSectionId];
+  const sections = window.SECTIONS || {};
+  const sec = sections[currentSectionId];
   if (!sec) return;
 
   const grid = document.getElementById("subjects-grid");
@@ -287,7 +286,8 @@ function renderSectionSubjects() {
 
 // 5. RENDER SUBJECT DETAILS PAGE (SUBJECT VIEW)
 function renderSubjectBanner() {
-  const sec = SECTIONS[currentSectionId];
+  const sections = window.SECTIONS || {};
+  const sec = sections[currentSectionId];
   if (!sec || !activeSubject) return;
 
   const banner = document.getElementById("subject-banner-theme");
@@ -327,7 +327,8 @@ function renderSubjectChapters() {
   if (!listContainer || !activeSubject) return;
 
   listContainer.innerHTML = "";
-  const chapters = DEFAULT_CHAPTERS[activeSubject.id] || [];
+  const allChapters = window.DEFAULT_CHAPTERS || {};
+  const chapters = allChapters[activeSubject.id] || [];
   const completed = getCheckedChapters(activeSubject.id);
 
   if (chapters.length === 0) {
@@ -374,7 +375,7 @@ async function renderSubjectFiles() {
   pathLabel.textContent = `Dossier: ${activeFolder}`;
 
   try {
-    let files = await StorageAPI.getFiles(currentSectionId, activeSubject.id);
+    let files = await window.StorageAPI.getFiles(currentSectionId, activeSubject.id);
     
     // Apply Folder Filter
     if (activeFolder !== "Tous") {
@@ -407,13 +408,14 @@ async function renderSubjectFiles() {
     }
 
     const downloadedList = getDownloadedFiles();
+    const sections = window.SECTIONS || {};
+    const sec = sections[currentSectionId];
 
     files.forEach(file => {
       const isDownloaded = downloadedList.includes(file.id);
       const card = document.createElement("div");
       card.className = `file-card ${isDownloaded ? 'downloaded' : ''}`;
       
-      const sec = SECTIONS[currentSectionId];
       if (sec) {
         card.style.setProperty("--accent-color", sec.color);
         card.style.setProperty("--bg-accent", sec.bgColor);
