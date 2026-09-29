@@ -1,0 +1,20 @@
+{
+  "name": "bac-union",
+  "version": "1.0.0",
+  "description": "Plateforme gratuite de révision pour le Bac",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "test": "echo 'No tests configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "keywords": [
+    "bac",
+    "education",
+    "revision"
+  ],
+  "author": "",
+  "license": "ISC"
+}
