@@ -1,6 +1,17 @@
+// Global references from window scope
+const SECTIONS = window.SECTIONS;
+const DEFAULT_CHAPTERS = window.DEFAULT_CHAPTERS;
+const StorageAPI = window.StorageAPI;
+
+let currentSectionId = null;
+let activeSubject = null; // Currently selected subject object
+let activeFolder = "Tous"; // "Tous", "Cours", "Exercices", "Résumés"
+let globalSearchQuery = "";
+
 // Initialize App
 document.addEventListener("DOMContentLoaded", () => {
   initTheme();
+  updateGlobalStats(); // Instant render of total files count
   renderHomeSections(); // Instant render of section cards
   setupEventListeners();
   setupSubjectWorkspaceEvents();
@@ -8,11 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
   setupDuaaCarousel();
   setupModalOverlayEvents();
 });
-
-let currentSectionId = null;
-let activeSubject = null; // Currently selected subject object
-let activeFolder = "Tous"; // "Tous", "Cours", "Exercices", "Résumés"
-let globalSearchQuery = "";
 
 // Theme Toggle System
 function initTheme() {
@@ -47,7 +53,7 @@ function toggleTheme() {
 // Global Dashboard Metrics
 async function updateGlobalStats() {
   try {
-    const count = await window.StorageAPI.getStudentFilesCount();
+    const count = await StorageAPI.getStudentFilesCount();
     const totalFilesStat = document.getElementById("total-files-stat");
     if (totalFilesStat) {
       totalFilesStat.textContent = count;
@@ -63,8 +69,7 @@ function renderHomeSections() {
   if (!grid) return;
   grid.innerHTML = "";
 
-  const sections = window.SECTIONS || {};
-  Object.values(sections).forEach(sec => {
+  Object.values(SECTIONS).forEach(sec => {
     const card = document.createElement("div");
     card.className = "section-card";
     card.style.setProperty("--accent-color", sec.color);
@@ -212,8 +217,7 @@ function renderSidebarNav(containerId) {
   if (!sidebarNav) return;
   sidebarNav.innerHTML = "";
 
-  const sections = window.SECTIONS || {};
-  Object.values(sections).forEach(sec => {
+  Object.values(SECTIONS).forEach(sec => {
     const btn = document.createElement("button");
     btn.className = `sidebar-nav-item ${sec.id === currentSectionId ? 'active' : ''}`;
     btn.style.setProperty("--accent-color", sec.color);
@@ -231,8 +235,7 @@ function renderSidebarNav(containerId) {
 
 // 3. RENDER BANNER IN SECTION VIEW
 function renderSectionBanner() {
-  const sections = window.SECTIONS || {};
-  const sec = sections[currentSectionId];
+  const sec = SECTIONS[currentSectionId];
   if (!sec) return;
 
   const banner = document.getElementById("section-banner-theme");
@@ -245,7 +248,35 @@ function renderSectionBanner() {
     banner.style.setProperty("--bg-accent", sec.bgColor);
   }
   if (badge) badge.textContent = `Filière`;
-  if (title) title.textContent = sec.name;
+  
+  // Calculate total section progress (sum of completed chapters across all section subjects)
+  let totalChaptersCount = 0;
+  let totalCompletedCount = 0;
+
+  if (sec.subjects && Array.isArray(sec.subjects)) {
+    sec.subjects.forEach(subject => {
+      const chapters = DEFAULT_CHAPTERS[subject.id] || [];
+      const completed = getCheckedChapters(subject.id);
+      totalChaptersCount += chapters.length;
+      totalCompletedCount += completed.length;
+    });
+  }
+
+  const sectionPercent = totalChaptersCount > 0 ? Math.round((totalCompletedCount / totalChaptersCount) * 100) : 0;
+
+  if (title) {
+    title.innerHTML = `
+      <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.8rem; width: 100%;">
+        <span>${sec.name}</span>
+        ${totalChaptersCount > 0 ? `
+          <div style="display: inline-flex; align-items: center; gap: 0.6rem; padding: 0.4rem 0.9rem; background: rgba(255,255,255,0.15); backdrop-filter: blur(8px); border-radius: 20px; font-size: 0.95rem; font-weight: 600; color: #fff;">
+            <span>📈 Progression section :</span>
+            <span style="color: #4ade80;">${totalCompletedCount}/${totalChaptersCount} (${sectionPercent}%)</span>
+          </div>
+        ` : ''}
+      </div>
+    `;
+  }
   
   if (provided) {
     provided.textContent = sec.providedBy ? `Documents de : ${sec.providedBy}` : "";
@@ -254,8 +285,7 @@ function renderSectionBanner() {
 
 // 4. RENDER SUBJECTS GRID (SECTION VIEW)
 function renderSectionSubjects() {
-  const sections = window.SECTIONS || {};
-  const sec = sections[currentSectionId];
+  const sec = SECTIONS[currentSectionId];
   if (!sec) return;
 
   const grid = document.getElementById("subjects-grid");
@@ -268,11 +298,28 @@ function renderSectionSubjects() {
     card.style.setProperty("--accent-color", sec.color);
     card.style.setProperty("--bg-accent", sec.bgColor);
 
+    // Calculate progression for this subject
+    const chapters = DEFAULT_CHAPTERS[subject.id] || [];
+    const completed = getCheckedChapters(subject.id);
+    const percent = chapters.length > 0 ? Math.round((completed.length / chapters.length) * 100) : 0;
+    const progressText = chapters.length > 0 ? `${completed.length}/${chapters.length} (${percent}%)` : '';
+
     card.innerHTML = `
       <div class="subject-card-header">
         <div class="subject-emoji">${subject.icon}</div>
         <div class="subject-name">${subject.name}</div>
       </div>
+      ${chapters.length > 0 ? `
+        <div class="subject-card-progress" style="margin-top: 0.8rem; width: 100%;">
+          <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.78rem; font-weight: 600; color: var(--text-secondary, #666); margin-bottom: 0.3rem;">
+            <span>Progression</span>
+            <span style="color: var(--accent-color, #4f46e5);">${progressText}</span>
+          </div>
+          <div style="width: 100%; height: 6px; background: rgba(0,0,0,0.08); border-radius: 3px; overflow: hidden;">
+            <div style="width: ${percent}%; height: 100%; background: var(--accent-color, #4f46e5); transition: width 0.3s ease;"></div>
+          </div>
+        </div>
+      ` : ''}
     `;
 
     // Click subject card -> Go to Subject View
@@ -286,8 +333,7 @@ function renderSectionSubjects() {
 
 // 5. RENDER SUBJECT DETAILS PAGE (SUBJECT VIEW)
 function renderSubjectBanner() {
-  const sections = window.SECTIONS || {};
-  const sec = sections[currentSectionId];
+  const sec = SECTIONS[currentSectionId];
   if (!sec || !activeSubject) return;
 
   const banner = document.getElementById("subject-banner-theme");
@@ -327,14 +373,30 @@ function renderSubjectChapters() {
   if (!listContainer || !activeSubject) return;
 
   listContainer.innerHTML = "";
-  const allChapters = window.DEFAULT_CHAPTERS || {};
-  const chapters = allChapters[activeSubject.id] || [];
+  const chapters = DEFAULT_CHAPTERS[activeSubject.id] || [];
   const completed = getCheckedChapters(activeSubject.id);
 
   if (chapters.length === 0) {
     listContainer.innerHTML = `<li class="no-files-placeholder"><h4>Aucun chapitre enregistré</h4><p>Pas de chapitre défini pour cette matière.</p></li>`;
     return;
   }
+
+  const percent = Math.round((completed.length / chapters.length) * 100);
+
+  // Render progress bar header
+  const progressHeader = document.createElement("div");
+  progressHeader.className = "checklist-progress-header";
+  progressHeader.style.cssText = "margin-bottom: 1rem; padding: 0.8rem 1rem; background: var(--bg-accent, rgba(79, 70, 229, 0.08)); border-radius: 10px;";
+  progressHeader.innerHTML = `
+    <div style="display: flex; justify-content: space-between; align-items: center; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.4rem;">
+      <span>Progression de la matière</span>
+      <span style="color: var(--accent-color, #4f46e5);">${completed.length} / ${chapters.length} (${percent}%)</span>
+    </div>
+    <div style="width: 100%; height: 8px; background: rgba(0,0,0,0.1); border-radius: 4px; overflow: hidden;">
+      <div style="width: ${percent}%; height: 100%; background: var(--accent-color, #4f46e5); transition: width 0.3s ease;"></div>
+    </div>
+  `;
+  listContainer.appendChild(progressHeader);
 
   chapters.forEach(chapter => {
     const isCompleted = completed.includes(chapter);
@@ -375,7 +437,7 @@ async function renderSubjectFiles() {
   pathLabel.textContent = `Dossier: ${activeFolder}`;
 
   try {
-    let files = await window.StorageAPI.getFiles(currentSectionId, activeSubject.id);
+    let files = await StorageAPI.getFiles(currentSectionId, activeSubject.id);
     
     // Apply Folder Filter
     if (activeFolder !== "Tous") {
@@ -408,14 +470,13 @@ async function renderSubjectFiles() {
     }
 
     const downloadedList = getDownloadedFiles();
-    const sections = window.SECTIONS || {};
-    const sec = sections[currentSectionId];
 
     files.forEach(file => {
       const isDownloaded = downloadedList.includes(file.id);
       const card = document.createElement("div");
       card.className = `file-card ${isDownloaded ? 'downloaded' : ''}`;
       
+      const sec = SECTIONS[currentSectionId];
       if (sec) {
         card.style.setProperty("--accent-color", sec.color);
         card.style.setProperty("--bg-accent", sec.bgColor);

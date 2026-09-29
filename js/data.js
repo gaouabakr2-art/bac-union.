@@ -3,7 +3,7 @@ window.SECTIONS = {
   informatique: {
     id: "informatique",
     name: "Informatique",
-    providedBy: "Adem Gaoua (2ème national)",
+    providedBy: "Adem Gaoua (2ème national) / Ranim Hammami /Gaith Homrani(prof info)",
     color: "var(--color-informatique)",
     colorDark: "var(--color-informatique-dark)",
     bgColor: "var(--bg-informatique)",
@@ -17,7 +17,8 @@ window.SECTIONS = {
       { id: "francais", name: "Français", icon: "🇫🇷" },
       { id: "philosophie", name: "Philosophie", icon: "💭" },
       { id: "espagnol", name: "Espagnol", icon: "🇪🇸" },
-      { id: "arabe", name: "Arabe", icon: "🇸🇾" }
+      { id: "arabe", name: "Arabe", icon: "🇸🇾" },
+      { id: "italien", name: "Italien", icon: "🇮🇹" }
     ]
   },
   science: {
@@ -44,7 +45,7 @@ window.SECTIONS = {
   technique: {
     id: "technique",
     name: "Technique",
-    providedBy: "Ghassen Ghazouani / Youssef Mokni",
+    providedBy: "Ghassen Ghazouani / Youssef Mokni //Mariem Ben Kaid / Zakaria Ayachi / Rayen Fitouri ",
     color: "var(--color-technique)",
     colorDark: "var(--color-technique-dark)",
     bgColor: "var(--bg-technique)",
