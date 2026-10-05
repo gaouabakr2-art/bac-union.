@@ -5965,48 +5965,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_2a0870abb06e4010f96e502b52c1c820",
-    "name": "MASSENMEDIEN(vocab).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1lOnCqUaxPwITojaTUetvhU9tVjNGa8LH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1lOnCqUaxPwITojaTUetvhU9tVjNGa8LH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1lOnCqUaxPwITojaTUetvhU9tVjNGa8LH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1lOnCqUaxPwITojaTUetvhU9tVjNGa8LH",
-    "driveId": "1lOnCqUaxPwITojaTUetvhU9tVjNGa8LH",
-    "section": "math",
-    "subject": "allemand",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_2f305dc5fcfe519d06a5188c76badb55",
-    "name": "MASSENMEDIEN.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1FdbOb3WJySpHJ9YMkvFD3AlFZCCITXeF/preview",
-    "previewUrl": "https://drive.google.com/file/d/1FdbOb3WJySpHJ9YMkvFD3AlFZCCITXeF/preview",
-    "viewUrl": "https://drive.google.com/file/d/1FdbOb3WJySpHJ9YMkvFD3AlFZCCITXeF/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1FdbOb3WJySpHJ9YMkvFD3AlFZCCITXeF",
-    "driveId": "1FdbOb3WJySpHJ9YMkvFD3AlFZCCITXeF",
-    "section": "math",
-    "subject": "allemand",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_d1103f19d96f6b521f60b6570fef4750",
-    "name": "Paragrafen und ideen.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1wGIltzPuhTKm_ow0fy9CiYuyE1ZhB0-N/preview",
-    "previewUrl": "https://drive.google.com/file/d/1wGIltzPuhTKm_ow0fy9CiYuyE1ZhB0-N/preview",
-    "viewUrl": "https://drive.google.com/file/d/1wGIltzPuhTKm_ow0fy9CiYuyE1ZhB0-N/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1wGIltzPuhTKm_ow0fy9CiYuyE1ZhB0-N",
-    "driveId": "1wGIltzPuhTKm_ow0fy9CiYuyE1ZhB0-N",
-    "section": "math",
-    "subject": "allemand",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_a00105d1771a17591baa6969bba43a4c",
     "name": "Paragraphes toute l_année.pdf",
     "type": "application/pdf",
@@ -6102,20 +6060,6 @@ window.PRELOADED_FILES = [
     "driveId": "15D2tuvo09z7scu2RKv2nRkKrwQhHq5Mo",
     "section": "math",
     "subject": "allemand",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_79d7166172f2bd4ed1bd3b5f962b1d6a",
-    "name": "arabe miniar.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1uC8hvxrHXCT-LUNFoXVM8gwZUhE0Mzh0/preview",
-    "previewUrl": "https://drive.google.com/file/d/1uC8hvxrHXCT-LUNFoXVM8gwZUhE0Mzh0/preview",
-    "viewUrl": "https://drive.google.com/file/d/1uC8hvxrHXCT-LUNFoXVM8gwZUhE0Mzh0/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1uC8hvxrHXCT-LUNFoXVM8gwZUhE0Mzh0",
-    "driveId": "1uC8hvxrHXCT-LUNFoXVM8gwZUhE0Mzh0",
-    "section": "math",
-    "subject": "arabe",
     "folder": "Cours"
   },
   {
@@ -6609,20 +6553,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_0d5bd579d6048175b619dc84292cea43",
-    "name": "ملخصات-المحاور (mme miniar).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1TJ5L5gB9Qr58jMjxm6DwKWMjbUYLfxHz/preview",
-    "previewUrl": "https://drive.google.com/file/d/1TJ5L5gB9Qr58jMjxm6DwKWMjbUYLfxHz/preview",
-    "viewUrl": "https://drive.google.com/file/d/1TJ5L5gB9Qr58jMjxm6DwKWMjbUYLfxHz/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1TJ5L5gB9Qr58jMjxm6DwKWMjbUYLfxHz",
-    "driveId": "1TJ5L5gB9Qr58jMjxm6DwKWMjbUYLfxHz",
-    "section": "math",
-    "subject": "arabe",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_37e39d1995e237f6f35f41ffcb60d089",
     "name": "نماذج بكالوريا-المحور 2 mme miniar).pdf",
     "type": "application/pdf",
@@ -6744,48 +6674,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1krxzLrdIyrgG8moFY1gB0THKvgRwmh2d/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1krxzLrdIyrgG8moFY1gB0THKvgRwmh2d",
     "driveId": "1krxzLrdIyrgG8moFY1gB0THKvgRwmh2d",
-    "section": "math",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_8278ce6fd25c80b16f6ceaae344164d5",
-    "name": "CORRECTION DE QUELQUES EXERCICES Série  C Ka et Kb 2024.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1lXRECcj0vXhRul9DrUSez2wgQBjoQLgf/preview",
-    "previewUrl": "https://drive.google.com/file/d/1lXRECcj0vXhRul9DrUSez2wgQBjoQLgf/preview",
-    "viewUrl": "https://drive.google.com/file/d/1lXRECcj0vXhRul9DrUSez2wgQBjoQLgf/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1lXRECcj0vXhRul9DrUSez2wgQBjoQLgf",
-    "driveId": "1lXRECcj0vXhRul9DrUSez2wgQBjoQLgf",
-    "section": "math",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_7e6a10195d767ac380ed6e41dacb7ed3",
-    "name": "CORRECTION DES EXERCICES Ka et Kb (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1BRjnX9JIDtm9SFWaQLG6aQ1Evuk7IPDC/preview",
-    "previewUrl": "https://drive.google.com/file/d/1BRjnX9JIDtm9SFWaQLG6aQ1Evuk7IPDC/preview",
-    "viewUrl": "https://drive.google.com/file/d/1BRjnX9JIDtm9SFWaQLG6aQ1Evuk7IPDC/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1BRjnX9JIDtm9SFWaQLG6aQ1Evuk7IPDC",
-    "driveId": "1BRjnX9JIDtm9SFWaQLG6aQ1Evuk7IPDC",
-    "section": "math",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_0ed4ef36c11083019c6e6a8f7fe1ab7d",
-    "name": "correction pile12 2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/14gXsPcC0zhy9msexAaP73al_2h9Fygq-/preview",
-    "previewUrl": "https://drive.google.com/file/d/14gXsPcC0zhy9msexAaP73al_2h9Fygq-/preview",
-    "viewUrl": "https://drive.google.com/file/d/14gXsPcC0zhy9msexAaP73al_2h9Fygq-/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=14gXsPcC0zhy9msexAaP73al_2h9Fygq-",
-    "driveId": "14gXsPcC0zhy9msexAaP73al_2h9Fygq-",
     "section": "math",
     "subject": "chimiesvt",
     "folder": "Exercices"
@@ -6982,48 +6870,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1qKb7WTdpClXWFHQaVIzxkSdc4BNPPGHw/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1qKb7WTdpClXWFHQaVIzxkSdc4BNPPGHw",
     "driveId": "1qKb7WTdpClXWFHQaVIzxkSdc4BNPPGHw",
-    "section": "math",
-    "subject": "chimiesvt",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_befcdabebd043ce5ce5078ab202cd733",
-    "name": "pile-2.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1VKPJv8DU-uYoXxQRR9OLDMamIDZm7okC/preview",
-    "previewUrl": "https://drive.google.com/file/d/1VKPJv8DU-uYoXxQRR9OLDMamIDZm7okC/preview",
-    "viewUrl": "https://drive.google.com/file/d/1VKPJv8DU-uYoXxQRR9OLDMamIDZm7okC/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1VKPJv8DU-uYoXxQRR9OLDMamIDZm7okC",
-    "driveId": "1VKPJv8DU-uYoXxQRR9OLDMamIDZm7okC",
-    "section": "math",
-    "subject": "chimiesvt",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_de23444c6640f734714ce4d72eda3c5b",
-    "name": "pile-alcaline.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1xoLjbyl0z2pns4Npy3yicig_4IgV9N4F/preview",
-    "previewUrl": "https://drive.google.com/file/d/1xoLjbyl0z2pns4Npy3yicig_4IgV9N4F/preview",
-    "viewUrl": "https://drive.google.com/file/d/1xoLjbyl0z2pns4Npy3yicig_4IgV9N4F/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1xoLjbyl0z2pns4Npy3yicig_4IgV9N4F",
-    "driveId": "1xoLjbyl0z2pns4Npy3yicig_4IgV9N4F",
-    "section": "math",
-    "subject": "chimiesvt",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_0d3064ffe7597f68c8b5f0fcf4b9df09",
-    "name": "pile.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1_KzVCxdcXbXHFHlR4WnaM-NhaaYlP274/preview",
-    "previewUrl": "https://drive.google.com/file/d/1_KzVCxdcXbXHFHlR4WnaM-NhaaYlP274/preview",
-    "viewUrl": "https://drive.google.com/file/d/1_KzVCxdcXbXHFHlR4WnaM-NhaaYlP274/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1_KzVCxdcXbXHFHlR4WnaM-NhaaYlP274",
-    "driveId": "1_KzVCxdcXbXHFHlR4WnaM-NhaaYlP274",
     "section": "math",
     "subject": "chimiesvt",
     "folder": "Cours"
@@ -7346,20 +7192,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1qE4trf-wp1PW7_C2JiaVaA6Dd5jXBs6j/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1qE4trf-wp1PW7_C2JiaVaA6Dd5jXBs6j",
     "driveId": "1qE4trf-wp1PW7_C2JiaVaA6Dd5jXBs6j",
-    "section": "math",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_baa00595f2de80bbf26e816531083015",
-    "name": "Série 6 ka et kb 2023.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Fm0VK_PT8w9f_fZheXkBptbHf2JijGP0/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Fm0VK_PT8w9f_fZheXkBptbHf2JijGP0/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Fm0VK_PT8w9f_fZheXkBptbHf2JijGP0/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Fm0VK_PT8w9f_fZheXkBptbHf2JijGP0",
-    "driveId": "1Fm0VK_PT8w9f_fZheXkBptbHf2JijGP0",
     "section": "math",
     "subject": "chimiesvt",
     "folder": "Exercices"
@@ -7967,20 +7799,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_dccc89ac3023e512dbce81a24dbd8462",
-    "name": "Unit-4-Key-March-2024.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1xYW7mJdy_OwSCBIbQmCtcxTZByYyVuMZ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1xYW7mJdy_OwSCBIbQmCtcxTZByYyVuMZ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1xYW7mJdy_OwSCBIbQmCtcxTZByYyVuMZ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1xYW7mJdy_OwSCBIbQmCtcxTZByYyVuMZ",
-    "driveId": "1xYW7mJdy_OwSCBIbQmCtcxTZByYyVuMZ",
-    "section": "math",
-    "subject": "anglais",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_f40214457d29d2fe1a1b840943fb70f6",
     "name": "Words under the spotlight.pdf",
     "type": "application/pdf",
@@ -8415,20 +8233,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_7b8af70c8e9b32502e2646c46dd6c704",
-    "name": "r3-corrigé.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1fkIuV8MNcFbPNbSFXeH14BBr7Js00TgM/preview",
-    "previewUrl": "https://drive.google.com/file/d/1fkIuV8MNcFbPNbSFXeH14BBr7Js00TgM/preview",
-    "viewUrl": "https://drive.google.com/file/d/1fkIuV8MNcFbPNbSFXeH14BBr7Js00TgM/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1fkIuV8MNcFbPNbSFXeH14BBr7Js00TgM",
-    "driveId": "1fkIuV8MNcFbPNbSFXeH14BBr7Js00TgM",
-    "section": "math",
-    "subject": "info",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_e7cc55823fc6201cdf77ddeec026c57c",
     "name": "r3.pdf",
     "type": "application/pdf",
@@ -8569,20 +8373,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_e7ee0a6201e185d3e23d7d451b32c988",
-    "name": "série-sous-programms-1-corrigé.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1qIDRI3SW5RFAdjO5gxPzRZrBzjuyQdOD/preview",
-    "previewUrl": "https://drive.google.com/file/d/1qIDRI3SW5RFAdjO5gxPzRZrBzjuyQdOD/preview",
-    "viewUrl": "https://drive.google.com/file/d/1qIDRI3SW5RFAdjO5gxPzRZrBzjuyQdOD/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1qIDRI3SW5RFAdjO5gxPzRZrBzjuyQdOD",
-    "driveId": "1qIDRI3SW5RFAdjO5gxPzRZrBzjuyQdOD",
-    "section": "math",
-    "subject": "info",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_58c3cfc1bfac4c5c7b2d16ca7ee50334",
     "name": "série-sous-programms-1.pdf",
     "type": "application/pdf",
@@ -8665,510 +8455,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "mathsM",
     "folder": "Exercices"
-  },
-  {
-    "id": "preload_5635ec23fc0a0caad11adb139d8f2043",
-    "name": "Beamer-déplacement-partie-1.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1_X84GS-MVHt3aNtPLpUc8o8Dy8QVh8aL/preview",
-    "previewUrl": "https://drive.google.com/file/d/1_X84GS-MVHt3aNtPLpUc8o8Dy8QVh8aL/preview",
-    "viewUrl": "https://drive.google.com/file/d/1_X84GS-MVHt3aNtPLpUc8o8Dy8QVh8aL/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1_X84GS-MVHt3aNtPLpUc8o8Dy8QVh8aL",
-    "driveId": "1_X84GS-MVHt3aNtPLpUc8o8Dy8QVh8aL",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_09fa33fc446446b1431d1a7520476fc1",
-    "name": "Beamer-déplacement-partie-2.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1NIbtbUq6SXmS8B19z6VJkxwsE4gpKkOH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1NIbtbUq6SXmS8B19z6VJkxwsE4gpKkOH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1NIbtbUq6SXmS8B19z6VJkxwsE4gpKkOH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1NIbtbUq6SXmS8B19z6VJkxwsE4gpKkOH",
-    "driveId": "1NIbtbUq6SXmS8B19z6VJkxwsE4gpKkOH",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_84e486a0d103cf947fdeaab817519671",
-    "name": "Beamer-déplacement-partie-3.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1lMbjrKKkZlDMvhbNDG29qHU9_wXpQh-S/preview",
-    "previewUrl": "https://drive.google.com/file/d/1lMbjrKKkZlDMvhbNDG29qHU9_wXpQh-S/preview",
-    "viewUrl": "https://drive.google.com/file/d/1lMbjrKKkZlDMvhbNDG29qHU9_wXpQh-S/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1lMbjrKKkZlDMvhbNDG29qHU9_wXpQh-S",
-    "driveId": "1lMbjrKKkZlDMvhbNDG29qHU9_wXpQh-S",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_f3e90c86f2aebea9ceda3ee3a4ede70e",
-    "name": "Beamer-Dérivabilité-1.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1HZg0xcOfKJgsEhE8MVtq6YwdrkSuUJvo/preview",
-    "previewUrl": "https://drive.google.com/file/d/1HZg0xcOfKJgsEhE8MVtq6YwdrkSuUJvo/preview",
-    "viewUrl": "https://drive.google.com/file/d/1HZg0xcOfKJgsEhE8MVtq6YwdrkSuUJvo/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1HZg0xcOfKJgsEhE8MVtq6YwdrkSuUJvo",
-    "driveId": "1HZg0xcOfKJgsEhE8MVtq6YwdrkSuUJvo",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_1722e71ef5f78e33437c6eb5c49f85c6",
-    "name": "Beamer-Dérivabilité-2.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/196u4Jn65rCmJFqAo67rQpDdEJq2t8-i7/preview",
-    "previewUrl": "https://drive.google.com/file/d/196u4Jn65rCmJFqAo67rQpDdEJq2t8-i7/preview",
-    "viewUrl": "https://drive.google.com/file/d/196u4Jn65rCmJFqAo67rQpDdEJq2t8-i7/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=196u4Jn65rCmJFqAo67rQpDdEJq2t8-i7",
-    "driveId": "196u4Jn65rCmJFqAo67rQpDdEJq2t8-i7",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_a406f7e1fcfa2ba659497a2ae03fda71",
-    "name": "Beamer-Dérivabilité-3.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Lk77S-bR2xEE4oBBGPp9U47VXxZsTNoN/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Lk77S-bR2xEE4oBBGPp9U47VXxZsTNoN/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Lk77S-bR2xEE4oBBGPp9U47VXxZsTNoN/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Lk77S-bR2xEE4oBBGPp9U47VXxZsTNoN",
-    "driveId": "1Lk77S-bR2xEE4oBBGPp9U47VXxZsTNoN",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_c41a245158457157efe8e277658007f2",
-    "name": "Beamer-Fonction-réciproque-1.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/162qrI7Z70J6HRjIa78oKEKlpq8kO5ay3/preview",
-    "previewUrl": "https://drive.google.com/file/d/162qrI7Z70J6HRjIa78oKEKlpq8kO5ay3/preview",
-    "viewUrl": "https://drive.google.com/file/d/162qrI7Z70J6HRjIa78oKEKlpq8kO5ay3/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=162qrI7Z70J6HRjIa78oKEKlpq8kO5ay3",
-    "driveId": "162qrI7Z70J6HRjIa78oKEKlpq8kO5ay3",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_318649845aa2cd4fc022b068a2773df0",
-    "name": "Beamer-Fonction-réciproque-2.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1V8TwjFPygGbE5jHI2X1GPdqv8OF80nGP/preview",
-    "previewUrl": "https://drive.google.com/file/d/1V8TwjFPygGbE5jHI2X1GPdqv8OF80nGP/preview",
-    "viewUrl": "https://drive.google.com/file/d/1V8TwjFPygGbE5jHI2X1GPdqv8OF80nGP/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1V8TwjFPygGbE5jHI2X1GPdqv8OF80nGP",
-    "driveId": "1V8TwjFPygGbE5jHI2X1GPdqv8OF80nGP",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_04fad87575e7be1fba427e5acc0c23cf",
-    "name": "Beamer-integrale-1ere-partie.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Wiy-pqvx9N97QbvXVnuND7Ie-7sNt1UH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Wiy-pqvx9N97QbvXVnuND7Ie-7sNt1UH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Wiy-pqvx9N97QbvXVnuND7Ie-7sNt1UH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Wiy-pqvx9N97QbvXVnuND7Ie-7sNt1UH",
-    "driveId": "1Wiy-pqvx9N97QbvXVnuND7Ie-7sNt1UH",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_293b59daa165139ac4b92d99d6bc68d9",
-    "name": "Beamer-integrale-2ere-partie (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1dzaz71Eek2cWQ_wT3y8w2o2fTj0iCd2v/preview",
-    "previewUrl": "https://drive.google.com/file/d/1dzaz71Eek2cWQ_wT3y8w2o2fTj0iCd2v/preview",
-    "viewUrl": "https://drive.google.com/file/d/1dzaz71Eek2cWQ_wT3y8w2o2fTj0iCd2v/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1dzaz71Eek2cWQ_wT3y8w2o2fTj0iCd2v",
-    "driveId": "1dzaz71Eek2cWQ_wT3y8w2o2fTj0iCd2v",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_b190c8df285654ecab727975ffc344d4",
-    "name": "Beamer-integrale-3eme-partie (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1AExT6R5s4PdLtvl4DFz3jm4wX_MlYSY_/preview",
-    "previewUrl": "https://drive.google.com/file/d/1AExT6R5s4PdLtvl4DFz3jm4wX_MlYSY_/preview",
-    "viewUrl": "https://drive.google.com/file/d/1AExT6R5s4PdLtvl4DFz3jm4wX_MlYSY_/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1AExT6R5s4PdLtvl4DFz3jm4wX_MlYSY_",
-    "driveId": "1AExT6R5s4PdLtvl4DFz3jm4wX_MlYSY_",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_3417d2b9575a7587e725f89d629f3115",
-    "name": "Beamer-Logarithme-1ere-partie.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1wEDcQyyb_lA4qkC-g6Z4Gz0X4DtQirl8/preview",
-    "previewUrl": "https://drive.google.com/file/d/1wEDcQyyb_lA4qkC-g6Z4Gz0X4DtQirl8/preview",
-    "viewUrl": "https://drive.google.com/file/d/1wEDcQyyb_lA4qkC-g6Z4Gz0X4DtQirl8/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1wEDcQyyb_lA4qkC-g6Z4Gz0X4DtQirl8",
-    "driveId": "1wEDcQyyb_lA4qkC-g6Z4Gz0X4DtQirl8",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_dd60d43306601936f22d240ea757de52",
-    "name": "Beamer-Logarithme-2eme-partie.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1tj_LAERDJnRulgh8ZdRGMaRT7efJ23BX/preview",
-    "previewUrl": "https://drive.google.com/file/d/1tj_LAERDJnRulgh8ZdRGMaRT7efJ23BX/preview",
-    "viewUrl": "https://drive.google.com/file/d/1tj_LAERDJnRulgh8ZdRGMaRT7efJ23BX/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tj_LAERDJnRulgh8ZdRGMaRT7efJ23BX",
-    "driveId": "1tj_LAERDJnRulgh8ZdRGMaRT7efJ23BX",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_cf1f36830c39f85fcd0a8a54c189110c",
-    "name": "Beamer-similitude-1ere-partie.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1GcP5t7lKDvsbHJPksZqCa-qnandOCu-U/preview",
-    "previewUrl": "https://drive.google.com/file/d/1GcP5t7lKDvsbHJPksZqCa-qnandOCu-U/preview",
-    "viewUrl": "https://drive.google.com/file/d/1GcP5t7lKDvsbHJPksZqCa-qnandOCu-U/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1GcP5t7lKDvsbHJPksZqCa-qnandOCu-U",
-    "driveId": "1GcP5t7lKDvsbHJPksZqCa-qnandOCu-U",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_801f51b8b7a9da625df03a38c0c491f8",
-    "name": "Beamer-similitude-2eme-partie.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1QinFIvlByT01RMXJkrBMWvEuD140b0pW/preview",
-    "previewUrl": "https://drive.google.com/file/d/1QinFIvlByT01RMXJkrBMWvEuD140b0pW/preview",
-    "viewUrl": "https://drive.google.com/file/d/1QinFIvlByT01RMXJkrBMWvEuD140b0pW/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1QinFIvlByT01RMXJkrBMWvEuD140b0pW",
-    "driveId": "1QinFIvlByT01RMXJkrBMWvEuD140b0pW",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_d85f98a993ca836866ec7d6b6179fdfb",
-    "name": "Beamer-Série-coniques (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1V8kiJ1b2wWembnCzOuH_zdjS5Uk7W8o2/preview",
-    "previewUrl": "https://drive.google.com/file/d/1V8kiJ1b2wWembnCzOuH_zdjS5Uk7W8o2/preview",
-    "viewUrl": "https://drive.google.com/file/d/1V8kiJ1b2wWembnCzOuH_zdjS5Uk7W8o2/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1V8kiJ1b2wWembnCzOuH_zdjS5Uk7W8o2",
-    "driveId": "1V8kiJ1b2wWembnCzOuH_zdjS5Uk7W8o2",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_93bed7e66a739339c67f73fe1d154da3",
-    "name": "Beamer-Série-identité-de-Bezout (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1h8oj64RSfnCZALDWK2vjr7MTJie0prpe/preview",
-    "previewUrl": "https://drive.google.com/file/d/1h8oj64RSfnCZALDWK2vjr7MTJie0prpe/preview",
-    "viewUrl": "https://drive.google.com/file/d/1h8oj64RSfnCZALDWK2vjr7MTJie0prpe/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1h8oj64RSfnCZALDWK2vjr7MTJie0prpe",
-    "driveId": "1h8oj64RSfnCZALDWK2vjr7MTJie0prpe",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_e59610d45d8be22ac00cf989416a9dbe",
-    "name": "Beamer-Série-statistique.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Y1wgnGvM5w5hAyvJE-izeDkZlj0Np_9n/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Y1wgnGvM5w5hAyvJE-izeDkZlj0Np_9n/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Y1wgnGvM5w5hAyvJE-izeDkZlj0Np_9n/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Y1wgnGvM5w5hAyvJE-izeDkZlj0Np_9n",
-    "driveId": "1Y1wgnGvM5w5hAyvJE-izeDkZlj0Np_9n",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_3151bd49d5fb29c27e7923a67462ae07",
-    "name": "Beamer-série-éspace.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1jSh7Ru8mRJqLeUIQJJqWVa8CmJ9zT2B0/preview",
-    "previewUrl": "https://drive.google.com/file/d/1jSh7Ru8mRJqLeUIQJJqWVa8CmJ9zT2B0/preview",
-    "viewUrl": "https://drive.google.com/file/d/1jSh7Ru8mRJqLeUIQJJqWVa8CmJ9zT2B0/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1jSh7Ru8mRJqLeUIQJJqWVa8CmJ9zT2B0",
-    "driveId": "1jSh7Ru8mRJqLeUIQJJqWVa8CmJ9zT2B0",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_9f3c465d595acaf57a947e853cdb4165",
-    "name": "Beamer-équation-diff-bac-math.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1uBhLeaoLh889koWHEq5R-wXTlSZtKF65/preview",
-    "previewUrl": "https://drive.google.com/file/d/1uBhLeaoLh889koWHEq5R-wXTlSZtKF65/preview",
-    "viewUrl": "https://drive.google.com/file/d/1uBhLeaoLh889koWHEq5R-wXTlSZtKF65/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1uBhLeaoLh889koWHEq5R-wXTlSZtKF65",
-    "driveId": "1uBhLeaoLh889koWHEq5R-wXTlSZtKF65",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_30510e3c37ef2a0e2e26602c6c4e8249",
-    "name": "Bemer-Equations-complexes-1-2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1XqYau2Dn0Lq_1GwuGyTca3_yvgDRZDFS/preview",
-    "previewUrl": "https://drive.google.com/file/d/1XqYau2Dn0Lq_1GwuGyTca3_yvgDRZDFS/preview",
-    "viewUrl": "https://drive.google.com/file/d/1XqYau2Dn0Lq_1GwuGyTca3_yvgDRZDFS/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1XqYau2Dn0Lq_1GwuGyTca3_yvgDRZDFS",
-    "driveId": "1XqYau2Dn0Lq_1GwuGyTca3_yvgDRZDFS",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_fa818a24de781e233d6e5fa4a7963e81",
-    "name": "Bemer-Equations-complexes-2-2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1z6pGzK7ymxqDyRIsqgIFeU79ippEUvqi/preview",
-    "previewUrl": "https://drive.google.com/file/d/1z6pGzK7ymxqDyRIsqgIFeU79ippEUvqi/preview",
-    "viewUrl": "https://drive.google.com/file/d/1z6pGzK7ymxqDyRIsqgIFeU79ippEUvqi/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1z6pGzK7ymxqDyRIsqgIFeU79ippEUvqi",
-    "driveId": "1z6pGzK7ymxqDyRIsqgIFeU79ippEUvqi",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_28f753896223d45c9d9710af07bb572a",
-    "name": "Bemer-Isométrie.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1iKzL3nrlZycg2GiNqOcqE2W_AMu0SB-l/preview",
-    "previewUrl": "https://drive.google.com/file/d/1iKzL3nrlZycg2GiNqOcqE2W_AMu0SB-l/preview",
-    "viewUrl": "https://drive.google.com/file/d/1iKzL3nrlZycg2GiNqOcqE2W_AMu0SB-l/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1iKzL3nrlZycg2GiNqOcqE2W_AMu0SB-l",
-    "driveId": "1iKzL3nrlZycg2GiNqOcqE2W_AMu0SB-l",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_c8d3d11946c327f04c1709b430b66318",
-    "name": "Bemer-limite-et-continuité-1er-partie (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1E-HDwlh0UAs_SmtkafQ6KnbutMO7tw8K/preview",
-    "previewUrl": "https://drive.google.com/file/d/1E-HDwlh0UAs_SmtkafQ6KnbutMO7tw8K/preview",
-    "viewUrl": "https://drive.google.com/file/d/1E-HDwlh0UAs_SmtkafQ6KnbutMO7tw8K/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1E-HDwlh0UAs_SmtkafQ6KnbutMO7tw8K",
-    "driveId": "1E-HDwlh0UAs_SmtkafQ6KnbutMO7tw8K",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_0ff21cf56305c6ae14d301673c1cecc7",
-    "name": "Bemer-limite-et-continuité-1er-partie.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1-d7uG6J4xrd-nhEU0RaOUH4lYBm-I_qL/preview",
-    "previewUrl": "https://drive.google.com/file/d/1-d7uG6J4xrd-nhEU0RaOUH4lYBm-I_qL/preview",
-    "viewUrl": "https://drive.google.com/file/d/1-d7uG6J4xrd-nhEU0RaOUH4lYBm-I_qL/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1-d7uG6J4xrd-nhEU0RaOUH4lYBm-I_qL",
-    "driveId": "1-d7uG6J4xrd-nhEU0RaOUH4lYBm-I_qL",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_f4270a3608f83c8033d27ef6a04c3408",
-    "name": "Bemer-limite-et-continuité-2eme-partie (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1qG8haYAMv1hQu-7_RRNs6CjdL2zg8e1m/preview",
-    "previewUrl": "https://drive.google.com/file/d/1qG8haYAMv1hQu-7_RRNs6CjdL2zg8e1m/preview",
-    "viewUrl": "https://drive.google.com/file/d/1qG8haYAMv1hQu-7_RRNs6CjdL2zg8e1m/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1qG8haYAMv1hQu-7_RRNs6CjdL2zg8e1m",
-    "driveId": "1qG8haYAMv1hQu-7_RRNs6CjdL2zg8e1m",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_279f148e917f02e85b938745ca366dd1",
-    "name": "Bemer-nombres-complexes-partie-1-2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1b5AQSbfyC3bpKW9KPLBH-N_cZ4meV-sC/preview",
-    "previewUrl": "https://drive.google.com/file/d/1b5AQSbfyC3bpKW9KPLBH-N_cZ4meV-sC/preview",
-    "viewUrl": "https://drive.google.com/file/d/1b5AQSbfyC3bpKW9KPLBH-N_cZ4meV-sC/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1b5AQSbfyC3bpKW9KPLBH-N_cZ4meV-sC",
-    "driveId": "1b5AQSbfyC3bpKW9KPLBH-N_cZ4meV-sC",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_983e598b4c67dbdcbe84c30d044b622f",
-    "name": "Bemer-nombres-complexes-partie-2-2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1KlTFgbaXVk0w6Ulw_iJQUdAtlsap0k8y/preview",
-    "previewUrl": "https://drive.google.com/file/d/1KlTFgbaXVk0w6Ulw_iJQUdAtlsap0k8y/preview",
-    "viewUrl": "https://drive.google.com/file/d/1KlTFgbaXVk0w6Ulw_iJQUdAtlsap0k8y/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1KlTFgbaXVk0w6Ulw_iJQUdAtlsap0k8y",
-    "driveId": "1KlTFgbaXVk0w6Ulw_iJQUdAtlsap0k8y",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_069947e566a4c481a569ac2319fdbbfd",
-    "name": "Bemer-nombres-complexes-partie-3-2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1U5LN25OwHq04eFwyALu7KU4YBtzRxFmo/preview",
-    "previewUrl": "https://drive.google.com/file/d/1U5LN25OwHq04eFwyALu7KU4YBtzRxFmo/preview",
-    "viewUrl": "https://drive.google.com/file/d/1U5LN25OwHq04eFwyALu7KU4YBtzRxFmo/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1U5LN25OwHq04eFwyALu7KU4YBtzRxFmo",
-    "driveId": "1U5LN25OwHq04eFwyALu7KU4YBtzRxFmo",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_835a732d2b015a2aeb65e6cf5defbaad",
-    "name": "Bemer-Probabilité-conditonelle.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1rkkFoKNeWsOU19SXrsaOar5thK4wyekW/preview",
-    "previewUrl": "https://drive.google.com/file/d/1rkkFoKNeWsOU19SXrsaOar5thK4wyekW/preview",
-    "viewUrl": "https://drive.google.com/file/d/1rkkFoKNeWsOU19SXrsaOar5thK4wyekW/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1rkkFoKNeWsOU19SXrsaOar5thK4wyekW",
-    "driveId": "1rkkFoKNeWsOU19SXrsaOar5thK4wyekW",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_48880a81f7f1e34dd2992b755ad7aad2",
-    "name": "Bemer-probabilité-continue.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1F7zHJKLbgO3-oWu9m8Cw0UPIDPSsO_hH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1F7zHJKLbgO3-oWu9m8Cw0UPIDPSsO_hH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1F7zHJKLbgO3-oWu9m8Cw0UPIDPSsO_hH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1F7zHJKLbgO3-oWu9m8Cw0UPIDPSsO_hH",
-    "driveId": "1F7zHJKLbgO3-oWu9m8Cw0UPIDPSsO_hH",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_3b7c0d06212b8076bf6e09ae12382b3d",
-    "name": "Bemer-série-forme-exponentielle-1-2022 (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1tMu6dkGSuqpVLVWmlStRWwMeoXzBBmDW/preview",
-    "previewUrl": "https://drive.google.com/file/d/1tMu6dkGSuqpVLVWmlStRWwMeoXzBBmDW/preview",
-    "viewUrl": "https://drive.google.com/file/d/1tMu6dkGSuqpVLVWmlStRWwMeoXzBBmDW/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tMu6dkGSuqpVLVWmlStRWwMeoXzBBmDW",
-    "driveId": "1tMu6dkGSuqpVLVWmlStRWwMeoXzBBmDW",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_49f5f6c37e05164bd9fdbdc2c7f01f83",
-    "name": "Bemer-série-forme-exponentielle-1-2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1glMqlEO9DWjjOEgRDnc3MuieWe5Jh3Cl/preview",
-    "previewUrl": "https://drive.google.com/file/d/1glMqlEO9DWjjOEgRDnc3MuieWe5Jh3Cl/preview",
-    "viewUrl": "https://drive.google.com/file/d/1glMqlEO9DWjjOEgRDnc3MuieWe5Jh3Cl/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1glMqlEO9DWjjOEgRDnc3MuieWe5Jh3Cl",
-    "driveId": "1glMqlEO9DWjjOEgRDnc3MuieWe5Jh3Cl",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_0ab6e55aa5a6e94c18f9dfb0576ffcff",
-    "name": "Bemer-série-forme-exponentielle-2-2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1-zRnny4t_J4Pn5R2wX5iJv8ZfvsRlIwH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1-zRnny4t_J4Pn5R2wX5iJv8ZfvsRlIwH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1-zRnny4t_J4Pn5R2wX5iJv8ZfvsRlIwH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1-zRnny4t_J4Pn5R2wX5iJv8ZfvsRlIwH",
-    "driveId": "1-zRnny4t_J4Pn5R2wX5iJv8ZfvsRlIwH",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_8e60791e00fc7e91281b3c11bdd8c925",
-    "name": "Bemer-série-forme-exponentielle-3-2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1dKosr6iFR65Ussa_iW06ZOOVooUBOiC9/preview",
-    "previewUrl": "https://drive.google.com/file/d/1dKosr6iFR65Ussa_iW06ZOOVooUBOiC9/preview",
-    "viewUrl": "https://drive.google.com/file/d/1dKosr6iFR65Ussa_iW06ZOOVooUBOiC9/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1dKosr6iFR65Ussa_iW06ZOOVooUBOiC9",
-    "driveId": "1dKosr6iFR65Ussa_iW06ZOOVooUBOiC9",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_6fa8287fe4dc188fcf4e8ab3c833f370",
-    "name": "Bemer-Variable-aléatoire.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1gOdAn0iPy5P9UXqwkCvlBqCcZpx9zz69/preview",
-    "previewUrl": "https://drive.google.com/file/d/1gOdAn0iPy5P9UXqwkCvlBqCcZpx9zz69/preview",
-    "viewUrl": "https://drive.google.com/file/d/1gOdAn0iPy5P9UXqwkCvlBqCcZpx9zz69/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1gOdAn0iPy5P9UXqwkCvlBqCcZpx9zz69",
-    "driveId": "1gOdAn0iPy5P9UXqwkCvlBqCcZpx9zz69",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
   },
   {
     "id": "preload_2c1eebb0833f4b2bb521ca4ffcef4664",
@@ -9292,20 +8578,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1we2lxBKHbWHCRZ61vDHipdnALoEa5QiU/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1we2lxBKHbWHCRZ61vDHipdnALoEa5QiU",
     "driveId": "1we2lxBKHbWHCRZ61vDHipdnALoEa5QiU",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_dbcf7e50e96ad86281ff1f7dd12bcd4d",
-    "name": "Correction-fonction-expo-5.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1bUz9IwbJuXHS82rqJC6-PrQSIYVLdyA2/preview",
-    "previewUrl": "https://drive.google.com/file/d/1bUz9IwbJuXHS82rqJC6-PrQSIYVLdyA2/preview",
-    "viewUrl": "https://drive.google.com/file/d/1bUz9IwbJuXHS82rqJC6-PrQSIYVLdyA2/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1bUz9IwbJuXHS82rqJC6-PrQSIYVLdyA2",
-    "driveId": "1bUz9IwbJuXHS82rqJC6-PrQSIYVLdyA2",
     "section": "math",
     "subject": "mathsM",
     "folder": "Exercices"
@@ -9659,20 +8931,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "mathsM",
     "folder": "Exercices"
-  },
-  {
-    "id": "preload_8fdc27be0de2654ac62b08189706b3d1",
-    "name": "Cours-Continuité-et-limites (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1omtZ-QGzvPQJD7sKxQcEd86IeXHHHCKN/preview",
-    "previewUrl": "https://drive.google.com/file/d/1omtZ-QGzvPQJD7sKxQcEd86IeXHHHCKN/preview",
-    "viewUrl": "https://drive.google.com/file/d/1omtZ-QGzvPQJD7sKxQcEd86IeXHHHCKN/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1omtZ-QGzvPQJD7sKxQcEd86IeXHHHCKN",
-    "driveId": "1omtZ-QGzvPQJD7sKxQcEd86IeXHHHCKN",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Cours"
   },
   {
     "id": "preload_06cebaeb25d8243adeccaf175aa247f9",
@@ -11243,20 +10501,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_4762f8bed5b26343124e159345794a94",
-    "name": "القوالب.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1vPsvHW7YDkRRY5We7yNOeepha58cj8yE/preview",
-    "previewUrl": "https://drive.google.com/file/d/1vPsvHW7YDkRRY5We7yNOeepha58cj8yE/preview",
-    "viewUrl": "https://drive.google.com/file/d/1vPsvHW7YDkRRY5We7yNOeepha58cj8yE/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1vPsvHW7YDkRRY5We7yNOeepha58cj8yE",
-    "driveId": "1vPsvHW7YDkRRY5We7yNOeepha58cj8yE",
-    "section": "math",
-    "subject": "musique",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_ed1ff0e674617a4c13ce754b66a1ec0c",
     "name": "شخصيات.pdf",
     "type": "application/pdf",
@@ -11355,20 +10599,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_29a85fd37c758a322d6e566f99d406f8",
-    "name": "01Correction RC , RL et RLC Bac  2025.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1_vUZDmd4B_bBvvFSu08uDtSjp7kRWVVj/preview",
-    "previewUrl": "https://drive.google.com/file/d/1_vUZDmd4B_bBvvFSu08uDtSjp7kRWVVj/preview",
-    "viewUrl": "https://drive.google.com/file/d/1_vUZDmd4B_bBvvFSu08uDtSjp7kRWVVj/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1_vUZDmd4B_bBvvFSu08uDtSjp7kRWVVj",
-    "driveId": "1_vUZDmd4B_bBvvFSu08uDtSjp7kRWVVj",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_52fd9da47647bb05eadb64ee1e73d11d",
     "name": "01Devoir 1 Rev 2 TR Bac Math 2023 (1).pdf",
     "type": "application/pdf",
@@ -11378,20 +10608,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1ssUpUVe_fwwkW924I9U8JW7QSsI9tc41/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1ssUpUVe_fwwkW924I9U8JW7QSsI9tc41",
     "driveId": "1ssUpUVe_fwwkW924I9U8JW7QSsI9tc41",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_42f9187a1adc6fff3ca9f0bbcb721358",
-    "name": "01Devoir 1 Rev 2 TR Bac Math 2025.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1JBoj_U5wn4W9zF2Ta8wEAaBTalDvGJ0p/preview",
-    "previewUrl": "https://drive.google.com/file/d/1JBoj_U5wn4W9zF2Ta8wEAaBTalDvGJ0p/preview",
-    "viewUrl": "https://drive.google.com/file/d/1JBoj_U5wn4W9zF2Ta8wEAaBTalDvGJ0p/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1JBoj_U5wn4W9zF2Ta8wEAaBTalDvGJ0p",
-    "driveId": "1JBoj_U5wn4W9zF2Ta8wEAaBTalDvGJ0p",
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Exercices"
@@ -11409,20 +10625,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Exercices"
-  },
-  {
-    "id": "preload_e0814fc74cdc8b3bb7b7a561cfc10e0a",
-    "name": "01Revision RC , RL et RLC Bac  2025.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1yciz29GvU1JdQvI6guy-HSYXKG_VzU-_/preview",
-    "previewUrl": "https://drive.google.com/file/d/1yciz29GvU1JdQvI6guy-HSYXKG_VzU-_/preview",
-    "viewUrl": "https://drive.google.com/file/d/1yciz29GvU1JdQvI6guy-HSYXKG_VzU-_/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1yciz29GvU1JdQvI6guy-HSYXKG_VzU-_",
-    "driveId": "1yciz29GvU1JdQvI6guy-HSYXKG_VzU-_",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
   },
   {
     "id": "preload_6b5c698cab83cfd72cde1e9999afb11a",
@@ -11999,20 +11201,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_1592565d203f8ba5e2011b76b793f29f",
-    "name": "55Revision  RLC forcé Bac Math  Mai 2025.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1BuV30bf3mEcyl-szOvAsQv4y1W7ahKtA/preview",
-    "previewUrl": "https://drive.google.com/file/d/1BuV30bf3mEcyl-szOvAsQv4y1W7ahKtA/preview",
-    "viewUrl": "https://drive.google.com/file/d/1BuV30bf3mEcyl-szOvAsQv4y1W7ahKtA/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1BuV30bf3mEcyl-szOvAsQv4y1W7ahKtA",
-    "driveId": "1BuV30bf3mEcyl-szOvAsQv4y1W7ahKtA",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_18a0ba826775642bc8c9c51e478f596f",
     "name": "5DC1 2017-2018 final - 4M.pdf",
     "type": "application/pdf",
@@ -12419,34 +11607,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_69723646205eb0c84fa6a79b820be73e",
-    "name": "correction DC1 20132014 (2).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ZaXRCobLelgBCM6ekqp8dUYpFi_GW49H/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ZaXRCobLelgBCM6ekqp8dUYpFi_GW49H/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ZaXRCobLelgBCM6ekqp8dUYpFi_GW49H/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ZaXRCobLelgBCM6ekqp8dUYpFi_GW49H",
-    "driveId": "1ZaXRCobLelgBCM6ekqp8dUYpFi_GW49H",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_64fb584f7479517ccb6e75d7289aaedd",
-    "name": "correction DC1 20132014.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1qye-MzexmH2w2qI5JFMbPC05kefXZjes/preview",
-    "previewUrl": "https://drive.google.com/file/d/1qye-MzexmH2w2qI5JFMbPC05kefXZjes/preview",
-    "viewUrl": "https://drive.google.com/file/d/1qye-MzexmH2w2qI5JFMbPC05kefXZjes/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1qye-MzexmH2w2qI5JFMbPC05kefXZjes",
-    "driveId": "1qye-MzexmH2w2qI5JFMbPC05kefXZjes",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_edd9b0b17e5d1a1bf58692fb36d186a5",
     "name": "correction DC1 20162017 (2).pdf",
     "type": "application/pdf",
@@ -12470,20 +11630,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1LdHmQpK7-x0yl0uDwTmgljKXU8TrKKbC/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1LdHmQpK7-x0yl0uDwTmgljKXU8TrKKbC",
     "driveId": "1LdHmQpK7-x0yl0uDwTmgljKXU8TrKKbC",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_ff93b246183a803bb49d95dcf21003d4",
-    "name": "correction DC1 20172018.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1tGu3Z-4VPVmSZs9WR9ebD2yQdsETmilB/preview",
-    "previewUrl": "https://drive.google.com/file/d/1tGu3Z-4VPVmSZs9WR9ebD2yQdsETmilB/preview",
-    "viewUrl": "https://drive.google.com/file/d/1tGu3Z-4VPVmSZs9WR9ebD2yQdsETmilB/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tGu3Z-4VPVmSZs9WR9ebD2yQdsETmilB",
-    "driveId": "1tGu3Z-4VPVmSZs9WR9ebD2yQdsETmilB",
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Exercices"
@@ -12582,20 +11728,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1x9ufyWrNbSZ_FCnxuNdcR7kehr8Pw3NA/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1x9ufyWrNbSZ_FCnxuNdcR7kehr8Pw3NA",
     "driveId": "1x9ufyWrNbSZ_FCnxuNdcR7kehr8Pw3NA",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_08316bee7e69daa34b2caf3b380a8c5e",
-    "name": "CORRECTION DE QUELQUES EXERCICES Ondes sonores.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1s4l31i7vwM2jGWcRc5LLlPMuMBUpVlnO/preview",
-    "previewUrl": "https://drive.google.com/file/d/1s4l31i7vwM2jGWcRc5LLlPMuMBUpVlnO/preview",
-    "viewUrl": "https://drive.google.com/file/d/1s4l31i7vwM2jGWcRc5LLlPMuMBUpVlnO/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1s4l31i7vwM2jGWcRc5LLlPMuMBUpVlnO",
-    "driveId": "1s4l31i7vwM2jGWcRc5LLlPMuMBUpVlnO",
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Exercices"
@@ -12713,34 +11845,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_da9d84cc65ce00f43a17d2249a68401e",
-    "name": "correction FA-24.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/12966wj_YtpMbdDi862EsGZEIRFx2hijP/preview",
-    "previewUrl": "https://drive.google.com/file/d/12966wj_YtpMbdDi862EsGZEIRFx2hijP/preview",
-    "viewUrl": "https://drive.google.com/file/d/12966wj_YtpMbdDi862EsGZEIRFx2hijP/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=12966wj_YtpMbdDi862EsGZEIRFx2hijP",
-    "driveId": "12966wj_YtpMbdDi862EsGZEIRFx2hijP",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_1d36e165744345923d8bf0f5b398b1d5",
-    "name": "Correction FA-25.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1tHXecXSVFW4KwynTyGRywwK3VQsczwvr/preview",
-    "previewUrl": "https://drive.google.com/file/d/1tHXecXSVFW4KwynTyGRywwK3VQsczwvr/preview",
-    "viewUrl": "https://drive.google.com/file/d/1tHXecXSVFW4KwynTyGRywwK3VQsczwvr/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tHXecXSVFW4KwynTyGRywwK3VQsczwvr",
-    "driveId": "1tHXecXSVFW4KwynTyGRywwK3VQsczwvr",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_eceac161cb82d34c7012093e9ea352a4",
     "name": "Correction mécaniques forcées Bac Math2023.pdf",
     "type": "application/pdf",
@@ -12811,20 +11915,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_81e770c870a81c5372df7343b4c63209",
-    "name": "Correction qlq ex DEVOIR N2 2Tr Math.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ZEZOUv9t_On86bKgIKPWQSOk1Shc__AH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ZEZOUv9t_On86bKgIKPWQSOk1Shc__AH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ZEZOUv9t_On86bKgIKPWQSOk1Shc__AH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ZEZOUv9t_On86bKgIKPWQSOk1Shc__AH",
-    "driveId": "1ZEZOUv9t_On86bKgIKPWQSOk1Shc__AH",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_ab709ea3c94f70e8df67883cfd32663d",
     "name": "Correction qlq ex DEVOIR N3 2Tr Math.pdf",
     "type": "application/pdf",
@@ -12848,20 +11938,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1_8G7iNfpHh7ED2oT7AAJ-669tb0jsC1E/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1_8G7iNfpHh7ED2oT7AAJ-669tb0jsC1E",
     "driveId": "1_8G7iNfpHh7ED2oT7AAJ-669tb0jsC1E",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_4590453c8c42d98b8777c318a40ab6f5",
-    "name": "CORRECTION SERIE 29.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1LHpGGh4UeQ_r5_ElBizpgjpBeyK0BmOn/preview",
-    "previewUrl": "https://drive.google.com/file/d/1LHpGGh4UeQ_r5_ElBizpgjpBeyK0BmOn/preview",
-    "viewUrl": "https://drive.google.com/file/d/1LHpGGh4UeQ_r5_ElBizpgjpBeyK0BmOn/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1LHpGGh4UeQ_r5_ElBizpgjpBeyK0BmOn",
-    "driveId": "1LHpGGh4UeQ_r5_ElBizpgjpBeyK0BmOn",
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Exercices"
@@ -12951,20 +12027,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_bef4fc78705d89b5766deba1295e78f4",
-    "name": "correction série 7P RLC forcé  2024.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1N69Sva4om7PQp10YpA-msmM0TerupVdS/preview",
-    "previewUrl": "https://drive.google.com/file/d/1N69Sva4om7PQp10YpA-msmM0TerupVdS/preview",
-    "viewUrl": "https://drive.google.com/file/d/1N69Sva4om7PQp10YpA-msmM0TerupVdS/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1N69Sva4om7PQp10YpA-msmM0TerupVdS",
-    "driveId": "1N69Sva4om7PQp10YpA-msmM0TerupVdS",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_39720760ea6f2d8608f62affe4e24edc",
     "name": "Correction série n 3 induction 2023 (1).pdf",
     "type": "application/pdf",
@@ -12993,20 +12055,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_bce63f9f6158d6c797dca70928dfb9f3",
-    "name": "Correction série13 ondes 1 2023.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1LwR4i9xMl5ei7Ht2GUWPlXj0cJT5F-Nv/preview",
-    "previewUrl": "https://drive.google.com/file/d/1LwR4i9xMl5ei7Ht2GUWPlXj0cJT5F-Nv/preview",
-    "viewUrl": "https://drive.google.com/file/d/1LwR4i9xMl5ei7Ht2GUWPlXj0cJT5F-Nv/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1LwR4i9xMl5ei7Ht2GUWPlXj0cJT5F-Nv",
-    "driveId": "1LwR4i9xMl5ei7Ht2GUWPlXj0cJT5F-Nv",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_de9718b8bb4803aee9a2ffeaa9a96e48",
     "name": "Correction-bac-blanc sc-2024.pdf",
     "type": "application/pdf",
@@ -13016,20 +12064,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1KrB3h_wtkwRJJlFtViylWvFLSiGM36bv/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1KrB3h_wtkwRJJlFtViylWvFLSiGM36bv",
     "driveId": "1KrB3h_wtkwRJJlFtViylWvFLSiGM36bv",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_8a7c27f45e462b9a3641d2a60d0b2730",
-    "name": "Correctionqlq ex  DEVOIR N5 2Tr Math.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1uMsgfrsUsEVMEM5iUjqEaCM8UcZPRPXM/preview",
-    "previewUrl": "https://drive.google.com/file/d/1uMsgfrsUsEVMEM5iUjqEaCM8UcZPRPXM/preview",
-    "viewUrl": "https://drive.google.com/file/d/1uMsgfrsUsEVMEM5iUjqEaCM8UcZPRPXM/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1uMsgfrsUsEVMEM5iUjqEaCM8UcZPRPXM",
-    "driveId": "1uMsgfrsUsEVMEM5iUjqEaCM8UcZPRPXM",
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Exercices"
@@ -13119,20 +12153,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_a2478cd23e4323182e38ab2f70a4144c",
-    "name": "Cours-ONDE-MATIERE-2024.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/11qYU1h7zVj-cT-ZU7B8qHlyBBvXycI87/preview",
-    "previewUrl": "https://drive.google.com/file/d/11qYU1h7zVj-cT-ZU7B8qHlyBBvXycI87/preview",
-    "viewUrl": "https://drive.google.com/file/d/11qYU1h7zVj-cT-ZU7B8qHlyBBvXycI87/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=11qYU1h7zVj-cT-ZU7B8qHlyBBvXycI87",
-    "driveId": "11qYU1h7zVj-cT-ZU7B8qHlyBBvXycI87",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_79847b19a1dc0f17d4e14be3ae3971ab",
     "name": "COURS-OSC-FORCEES-ELectrique-2025.pdf",
     "type": "application/pdf",
@@ -13156,20 +12176,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1VhETaoLbaUcgP_ZgYy1emYtgRYhlx6lD/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1VhETaoLbaUcgP_ZgYy1emYtgRYhlx6lD",
     "driveId": "1VhETaoLbaUcgP_ZgYy1emYtgRYhlx6lD",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_4b4407677896d37408e24f0f752c16ed",
-    "name": "cours-spectre 2025.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1KnYxVLzCZThv99AAw0Zhp_GnXgxYY0PI/preview",
-    "previewUrl": "https://drive.google.com/file/d/1KnYxVLzCZThv99AAw0Zhp_GnXgxYY0PI/preview",
-    "viewUrl": "https://drive.google.com/file/d/1KnYxVLzCZThv99AAw0Zhp_GnXgxYY0PI/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1KnYxVLzCZThv99AAw0Zhp_GnXgxYY0PI",
-    "driveId": "1KnYxVLzCZThv99AAw0Zhp_GnXgxYY0PI",
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Cours"
@@ -13875,20 +12881,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_dfa76edb4e45e795edd8db00825ed916",
-    "name": "Définitions Chimie Math2022 (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1dntfYS9av-xMUFhNfyD6kLrHa0TJBGCn/preview",
-    "previewUrl": "https://drive.google.com/file/d/1dntfYS9av-xMUFhNfyD6kLrHa0TJBGCn/preview",
-    "viewUrl": "https://drive.google.com/file/d/1dntfYS9av-xMUFhNfyD6kLrHa0TJBGCn/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1dntfYS9av-xMUFhNfyD6kLrHa0TJBGCn",
-    "driveId": "1dntfYS9av-xMUFhNfyD6kLrHa0TJBGCn",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_3e578cd6cfd224403ca44698bdbccd26",
     "name": "Exercices Onde Concours de réorientation .pdf",
     "type": "application/pdf",
@@ -13985,34 +12977,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_3eb2ae09391c668af679f058aeff252e",
-    "name": "FA14-devoir révision-2024(1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1GIGqfzO5jf-4EfET9SKx2iWEkd8HCYPp/preview",
-    "previewUrl": "https://drive.google.com/file/d/1GIGqfzO5jf-4EfET9SKx2iWEkd8HCYPp/preview",
-    "viewUrl": "https://drive.google.com/file/d/1GIGqfzO5jf-4EfET9SKx2iWEkd8HCYPp/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1GIGqfzO5jf-4EfET9SKx2iWEkd8HCYPp",
-    "driveId": "1GIGqfzO5jf-4EfET9SKx2iWEkd8HCYPp",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_2cbba6c549eb8fe966f25d7f85dd4365",
-    "name": "FA14-devoir révision-2024.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1sFk47APrI3OGZXnsWZmFHpi8BS9-4TRq/preview",
-    "previewUrl": "https://drive.google.com/file/d/1sFk47APrI3OGZXnsWZmFHpi8BS9-4TRq/preview",
-    "viewUrl": "https://drive.google.com/file/d/1sFk47APrI3OGZXnsWZmFHpi8BS9-4TRq/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1sFk47APrI3OGZXnsWZmFHpi8BS9-4TRq",
-    "driveId": "1sFk47APrI3OGZXnsWZmFHpi8BS9-4TRq",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
   },
   {
     "id": "preload_0e8ad280e102ded72591c28e414f65d2",
@@ -14309,20 +13273,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_fc36e7acab979a5cb9de00eb76c0fc92",
-    "name": "PHY_RESUME(ranim daagi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1SrEVUxk-2Fj-n3Jtabh_8X6xGBW_Q7xR/preview",
-    "previewUrl": "https://drive.google.com/file/d/1SrEVUxk-2Fj-n3Jtabh_8X6xGBW_Q7xR/preview",
-    "viewUrl": "https://drive.google.com/file/d/1SrEVUxk-2Fj-n3Jtabh_8X6xGBW_Q7xR/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1SrEVUxk-2Fj-n3Jtabh_8X6xGBW_Q7xR",
-    "driveId": "1SrEVUxk-2Fj-n3Jtabh_8X6xGBW_Q7xR",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_2d7f6a16c878f40be283ad53d730f051",
     "name": "Programme de révision  BAC MATH 2023.pdf",
     "type": "application/pdf",
@@ -14419,34 +13369,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_abc0d3183c83c90828b856dec63d1caa",
-    "name": "Revision  3eme Trimestre Math 2023 (1).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1HAwSBX-Ya6vVf8EIeCc0zzY595GVGrlj/preview",
-    "previewUrl": "https://drive.google.com/file/d/1HAwSBX-Ya6vVf8EIeCc0zzY595GVGrlj/preview",
-    "viewUrl": "https://drive.google.com/file/d/1HAwSBX-Ya6vVf8EIeCc0zzY595GVGrlj/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1HAwSBX-Ya6vVf8EIeCc0zzY595GVGrlj",
-    "driveId": "1HAwSBX-Ya6vVf8EIeCc0zzY595GVGrlj",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_16ee7e4de411f4c85340336679db3ca3",
-    "name": "Revision  3eme Trimestre Math 2025.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1bU88ZbMXhABY8tr24vGAV4RQYimSqKa8/preview",
-    "previewUrl": "https://drive.google.com/file/d/1bU88ZbMXhABY8tr24vGAV4RQYimSqKa8/preview",
-    "viewUrl": "https://drive.google.com/file/d/1bU88ZbMXhABY8tr24vGAV4RQYimSqKa8/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1bU88ZbMXhABY8tr24vGAV4RQYimSqKa8",
-    "driveId": "1bU88ZbMXhABY8tr24vGAV4RQYimSqKa8",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
   },
   {
     "id": "preload_7d8722621f26557da76b386b070309a8",
@@ -14682,20 +13604,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1tV-tTZ-2q4aVr0Q9vIVM5JtcROOJPgXd/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1tV-tTZ-2q4aVr0Q9vIVM5JtcROOJPgXd",
     "driveId": "1tV-tTZ-2q4aVr0Q9vIVM5JtcROOJPgXd",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_180c75b52c4859d52be86c12e712ad5d",
-    "name": "Résumé SPECTRE ATOMIQUE2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/12sZdBd9bSBmQs6mn6-72XtHFMKemWNye/preview",
-    "previewUrl": "https://drive.google.com/file/d/12sZdBd9bSBmQs6mn6-72XtHFMKemWNye/preview",
-    "viewUrl": "https://drive.google.com/file/d/12sZdBd9bSBmQs6mn6-72XtHFMKemWNye/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=12sZdBd9bSBmQs6mn6-72XtHFMKemWNye",
-    "driveId": "12sZdBd9bSBmQs6mn6-72XtHFMKemWNye",
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Résumés"
@@ -15051,20 +13959,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_c1e8b6addba0194bd7e8e8d77d78abe4",
-    "name": "Série 16spectre2022.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1UGdD9OvAY7QwP0QsC5I11BiALt8rY3yL/preview",
-    "previewUrl": "https://drive.google.com/file/d/1UGdD9OvAY7QwP0QsC5I11BiALt8rY3yL/preview",
-    "viewUrl": "https://drive.google.com/file/d/1UGdD9OvAY7QwP0QsC5I11BiALt8rY3yL/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1UGdD9OvAY7QwP0QsC5I11BiALt8rY3yL",
-    "driveId": "1UGdD9OvAY7QwP0QsC5I11BiALt8rY3yL",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_4eb0480ec4627d164896c930f80bad39",
     "name": "Série 2 vitesse d_une réaction bac 2023.pdf",
     "type": "application/pdf",
@@ -15177,20 +14071,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_6dc46933eb94c96e0c61a1aaafd72fb3",
-    "name": "TP-.facteurs-cinétiques-.4M-2024.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1W1EO307almEIivvyYqc-x5AeszJMBhFi/preview",
-    "previewUrl": "https://drive.google.com/file/d/1W1EO307almEIivvyYqc-x5AeszJMBhFi/preview",
-    "viewUrl": "https://drive.google.com/file/d/1W1EO307almEIivvyYqc-x5AeszJMBhFi/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1W1EO307almEIivvyYqc-x5AeszJMBhFi",
-    "driveId": "1W1EO307almEIivvyYqc-x5AeszJMBhFi",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_66692e8ba2ae7fcf5831f449008a2162",
     "name": "TP-N9-OSCILLATIONS-MECANIQUES-LIBRES.pdf",
     "type": "application/pdf",
@@ -15261,34 +14141,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_41821d8be000cee238bb3096f669daf9",
-    "name": "CORR-DEV-SYN-2-BAC.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/13JZWeMD_5vVsXi2dBm6nGAcyPxO34_yc/preview",
-    "previewUrl": "https://drive.google.com/file/d/13JZWeMD_5vVsXi2dBm6nGAcyPxO34_yc/preview",
-    "viewUrl": "https://drive.google.com/file/d/13JZWeMD_5vVsXi2dBm6nGAcyPxO34_yc/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=13JZWeMD_5vVsXi2dBm6nGAcyPxO34_yc",
-    "driveId": "13JZWeMD_5vVsXi2dBm6nGAcyPxO34_yc",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_78c481d5f2a1c9e5a73ead5859b633d5",
-    "name": "CORRECTION-DEV-C1-BAC-2024-4M2-1.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1gKrBIWYHC2vS2V925O2yHh9aRY8lQflJ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1gKrBIWYHC2vS2V925O2yHh9aRY8lQflJ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1gKrBIWYHC2vS2V925O2yHh9aRY8lQflJ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1gKrBIWYHC2vS2V925O2yHh9aRY8lQflJ",
-    "driveId": "1gKrBIWYHC2vS2V925O2yHh9aRY8lQflJ",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_4d2720f3c695a9cf7f0ace0e87b91c21",
     "name": "CORRECTION-DEV-C1-BAC-2025.pdf",
     "type": "application/pdf",
@@ -15298,20 +14150,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/17Vtav8ZUTLMMwL8SeQmkH7e3SZ0-vE6s/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=17Vtav8ZUTLMMwL8SeQmkH7e3SZ0-vE6s",
     "driveId": "17Vtav8ZUTLMMwL8SeQmkH7e3SZ0-vE6s",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_a5be8940e20e6b12fc28d89c65cfed2a",
-    "name": "CORRECTION-DEV-S1-BAC-2025.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1bdmEyPXU1cpRd9Kc-80jVR0kDbjnH-se/preview",
-    "previewUrl": "https://drive.google.com/file/d/1bdmEyPXU1cpRd9Kc-80jVR0kDbjnH-se/preview",
-    "viewUrl": "https://drive.google.com/file/d/1bdmEyPXU1cpRd9Kc-80jVR0kDbjnH-se/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1bdmEyPXU1cpRd9Kc-80jVR0kDbjnH-se",
-    "driveId": "1bdmEyPXU1cpRd9Kc-80jVR0kDbjnH-se",
     "section": "math",
     "subject": "svtmath",
     "folder": "Exercices"
@@ -15424,20 +14262,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1N8cojcWkjlm6_EoFf-s8dydAfZZ91SEU/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1N8cojcWkjlm6_EoFf-s8dydAfZZ91SEU",
     "driveId": "1N8cojcWkjlm6_EoFf-s8dydAfZZ91SEU",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_9f2e9689365055bf4966687113cb047e",
-    "name": "Corrigé-série-3-neurophysiologie.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1af-aGc-GWUE9RJDoCe9pt08X_KsFPjXw/preview",
-    "previewUrl": "https://drive.google.com/file/d/1af-aGc-GWUE9RJDoCe9pt08X_KsFPjXw/preview",
-    "viewUrl": "https://drive.google.com/file/d/1af-aGc-GWUE9RJDoCe9pt08X_KsFPjXw/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1af-aGc-GWUE9RJDoCe9pt08X_KsFPjXw",
-    "driveId": "1af-aGc-GWUE9RJDoCe9pt08X_KsFPjXw",
     "section": "math",
     "subject": "svtmath",
     "folder": "Exercices"
@@ -16003,20 +14827,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_3b5debc82859e164ca57a65d61b831fd",
-    "name": "Fascicule de révision Fin d_année.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1qCPyFhr9odgcpbcQrED4ESBjkmJ042A2/preview",
-    "previewUrl": "https://drive.google.com/file/d/1qCPyFhr9odgcpbcQrED4ESBjkmJ042A2/preview",
-    "viewUrl": "https://drive.google.com/file/d/1qCPyFhr9odgcpbcQrED4ESBjkmJ042A2/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1qCPyFhr9odgcpbcQrED4ESBjkmJ042A2",
-    "driveId": "1qCPyFhr9odgcpbcQrED4ESBjkmJ042A2",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_6e9165da28cd789af9b4d4c0d78f1a16",
     "name": "Femme.pdf",
     "type": "application/pdf",
@@ -16029,34 +14839,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "svtmath",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_2a757e62e5efcd2e66588daf6d1ee238",
-    "name": "Fiche-révision-femme-1.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1tGpQ3r12eHFB9ZQlr2bOKVhlmcmmx57P/preview",
-    "previewUrl": "https://drive.google.com/file/d/1tGpQ3r12eHFB9ZQlr2bOKVhlmcmmx57P/preview",
-    "viewUrl": "https://drive.google.com/file/d/1tGpQ3r12eHFB9ZQlr2bOKVhlmcmmx57P/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tGpQ3r12eHFB9ZQlr2bOKVhlmcmmx57P",
-    "driveId": "1tGpQ3r12eHFB9ZQlr2bOKVhlmcmmx57P",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_8eb5bc576d4094fc0c5f64e6ec823ea6",
-    "name": "Fiche-révision-reproduction-chez-la-femme.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1oYoLNQptr9tfFqPEzCEoZ0egoWD8x5JF/preview",
-    "previewUrl": "https://drive.google.com/file/d/1oYoLNQptr9tfFqPEzCEoZ0egoWD8x5JF/preview",
-    "viewUrl": "https://drive.google.com/file/d/1oYoLNQptr9tfFqPEzCEoZ0egoWD8x5JF/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1oYoLNQptr9tfFqPEzCEoZ0egoWD8x5JF",
-    "driveId": "1oYoLNQptr9tfFqPEzCEoZ0egoWD8x5JF",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Résumés"
   },
   {
     "id": "preload_e9746d5f0a1a4db6347ceaf10be2475d",
@@ -16085,20 +14867,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "svtmath",
     "folder": "Résumés"
-  },
-  {
-    "id": "preload_4d1c602d7d4ec73c7b176b125b987147",
-    "name": "génétique-humaine-tableau.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1xXN9ZLyad-JEEeSsbw7j5v0Ic0f-OZLT/preview",
-    "previewUrl": "https://drive.google.com/file/d/1xXN9ZLyad-JEEeSsbw7j5v0Ic0f-OZLT/preview",
-    "viewUrl": "https://drive.google.com/file/d/1xXN9ZLyad-JEEeSsbw7j5v0Ic0f-OZLT/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1xXN9ZLyad-JEEeSsbw7j5v0Ic0f-OZLT",
-    "driveId": "1xXN9ZLyad-JEEeSsbw7j5v0Ic0f-OZLT",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Cours"
   },
   {
     "id": "preload_41eee1671e8f665ae12a3af9de121ec1",
@@ -16381,62 +15149,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_bebea72978d716ed133c18bfe62c985e",
-    "name": "REVISION-BAC-2023-GENET.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1oQRQgJHWXrv6G0lxTs4YX97sZ02wi1lY/preview",
-    "previewUrl": "https://drive.google.com/file/d/1oQRQgJHWXrv6G0lxTs4YX97sZ02wi1lY/preview",
-    "viewUrl": "https://drive.google.com/file/d/1oQRQgJHWXrv6G0lxTs4YX97sZ02wi1lY/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1oQRQgJHWXrv6G0lxTs4YX97sZ02wi1lY",
-    "driveId": "1oQRQgJHWXrv6G0lxTs4YX97sZ02wi1lY",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_c799085c0f04470b56cbb084e4b837f6",
-    "name": "REVISION-BAC-2023-NEURO.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1i1bItSFKqvPy7MbfPbSn_ynRos5rT7eF/preview",
-    "previewUrl": "https://drive.google.com/file/d/1i1bItSFKqvPy7MbfPbSn_ynRos5rT7eF/preview",
-    "viewUrl": "https://drive.google.com/file/d/1i1bItSFKqvPy7MbfPbSn_ynRos5rT7eF/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1i1bItSFKqvPy7MbfPbSn_ynRos5rT7eF",
-    "driveId": "1i1bItSFKqvPy7MbfPbSn_ynRos5rT7eF",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_16a2d8086b29e0979d7260b06ad9cbda",
-    "name": "REVISION-COORDINATION-2023.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/19hTXvbcfQLNHSV14HsCivmNeAhJyZfrD/preview",
-    "previewUrl": "https://drive.google.com/file/d/19hTXvbcfQLNHSV14HsCivmNeAhJyZfrD/preview",
-    "viewUrl": "https://drive.google.com/file/d/19hTXvbcfQLNHSV14HsCivmNeAhJyZfrD/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=19hTXvbcfQLNHSV14HsCivmNeAhJyZfrD",
-    "driveId": "19hTXvbcfQLNHSV14HsCivmNeAhJyZfrD",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_05395262880afd70ec4a2a3c864c942f",
-    "name": "REVISION-REP-HUMAINE-FEC-BAC-2023.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1snj65TdwrZA8cWUGm0NNX-hfHZv2NETu/preview",
-    "previewUrl": "https://drive.google.com/file/d/1snj65TdwrZA8cWUGm0NNX-hfHZv2NETu/preview",
-    "viewUrl": "https://drive.google.com/file/d/1snj65TdwrZA8cWUGm0NNX-hfHZv2NETu/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1snj65TdwrZA8cWUGm0NNX-hfHZv2NETu",
-    "driveId": "1snj65TdwrZA8cWUGm0NNX-hfHZv2NETu",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_ed690f48db9a424117d6c51054e4260e",
     "name": "Réflèxe à point de départ cutané.pdf",
     "type": "application/pdf",
@@ -16449,20 +15161,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "svtmath",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_fa795e1c40f51c3cb93965351452baec",
-    "name": "Révision-homme avec correction.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1RhCNxx1MUasxy8jtp-TFNrfU6HI00cSq/preview",
-    "previewUrl": "https://drive.google.com/file/d/1RhCNxx1MUasxy8jtp-TFNrfU6HI00cSq/preview",
-    "viewUrl": "https://drive.google.com/file/d/1RhCNxx1MUasxy8jtp-TFNrfU6HI00cSq/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1RhCNxx1MUasxy8jtp-TFNrfU6HI00cSq",
-    "driveId": "1RhCNxx1MUasxy8jtp-TFNrfU6HI00cSq",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Exercices"
   },
   {
     "id": "preload_edb143b48d4d18e9d003f1a1d68e071b",
@@ -16479,34 +15177,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_f2cc40c0b5543e346136e7db64a7e62f",
-    "name": "SCHEMAS-A-FAIRE-POUR-BAC-2023.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1-Ow6yjW08iR_peQvGRmIK6c5Qh113ax-/preview",
-    "previewUrl": "https://drive.google.com/file/d/1-Ow6yjW08iR_peQvGRmIK6c5Qh113ax-/preview",
-    "viewUrl": "https://drive.google.com/file/d/1-Ow6yjW08iR_peQvGRmIK6c5Qh113ax-/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1-Ow6yjW08iR_peQvGRmIK6c5Qh113ax-",
-    "driveId": "1-Ow6yjW08iR_peQvGRmIK6c5Qh113ax-",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_821ff41c3cb773c5ae34ef52e2134380",
-    "name": "schéma-de-larc-réflexe.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ndNEWRCysBSlF83f-AbwSb6yENpY0pOj/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ndNEWRCysBSlF83f-AbwSb6yENpY0pOj/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ndNEWRCysBSlF83f-AbwSb6yENpY0pOj/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ndNEWRCysBSlF83f-AbwSb6yENpY0pOj",
-    "driveId": "1ndNEWRCysBSlF83f-AbwSb6yENpY0pOj",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_2669845a02c8b5b84b984841f2916045",
     "name": "Serie 1 Genetique Humaine MME HEND.pdf",
     "type": "application/pdf",
@@ -16516,20 +15186,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/15ryTZpvq2ZJaPATxomoCFLw-LntEXVBP/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=15ryTZpvq2ZJaPATxomoCFLw-LntEXVBP",
     "driveId": "15ryTZpvq2ZJaPATxomoCFLw-LntEXVBP",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_a78c31c51e8cb57e000574a3c1a51595",
-    "name": "Serie Fecondation (2).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1HZBIBcnuYeJYegkrvysASRATzdhhXGtK/preview",
-    "previewUrl": "https://drive.google.com/file/d/1HZBIBcnuYeJYegkrvysASRATzdhhXGtK/preview",
-    "viewUrl": "https://drive.google.com/file/d/1HZBIBcnuYeJYegkrvysASRATzdhhXGtK/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1HZBIBcnuYeJYegkrvysASRATzdhhXGtK",
-    "driveId": "1HZBIBcnuYeJYegkrvysASRATzdhhXGtK",
     "section": "math",
     "subject": "svtmath",
     "folder": "Exercices"
@@ -16586,20 +15242,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/169-AhYvimnKKFmEC7-Lk39ksgXIl7Pga/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=169-AhYvimnKKFmEC7-Lk39ksgXIl7Pga",
     "driveId": "169-AhYvimnKKFmEC7-Lk39ksgXIl7Pga",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_38dfba9553119e1f6987a0f0f2bd4a08",
-    "name": "SERIE20REV20QCMQROC20FEMME20HEND202024.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Woc7mITECyls2NvY_C8ZOFhJHbDLUS8b/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Woc7mITECyls2NvY_C8ZOFhJHbDLUS8b/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Woc7mITECyls2NvY_C8ZOFhJHbDLUS8b/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Woc7mITECyls2NvY_C8ZOFhJHbDLUS8b",
-    "driveId": "1Woc7mITECyls2NvY_C8ZOFhJHbDLUS8b",
     "section": "math",
     "subject": "svtmath",
     "folder": "Exercices"
@@ -16768,20 +15410,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1PpkuBmT3zQsI7H9KVp_OsWQw7HKCYJBw/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1PpkuBmT3zQsI7H9KVp_OsWQw7HKCYJBw",
     "driveId": "1PpkuBmT3zQsI7H9KVp_OsWQw7HKCYJBw",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_a0f8f4db6d224da904649e6cf8fd20de",
-    "name": "série-révision neuro 4-GM.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1h5uFp_Kj5gqTQveJKkMWdn6Y2HQGYWW2/preview",
-    "previewUrl": "https://drive.google.com/file/d/1h5uFp_Kj5gqTQveJKkMWdn6Y2HQGYWW2/preview",
-    "viewUrl": "https://drive.google.com/file/d/1h5uFp_Kj5gqTQveJKkMWdn6Y2HQGYWW2/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1h5uFp_Kj5gqTQveJKkMWdn6Y2HQGYWW2",
-    "driveId": "1h5uFp_Kj5gqTQveJKkMWdn6Y2HQGYWW2",
     "section": "math",
     "subject": "svtmath",
     "folder": "Exercices"
@@ -17907,20 +16535,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_abe30dfa8de01097f078d0e327e9ce01",
-    "name": "Manuel-de-révision-bac-pratique-2.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1AmM_buKAhCjYN3V6dSXaTpObTx_bK8dn/preview",
-    "previewUrl": "https://drive.google.com/file/d/1AmM_buKAhCjYN3V6dSXaTpObTx_bK8dn/preview",
-    "viewUrl": "https://drive.google.com/file/d/1AmM_buKAhCjYN3V6dSXaTpObTx_bK8dn/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1AmM_buKAhCjYN3V6dSXaTpObTx_bK8dn",
-    "driveId": "1AmM_buKAhCjYN3V6dSXaTpObTx_bK8dn",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_3f7226bceddb4b7c0243658c7895eef7",
     "name": "modules usuels (Mariem Ben Kaid).pdf",
     "type": "application/pdf",
@@ -17933,34 +16547,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "info",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_d0bce7d67bcb12ad2a67abcb914f29ac",
-    "name": "résumé algo_ (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1a6cLHhhw7pnfyFdGcBUW-NQA24bigbiu/preview",
-    "previewUrl": "https://drive.google.com/file/d/1a6cLHhhw7pnfyFdGcBUW-NQA24bigbiu/preview",
-    "viewUrl": "https://drive.google.com/file/d/1a6cLHhhw7pnfyFdGcBUW-NQA24bigbiu/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1a6cLHhhw7pnfyFdGcBUW-NQA24bigbiu",
-    "driveId": "1a6cLHhhw7pnfyFdGcBUW-NQA24bigbiu",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_743bfc62146a0d3930456263da60b54e",
-    "name": "résumé python (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1rU2Xaiqaj0y3SnRpQE0mXDkpg56qU4BX/preview",
-    "previewUrl": "https://drive.google.com/file/d/1rU2Xaiqaj0y3SnRpQE0mXDkpg56qU4BX/preview",
-    "viewUrl": "https://drive.google.com/file/d/1rU2Xaiqaj0y3SnRpQE0mXDkpg56qU4BX/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1rU2Xaiqaj0y3SnRpQE0mXDkpg56qU4BX",
-    "driveId": "1rU2Xaiqaj0y3SnRpQE0mXDkpg56qU4BX",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Résumés"
   },
   {
     "id": "preload_b6713a9819da7799324d87aec3f3fb28",
@@ -17991,20 +16577,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_d71ab8f15d53e357b4a6ce7216d89351",
-    "name": "Pilote nabeul.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1sxgR44fKRvk9MS4n2E6tuP1sqOKM-JAv/preview",
-    "previewUrl": "https://drive.google.com/file/d/1sxgR44fKRvk9MS4n2E6tuP1sqOKM-JAv/preview",
-    "viewUrl": "https://drive.google.com/file/d/1sxgR44fKRvk9MS4n2E6tuP1sqOKM-JAv/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1sxgR44fKRvk9MS4n2E6tuP1sqOKM-JAv",
-    "driveId": "1sxgR44fKRvk9MS4n2E6tuP1sqOKM-JAv",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_02ee465ca23bb028eca15899d13131c4",
     "name": "Regional mestir.pdf",
     "type": "application/pdf",
@@ -18030,34 +16602,6 @@ window.PRELOADED_FILES = [
     "driveId": "1Eh-e_j9gh69pT2EsQrwfK6RFqH0iZGR1",
     "section": "technique",
     "subject": "mathssvt",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_3264faddc03f69fb43fb109ce715d80e",
-    "name": "Devoir contrôle 1 mécanique 18-19.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1nXWQp2QNjRone5mpS-YLwizoJWbzX9pl/preview",
-    "previewUrl": "https://drive.google.com/file/d/1nXWQp2QNjRone5mpS-YLwizoJWbzX9pl/preview",
-    "viewUrl": "https://drive.google.com/file/d/1nXWQp2QNjRone5mpS-YLwizoJWbzX9pl/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1nXWQp2QNjRone5mpS-YLwizoJWbzX9pl",
-    "driveId": "1nXWQp2QNjRone5mpS-YLwizoJWbzX9pl",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_3d4d854dd6320bed36a83797bbb92867",
-    "name": "dimensions de tolerence meca.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1CPgd0_0dQ_t7tAGEVA0YG9owEqRzxfPT/preview",
-    "previewUrl": "https://drive.google.com/file/d/1CPgd0_0dQ_t7tAGEVA0YG9owEqRzxfPT/preview",
-    "viewUrl": "https://drive.google.com/file/d/1CPgd0_0dQ_t7tAGEVA0YG9owEqRzxfPT/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1CPgd0_0dQ_t7tAGEVA0YG9owEqRzxfPT",
-    "driveId": "1CPgd0_0dQ_t7tAGEVA0YG9owEqRzxfPT",
-    "section": "technique",
-    "subject": "mec",
     "folder": "Cours"
   },
   {
@@ -18129,20 +16673,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "physiquetech",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_72c63ad72ac2ebe55fbe0d49725f5863",
-    "name": "grammaire 3eme&Bac (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/11IQnYDjuN--JfLhtNjB3tB5A3s_MvSix/preview",
-    "previewUrl": "https://drive.google.com/file/d/11IQnYDjuN--JfLhtNjB3tB5A3s_MvSix/preview",
-    "viewUrl": "https://drive.google.com/file/d/11IQnYDjuN--JfLhtNjB3tB5A3s_MvSix/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=11IQnYDjuN--JfLhtNjB3tB5A3s_MvSix",
-    "driveId": "11IQnYDjuN--JfLhtNjB3tB5A3s_MvSix",
-    "section": "technique",
-    "subject": "allemand",
-    "folder": "Résumés"
   },
   {
     "id": "preload_cae239f740e38fc7611f44bcc3f87b91",
@@ -18425,20 +16955,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_03da0e0446453dee42ce81dd9e3aaf6c",
-    "name": "تلخيص (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1pkMki-O0WVOCoeWGKihMg-MzggJImWql/preview",
-    "previewUrl": "https://drive.google.com/file/d/1pkMki-O0WVOCoeWGKihMg-MzggJImWql/preview",
-    "viewUrl": "https://drive.google.com/file/d/1pkMki-O0WVOCoeWGKihMg-MzggJImWql/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1pkMki-O0WVOCoeWGKihMg-MzggJImWql",
-    "driveId": "1pkMki-O0WVOCoeWGKihMg-MzggJImWql",
-    "section": "technique",
-    "subject": "arabe",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_20efddcf5a4e00082c2ab1fe3336a434",
     "name": "الحجج (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -18476,20 +16992,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1xs0uTdFiWj0MdIW-MJEyrgTXSF8Q0gDE/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1xs0uTdFiWj0MdIW-MJEyrgTXSF8Q0gDE",
     "driveId": "1xs0uTdFiWj0MdIW-MJEyrgTXSF8Q0gDE",
-    "section": "technique",
-    "subject": "arabe",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_96336e7b4ced59a8dfd78e01099d3ad3",
-    "name": "ds 1 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1OKhxLk0aSYIoXYfVosBO1Z388oDoD2zP/preview",
-    "previewUrl": "https://drive.google.com/file/d/1OKhxLk0aSYIoXYfVosBO1Z388oDoD2zP/preview",
-    "viewUrl": "https://drive.google.com/file/d/1OKhxLk0aSYIoXYfVosBO1Z388oDoD2zP/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1OKhxLk0aSYIoXYfVosBO1Z388oDoD2zP",
-    "driveId": "1OKhxLk0aSYIoXYfVosBO1Z388oDoD2zP",
     "section": "technique",
     "subject": "arabe",
     "folder": "Exercices"
@@ -18635,20 +17137,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_1a29c4592bd2b94c9a6b7779056a7a0d",
-    "name": "Pages-from-pilote-2 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1m4YnnAfw5ioGbywImP8Nfv2XByo3Lp-0/preview",
-    "previewUrl": "https://drive.google.com/file/d/1m4YnnAfw5ioGbywImP8Nfv2XByo3Lp-0/preview",
-    "viewUrl": "https://drive.google.com/file/d/1m4YnnAfw5ioGbywImP8Nfv2XByo3Lp-0/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1m4YnnAfw5ioGbywImP8Nfv2XByo3Lp-0",
-    "driveId": "1m4YnnAfw5ioGbywImP8Nfv2XByo3Lp-0",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_a26417208d7e7e6025c13f2286c36c0b",
     "name": "Série d_exercices N°5-4tech-A.L.I-2014-2015 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -18658,20 +17146,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1-4hodin6_1vp8eT1ARsv0ld9WOLbN6gx/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1-4hodin6_1vp8eT1ARsv0ld9WOLbN6gx",
     "driveId": "1-4hodin6_1vp8eT1ARsv0ld9WOLbN6gx",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_bce0d2a785672ae0c1462468fcffe4a3",
-    "name": "Série-ALI-4ST-2024 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/15dJf2O4U4TgorrZXWXwLwzaEm-cQ_3He/preview",
-    "previewUrl": "https://drive.google.com/file/d/15dJf2O4U4TgorrZXWXwLwzaEm-cQ_3He/preview",
-    "viewUrl": "https://drive.google.com/file/d/15dJf2O4U4TgorrZXWXwLwzaEm-cQ_3He/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=15dJf2O4U4TgorrZXWXwLwzaEm-cQ_3He",
-    "driveId": "15dJf2O4U4TgorrZXWXwLwzaEm-cQ_3He",
     "section": "technique",
     "subject": "elect",
     "folder": "Exercices"
@@ -18941,20 +17415,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "elect",
     "folder": "Exercices"
-  },
-  {
-    "id": "preload_2705e54e26f67314f7355fb4dcf952fb",
-    "name": "Moteurs asynchrones triphasés (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1VC1oM-cuSKjf3H_yDDHrd9nKzteq8SFR/preview",
-    "previewUrl": "https://drive.google.com/file/d/1VC1oM-cuSKjf3H_yDDHrd9nKzteq8SFR/preview",
-    "viewUrl": "https://drive.google.com/file/d/1VC1oM-cuSKjf3H_yDDHrd9nKzteq8SFR/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1VC1oM-cuSKjf3H_yDDHrd9nKzteq8SFR",
-    "driveId": "1VC1oM-cuSKjf3H_yDDHrd9nKzteq8SFR",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Cours"
   },
   {
     "id": "preload_72589cf02c4d0cf9df6122068109ac51",
@@ -19251,20 +17711,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_5f263bdb85d13c0651984064046d43dc",
-    "name": "DOSSIER-TECHNIQUE-DIDTRIBUTEUR (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1jsIelnECu2NTFXHX-qf6wSisS6AmwaE5/preview",
-    "previewUrl": "https://drive.google.com/file/d/1jsIelnECu2NTFXHX-qf6wSisS6AmwaE5/preview",
-    "viewUrl": "https://drive.google.com/file/d/1jsIelnECu2NTFXHX-qf6wSisS6AmwaE5/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1jsIelnECu2NTFXHX-qf6wSisS6AmwaE5",
-    "driveId": "1jsIelnECu2NTFXHX-qf6wSisS6AmwaE5",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_f56636c00b6997cefc0f2874033df708",
     "name": "dp-Fevrier-2023-CORRIGE (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -19330,62 +17776,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1Djwl3atT73LCOVgSPIbELePpovwUkJKZ/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Djwl3atT73LCOVgSPIbELePpovwUkJKZ",
     "driveId": "1Djwl3atT73LCOVgSPIbELePpovwUkJKZ",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_c14927fce5cb5574fd102ddfe77072e1",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1i4R2dGAUhiuShxzMqeouzjayhGVKVTkK/preview",
-    "previewUrl": "https://drive.google.com/file/d/1i4R2dGAUhiuShxzMqeouzjayhGVKVTkK/preview",
-    "viewUrl": "https://drive.google.com/file/d/1i4R2dGAUhiuShxzMqeouzjayhGVKVTkK/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1i4R2dGAUhiuShxzMqeouzjayhGVKVTkK",
-    "driveId": "1i4R2dGAUhiuShxzMqeouzjayhGVKVTkK",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_6c6b1873e0574c8d875e5bd1be21645a",
-    "name": "correction devoir syn N°02 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1gYb-syYMku9K_4yETyNsUDnzVQwS63l1/preview",
-    "previewUrl": "https://drive.google.com/file/d/1gYb-syYMku9K_4yETyNsUDnzVQwS63l1/preview",
-    "viewUrl": "https://drive.google.com/file/d/1gYb-syYMku9K_4yETyNsUDnzVQwS63l1/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1gYb-syYMku9K_4yETyNsUDnzVQwS63l1",
-    "driveId": "1gYb-syYMku9K_4yETyNsUDnzVQwS63l1",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_3701937318daa76f3eed3524764e5723",
-    "name": "DEVOIR DE SYNTHESE N°2 DE GÉNIE ÉLECTRIQUE (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1gQm0c3crUpZyRe328-zaGCYTJYLMcAcG/preview",
-    "previewUrl": "https://drive.google.com/file/d/1gQm0c3crUpZyRe328-zaGCYTJYLMcAcG/preview",
-    "viewUrl": "https://drive.google.com/file/d/1gQm0c3crUpZyRe328-zaGCYTJYLMcAcG/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1gQm0c3crUpZyRe328-zaGCYTJYLMcAcG",
-    "driveId": "1gQm0c3crUpZyRe328-zaGCYTJYLMcAcG",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_6233d511278f35dd071ddec7e9b59e50",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1gSEtO5RtF1nY5elxR3-n9hOXCwMLV2da/preview",
-    "previewUrl": "https://drive.google.com/file/d/1gSEtO5RtF1nY5elxR3-n9hOXCwMLV2da/preview",
-    "viewUrl": "https://drive.google.com/file/d/1gSEtO5RtF1nY5elxR3-n9hOXCwMLV2da/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1gSEtO5RtF1nY5elxR3-n9hOXCwMLV2da",
-    "driveId": "1gSEtO5RtF1nY5elxR3-n9hOXCwMLV2da",
     "section": "technique",
     "subject": "elect",
     "folder": "Exercices"
@@ -19489,34 +17879,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_8bcdb3db71c6aa842137c7fea4b931e0",
-    "name": "2014 SP BAC (Installation de Stockage de Blé) (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1JKvUGOdUeP5ksYRFYqmETarxGhxg7uUs/preview",
-    "previewUrl": "https://drive.google.com/file/d/1JKvUGOdUeP5ksYRFYqmETarxGhxg7uUs/preview",
-    "viewUrl": "https://drive.google.com/file/d/1JKvUGOdUeP5ksYRFYqmETarxGhxg7uUs/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1JKvUGOdUeP5ksYRFYqmETarxGhxg7uUs",
-    "driveId": "1JKvUGOdUeP5ksYRFYqmETarxGhxg7uUs",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_cb5b640758954a3a8f9256d7c8ae6f71",
-    "name": "2014 SP BAC (Installation de Stockage de Blé)_2 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1quRneEL_IKP8XX-nU8ukw5g3mEHVekiQ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1quRneEL_IKP8XX-nU8ukw5g3mEHVekiQ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1quRneEL_IKP8XX-nU8ukw5g3mEHVekiQ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1quRneEL_IKP8XX-nU8ukw5g3mEHVekiQ",
-    "driveId": "1quRneEL_IKP8XX-nU8ukw5g3mEHVekiQ",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_0cea169465e70f490b95eccbbf2fd655",
     "name": "BAC 2010 Session Contrôle (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -19545,20 +17907,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_583e969a0f025fc5cdec93cd20a8e328",
-    "name": "BAC 2012 Session Contrôle (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1cjE7H9g--3ueTQcF2hAKZuHHBDuCFkDX/preview",
-    "previewUrl": "https://drive.google.com/file/d/1cjE7H9g--3ueTQcF2hAKZuHHBDuCFkDX/preview",
-    "viewUrl": "https://drive.google.com/file/d/1cjE7H9g--3ueTQcF2hAKZuHHBDuCFkDX/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1cjE7H9g--3ueTQcF2hAKZuHHBDuCFkDX",
-    "driveId": "1cjE7H9g--3ueTQcF2hAKZuHHBDuCFkDX",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_6e565b2940d4d89d40eef49aa0cd552b",
     "name": "BAC 2013 Session Contrôle (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -19568,20 +17916,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/19N1jt92Kr_w4-eD0ReDDwC-y8LVOc9SE/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=19N1jt92Kr_w4-eD0ReDDwC-y8LVOc9SE",
     "driveId": "19N1jt92Kr_w4-eD0ReDDwC-y8LVOc9SE",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_239ca090145911ba4ae47f7246117e9a",
-    "name": "BAC SC 2009 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1z1kTE3tcJxZk6qKX3f2p-hU7p85Tc44r/preview",
-    "previewUrl": "https://drive.google.com/file/d/1z1kTE3tcJxZk6qKX3f2p-hU7p85Tc44r/preview",
-    "viewUrl": "https://drive.google.com/file/d/1z1kTE3tcJxZk6qKX3f2p-hU7p85Tc44r/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1z1kTE3tcJxZk6qKX3f2p-hU7p85Tc44r",
-    "driveId": "1z1kTE3tcJxZk6qKX3f2p-hU7p85Tc44r",
     "section": "technique",
     "subject": "elect",
     "folder": "Exercices"
@@ -19755,62 +18089,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_46c5d084e366b61c9397ca510ba0614e",
-    "name": "Sujet Technologie Bac 2019 SC + Corrigé (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1MB3i2ICeMraMqerzvkzPkUe5-OqB_Y21/preview",
-    "previewUrl": "https://drive.google.com/file/d/1MB3i2ICeMraMqerzvkzPkUe5-OqB_Y21/preview",
-    "viewUrl": "https://drive.google.com/file/d/1MB3i2ICeMraMqerzvkzPkUe5-OqB_Y21/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1MB3i2ICeMraMqerzvkzPkUe5-OqB_Y21",
-    "driveId": "1MB3i2ICeMraMqerzvkzPkUe5-OqB_Y21",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_8a87e9f9a95e75e464f3a67506e95e31",
-    "name": "Sujet Technologie Bac 2019 SP + Corrigé (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1bF5HmlrBdxTDkFPyxWt4R43CcL214xOf/preview",
-    "previewUrl": "https://drive.google.com/file/d/1bF5HmlrBdxTDkFPyxWt4R43CcL214xOf/preview",
-    "viewUrl": "https://drive.google.com/file/d/1bF5HmlrBdxTDkFPyxWt4R43CcL214xOf/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1bF5HmlrBdxTDkFPyxWt4R43CcL214xOf",
-    "driveId": "1bF5HmlrBdxTDkFPyxWt4R43CcL214xOf",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_3d60c3e4486fe84c19c64ea97dfa8fa2",
-    "name": "Sujet Technologie Bac 2020 SC_2 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1JtVA8nEvjkfLT1odEtb5rflvcVr-L82u/preview",
-    "previewUrl": "https://drive.google.com/file/d/1JtVA8nEvjkfLT1odEtb5rflvcVr-L82u/preview",
-    "viewUrl": "https://drive.google.com/file/d/1JtVA8nEvjkfLT1odEtb5rflvcVr-L82u/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1JtVA8nEvjkfLT1odEtb5rflvcVr-L82u",
-    "driveId": "1JtVA8nEvjkfLT1odEtb5rflvcVr-L82u",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_283f6dc3e60672f88962d2585529f619",
-    "name": "Sujet Technologie Bac 2020 SP (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1hic9tkYCNAPK-ZCZiBTnUhlMfiX-vbpW/preview",
-    "previewUrl": "https://drive.google.com/file/d/1hic9tkYCNAPK-ZCZiBTnUhlMfiX-vbpW/preview",
-    "viewUrl": "https://drive.google.com/file/d/1hic9tkYCNAPK-ZCZiBTnUhlMfiX-vbpW/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1hic9tkYCNAPK-ZCZiBTnUhlMfiX-vbpW",
-    "driveId": "1hic9tkYCNAPK-ZCZiBTnUhlMfiX-vbpW",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_3042e44f53db527856372695e521b94d",
     "name": "2022 SC BAC (Conditionnement de Canettes de Boisson) (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -19853,34 +18131,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_3b88ba44115e0cc713ca889d96768952",
-    "name": "2023 SP (Panneau Publicitaire) (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1CtTtXlqqWXlTC75CNLo-Rg-mObMh6uEg/preview",
-    "previewUrl": "https://drive.google.com/file/d/1CtTtXlqqWXlTC75CNLo-Rg-mObMh6uEg/preview",
-    "viewUrl": "https://drive.google.com/file/d/1CtTtXlqqWXlTC75CNLo-Rg-mObMh6uEg/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1CtTtXlqqWXlTC75CNLo-Rg-mObMh6uEg",
-    "driveId": "1CtTtXlqqWXlTC75CNLo-Rg-mObMh6uEg",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_1f12a2f7cc663caf072176029793aabb",
-    "name": "2024 SC BAC (Système Automatique de Stockage de Batteries) NR + Correction (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1CXDeb7ePyuwgUJAKeQr5qnDYhXbeOuFt/preview",
-    "previewUrl": "https://drive.google.com/file/d/1CXDeb7ePyuwgUJAKeQr5qnDYhXbeOuFt/preview",
-    "viewUrl": "https://drive.google.com/file/d/1CXDeb7ePyuwgUJAKeQr5qnDYhXbeOuFt/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1CXDeb7ePyuwgUJAKeQr5qnDYhXbeOuFt",
-    "driveId": "1CXDeb7ePyuwgUJAKeQr5qnDYhXbeOuFt",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_8c5cb85dd57da69a2b8767ad79370fdc",
     "name": "2024 SC BAC (Unité de Tri de Bouteilles) AR + Correction (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -19895,34 +18145,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_83c2efac1b8d3c7a78f9e724b6b6199c",
-    "name": "Bac 2024 SP (Ascenseur à Trois Niveaux) (AR) + Correction (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1VNsrKvaciilV0sGKp3qDLWMn7DsrrYkg/preview",
-    "previewUrl": "https://drive.google.com/file/d/1VNsrKvaciilV0sGKp3qDLWMn7DsrrYkg/preview",
-    "viewUrl": "https://drive.google.com/file/d/1VNsrKvaciilV0sGKp3qDLWMn7DsrrYkg/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1VNsrKvaciilV0sGKp3qDLWMn7DsrrYkg",
-    "driveId": "1VNsrKvaciilV0sGKp3qDLWMn7DsrrYkg",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_4d6e24a7b6f11549f4a7ce37f7abcac3",
-    "name": "Bac 2024 SP (Bus Electrique) (NR) + Correction (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1RoLsRuSTaJVq0GCHvl0SDOB1P61m0uEB/preview",
-    "previewUrl": "https://drive.google.com/file/d/1RoLsRuSTaJVq0GCHvl0SDOB1P61m0uEB/preview",
-    "viewUrl": "https://drive.google.com/file/d/1RoLsRuSTaJVq0GCHvl0SDOB1P61m0uEB/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1RoLsRuSTaJVq0GCHvl0SDOB1P61m0uEB",
-    "driveId": "1RoLsRuSTaJVq0GCHvl0SDOB1P61m0uEB",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_ee99b7993644965510a5b7e94fc25734",
     "name": "technique-2015 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -19932,20 +18154,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1PYlwJzdYgwKUjmpUNN8xKDOIF8fVsbBe/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1PYlwJzdYgwKUjmpUNN8xKDOIF8fVsbBe",
     "driveId": "1PYlwJzdYgwKUjmpUNN8xKDOIF8fVsbBe",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_b775b1509d3767ba33f14700eae800b5",
-    "name": "technique_c-2015 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1-lHAZZQbT31ug2QMnzRBuaabvSyoj3JD/preview",
-    "previewUrl": "https://drive.google.com/file/d/1-lHAZZQbT31ug2QMnzRBuaabvSyoj3JD/preview",
-    "viewUrl": "https://drive.google.com/file/d/1-lHAZZQbT31ug2QMnzRBuaabvSyoj3JD/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1-lHAZZQbT31ug2QMnzRBuaabvSyoj3JD",
-    "driveId": "1-lHAZZQbT31ug2QMnzRBuaabvSyoj3JD",
     "section": "technique",
     "subject": "elect",
     "folder": "Exercices"
@@ -20021,20 +18229,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_6b0bfb4a406ea7010e475eb31ab42ba4",
-    "name": "technique-2019 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1RDg107pq1RxUzeYuJ_Y-H1alNOLcY3x9/preview",
-    "previewUrl": "https://drive.google.com/file/d/1RDg107pq1RxUzeYuJ_Y-H1alNOLcY3x9/preview",
-    "viewUrl": "https://drive.google.com/file/d/1RDg107pq1RxUzeYuJ_Y-H1alNOLcY3x9/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1RDg107pq1RxUzeYuJ_Y-H1alNOLcY3x9",
-    "driveId": "1RDg107pq1RxUzeYuJ_Y-H1alNOLcY3x9",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_afa15508e2ea47dc96c1047c7ede8b65",
     "name": "technique_c-2019 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -20044,20 +18238,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/11zqVcIxKTb7Q9HZFm4weIf8v3taWUDkW/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=11zqVcIxKTb7Q9HZFm4weIf8v3taWUDkW",
     "driveId": "11zqVcIxKTb7Q9HZFm4weIf8v3taWUDkW",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_a34a8b80c015b8511a22adc8dca6cfaa",
-    "name": "technique-2020 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/17qm1FUo5gWhLtw_gi8-cWRwnOgArOXSS/preview",
-    "previewUrl": "https://drive.google.com/file/d/17qm1FUo5gWhLtw_gi8-cWRwnOgArOXSS/preview",
-    "viewUrl": "https://drive.google.com/file/d/17qm1FUo5gWhLtw_gi8-cWRwnOgArOXSS/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=17qm1FUo5gWhLtw_gi8-cWRwnOgArOXSS",
-    "driveId": "17qm1FUo5gWhLtw_gi8-cWRwnOgArOXSS",
     "section": "technique",
     "subject": "elect",
     "folder": "Exercices"
@@ -20133,20 +18313,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_e3c5619125a52c640ccc512ba7edda77",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1T_1quxoQ8IR0S_NsOd5LZuMHu9jR25vG/preview",
-    "previewUrl": "https://drive.google.com/file/d/1T_1quxoQ8IR0S_NsOd5LZuMHu9jR25vG/preview",
-    "viewUrl": "https://drive.google.com/file/d/1T_1quxoQ8IR0S_NsOd5LZuMHu9jR25vG/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1T_1quxoQ8IR0S_NsOd5LZuMHu9jR25vG",
-    "driveId": "1T_1quxoQ8IR0S_NsOd5LZuMHu9jR25vG",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_110690c904f1a7831f4757cb7f3f9fe4",
     "name": "technique-2015 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -20184,20 +18350,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/148X0BDzJUsQRZP2o9cfyQzD6fwBHQMeC/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=148X0BDzJUsQRZP2o9cfyQzD6fwBHQMeC",
     "driveId": "148X0BDzJUsQRZP2o9cfyQzD6fwBHQMeC",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_96b8d46f5632c3bf230cf38ce09b1d82",
-    "name": "technique_c-2016 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1uLH1QGc9F4jnxOZjDE1EW2vlyZoFbyGf/preview",
-    "previewUrl": "https://drive.google.com/file/d/1uLH1QGc9F4jnxOZjDE1EW2vlyZoFbyGf/preview",
-    "viewUrl": "https://drive.google.com/file/d/1uLH1QGc9F4jnxOZjDE1EW2vlyZoFbyGf/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1uLH1QGc9F4jnxOZjDE1EW2vlyZoFbyGf",
-    "driveId": "1uLH1QGc9F4jnxOZjDE1EW2vlyZoFbyGf",
     "section": "technique",
     "subject": "elect",
     "folder": "Exercices"
@@ -20259,20 +18411,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_97b783dc49811203713976c8d99e73ea",
-    "name": "technique-2019 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/16iZIMKGEzEWLU0Zi_TAh-f0dfnHeCOrV/preview",
-    "previewUrl": "https://drive.google.com/file/d/16iZIMKGEzEWLU0Zi_TAh-f0dfnHeCOrV/preview",
-    "viewUrl": "https://drive.google.com/file/d/16iZIMKGEzEWLU0Zi_TAh-f0dfnHeCOrV/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=16iZIMKGEzEWLU0Zi_TAh-f0dfnHeCOrV",
-    "driveId": "16iZIMKGEzEWLU0Zi_TAh-f0dfnHeCOrV",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_23efc0d30279eaf48c525829201d3199",
     "name": "technique_c-2019 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -20282,34 +18420,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1TZLt6jVXGkuSqo0HkjlIpGluSqJNAxeO/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1TZLt6jVXGkuSqo0HkjlIpGluSqJNAxeO",
     "driveId": "1TZLt6jVXGkuSqo0HkjlIpGluSqJNAxeO",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_97a35f2926907a4911b6beb878888fa7",
-    "name": "technique-2020 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1y8HouS_KMgCtiHnERW_xLft3u39DNQ-f/preview",
-    "previewUrl": "https://drive.google.com/file/d/1y8HouS_KMgCtiHnERW_xLft3u39DNQ-f/preview",
-    "viewUrl": "https://drive.google.com/file/d/1y8HouS_KMgCtiHnERW_xLft3u39DNQ-f/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1y8HouS_KMgCtiHnERW_xLft3u39DNQ-f",
-    "driveId": "1y8HouS_KMgCtiHnERW_xLft3u39DNQ-f",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_186693f4676b8e67d7f16f146cd0f0ff",
-    "name": "technique-2021 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/14NQMl1vbsynfXW-EwLcK3TXJPfACPnQp/preview",
-    "previewUrl": "https://drive.google.com/file/d/14NQMl1vbsynfXW-EwLcK3TXJPfACPnQp/preview",
-    "viewUrl": "https://drive.google.com/file/d/14NQMl1vbsynfXW-EwLcK3TXJPfACPnQp/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=14NQMl1vbsynfXW-EwLcK3TXJPfACPnQp",
-    "driveId": "14NQMl1vbsynfXW-EwLcK3TXJPfACPnQp",
     "section": "technique",
     "subject": "elect",
     "folder": "Exercices"
@@ -20357,20 +18467,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_1d94eaf2db5bc0912e32a1a8f3cbb570",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1fHZZk_7Df0WzlZu0Ik5llktZxSiU1GFJ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1fHZZk_7Df0WzlZu0Ik5llktZxSiU1GFJ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1fHZZk_7Df0WzlZu0Ik5llktZxSiU1GFJ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1fHZZk_7Df0WzlZu0Ik5llktZxSiU1GFJ",
-    "driveId": "1fHZZk_7Df0WzlZu0Ik5llktZxSiU1GFJ",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_d3e3da7f782b09bae45455e3affd11af",
     "name": "DR-new (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -20380,34 +18476,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1mffNhq5jpLagzem4jPRhURzPE8UWL4Dy/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1mffNhq5jpLagzem4jPRhURzPE8UWL4Dy",
     "driveId": "1mffNhq5jpLagzem4jPRhURzPE8UWL4Dy",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_97fa4b25565f20a54a178e1a34f5d24b",
-    "name": "DT-new (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1AtLMrAk0nJEzVi8p4SoW3kQJuh3UkCIy/preview",
-    "previewUrl": "https://drive.google.com/file/d/1AtLMrAk0nJEzVi8p4SoW3kQJuh3UkCIy/preview",
-    "viewUrl": "https://drive.google.com/file/d/1AtLMrAk0nJEzVi8p4SoW3kQJuh3UkCIy/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1AtLMrAk0nJEzVi8p4SoW3kQJuh3UkCIy",
-    "driveId": "1AtLMrAk0nJEzVi8p4SoW3kQJuh3UkCIy",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_a0c93d1eefc8ed62886261ad50b8f182",
-    "name": "technique_2024 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ej5xvtEE80yAzqC_4wGvDjjfqKkWjL5I/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ej5xvtEE80yAzqC_4wGvDjjfqKkWjL5I/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ej5xvtEE80yAzqC_4wGvDjjfqKkWjL5I/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ej5xvtEE80yAzqC_4wGvDjjfqKkWjL5I",
-    "driveId": "1ej5xvtEE80yAzqC_4wGvDjjfqKkWjL5I",
     "section": "technique",
     "subject": "elect",
     "folder": "Exercices"
@@ -20497,20 +18565,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_f24949cfdffce15a62c9a39a5c6a9db2",
-    "name": "Etude-de-texte-1-3 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Jsbxnunrx3eQABBhiJM-TQGR36cjrLu2/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Jsbxnunrx3eQABBhiJM-TQGR36cjrLu2/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Jsbxnunrx3eQABBhiJM-TQGR36cjrLu2/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Jsbxnunrx3eQABBhiJM-TQGR36cjrLu2",
-    "driveId": "1Jsbxnunrx3eQABBhiJM-TQGR36cjrLu2",
-    "section": "technique",
-    "subject": "francais",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_4763e1861d3f6227eddd020aa63aa72b",
     "name": "resume lpm (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -20525,20 +18579,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_f462b5dfb39bdbac0e762f72c830a66b",
-    "name": "méthodologie français - bel fallagui (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1kTIJsEDxqSgVbX_rKY3LsdgwF-Eel9rI/preview",
-    "previewUrl": "https://drive.google.com/file/d/1kTIJsEDxqSgVbX_rKY3LsdgwF-Eel9rI/preview",
-    "viewUrl": "https://drive.google.com/file/d/1kTIJsEDxqSgVbX_rKY3LsdgwF-Eel9rI/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1kTIJsEDxqSgVbX_rKY3LsdgwF-Eel9rI",
-    "driveId": "1kTIJsEDxqSgVbX_rKY3LsdgwF-Eel9rI",
-    "section": "technique",
-    "subject": "francais",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_c646f8d67c2a2b580be9f0bece0cac9d",
     "name": "resuume francais (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -20551,34 +18591,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "francais",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_30b0027577167e0c90d84b75587104fb",
-    "name": ".corrigè-cause-conséquence (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1B7U-5fpIYmg7WCu_GWKVXbShaU-rohRt/preview",
-    "previewUrl": "https://drive.google.com/file/d/1B7U-5fpIYmg7WCu_GWKVXbShaU-rohRt/preview",
-    "viewUrl": "https://drive.google.com/file/d/1B7U-5fpIYmg7WCu_GWKVXbShaU-rohRt/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1B7U-5fpIYmg7WCu_GWKVXbShaU-rohRt",
-    "driveId": "1B7U-5fpIYmg7WCu_GWKVXbShaU-rohRt",
-    "section": "technique",
-    "subject": "francais",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_72e303ccafe6414bb2340f4d4a1eb564",
-    "name": "CORRIGE-2_ESSAI (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1fd2C8TdStJeBQIzglks02EUj525HA1Z0/preview",
-    "previewUrl": "https://drive.google.com/file/d/1fd2C8TdStJeBQIzglks02EUj525HA1Z0/preview",
-    "viewUrl": "https://drive.google.com/file/d/1fd2C8TdStJeBQIzglks02EUj525HA1Z0/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1fd2C8TdStJeBQIzglks02EUj525HA1Z0",
-    "driveId": "1fd2C8TdStJeBQIzglks02EUj525HA1Z0",
-    "section": "technique",
-    "subject": "francais",
-    "folder": "Résumés"
   },
   {
     "id": "preload_fbd195e4cadbd375f1f3641cdf606caa",
@@ -20665,48 +18677,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_ab6223ff0cc0463dea9b21e8e8c852c4",
-    "name": "VOC-VOYAGE-1-answer (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1lIP3mZXq3neBc7LP0hK4uvPsSeGIm8k1/preview",
-    "previewUrl": "https://drive.google.com/file/d/1lIP3mZXq3neBc7LP0hK4uvPsSeGIm8k1/preview",
-    "viewUrl": "https://drive.google.com/file/d/1lIP3mZXq3neBc7LP0hK4uvPsSeGIm8k1/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1lIP3mZXq3neBc7LP0hK4uvPsSeGIm8k1",
-    "driveId": "1lIP3mZXq3neBc7LP0hK4uvPsSeGIm8k1",
-    "section": "technique",
-    "subject": "francais",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_d3f9f8de6cb5af803ccfa26fa8a33d0c",
-    "name": "Les-principales-figures-de-style-bacorgtn (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1nFQDbmOV3bIcvUZMGQBSYaQkeh9oIDcn/preview",
-    "previewUrl": "https://drive.google.com/file/d/1nFQDbmOV3bIcvUZMGQBSYaQkeh9oIDcn/preview",
-    "viewUrl": "https://drive.google.com/file/d/1nFQDbmOV3bIcvUZMGQBSYaQkeh9oIDcn/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1nFQDbmOV3bIcvUZMGQBSYaQkeh9oIDcn",
-    "driveId": "1nFQDbmOV3bIcvUZMGQBSYaQkeh9oIDcn",
-    "section": "technique",
-    "subject": "francais",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_53db0c72414e1546b839972cda022e91",
-    "name": "Guide Algo (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1LYSctYWOIhVfOx9_816RztR4BkXgAjRp/preview",
-    "previewUrl": "https://drive.google.com/file/d/1LYSctYWOIhVfOx9_816RztR4BkXgAjRp/preview",
-    "viewUrl": "https://drive.google.com/file/d/1LYSctYWOIhVfOx9_816RztR4BkXgAjRp/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1LYSctYWOIhVfOx9_816RztR4BkXgAjRp",
-    "driveId": "1LYSctYWOIhVfOx9_816RztR4BkXgAjRp",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_61f0815e43271ad2b0f87541406b841e",
     "name": "Quelques algorithmes arithmétiques (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -20735,20 +18705,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_f0e6a2d1b20a969f0a4289c392224697",
-    "name": "Résumé Algo (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Mwy_nPmFZBECNRGpq07S6abL3fZhkp9I/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Mwy_nPmFZBECNRGpq07S6abL3fZhkp9I/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Mwy_nPmFZBECNRGpq07S6abL3fZhkp9I/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Mwy_nPmFZBECNRGpq07S6abL3fZhkp9I",
-    "driveId": "1Mwy_nPmFZBECNRGpq07S6abL3fZhkp9I",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_5cd491994f9733bc5e8f93d6e441cd3c",
     "name": "vocab (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -20758,20 +18714,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1XZJbjxdsSRdcyaHux-bpQkw6NjkBHrdi/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1XZJbjxdsSRdcyaHux-bpQkw6NjkBHrdi",
     "driveId": "1XZJbjxdsSRdcyaHux-bpQkw6NjkBHrdi",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_69fdb551146e4cc3f20a9f5d26b980b6",
-    "name": "Guide Python (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Ax15SJ8jxVhYvVn-UNyXSPWM1OjHGE5M/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Ax15SJ8jxVhYvVn-UNyXSPWM1OjHGE5M/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Ax15SJ8jxVhYvVn-UNyXSPWM1OjHGE5M/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ax15SJ8jxVhYvVn-UNyXSPWM1OjHGE5M",
-    "driveId": "1Ax15SJ8jxVhYvVn-UNyXSPWM1OjHGE5M",
     "section": "technique",
     "subject": "info",
     "folder": "Cours"
@@ -20800,20 +18742,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1wYZbHupD5v-h0X6cFFQ2Ri-YQk_gcGQW/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1wYZbHupD5v-h0X6cFFQ2Ri-YQk_gcGQW",
     "driveId": "1wYZbHupD5v-h0X6cFFQ2Ri-YQk_gcGQW",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_9898709c55bd231dae0e1b6fa9e898e4",
-    "name": "Résumé Python (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1dopr9kHFjz5FX8KQ21y3rO7rUguEYfaP/preview",
-    "previewUrl": "https://drive.google.com/file/d/1dopr9kHFjz5FX8KQ21y3rO7rUguEYfaP/preview",
-    "viewUrl": "https://drive.google.com/file/d/1dopr9kHFjz5FX8KQ21y3rO7rUguEYfaP/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1dopr9kHFjz5FX8KQ21y3rO7rUguEYfaP",
-    "driveId": "1dopr9kHFjz5FX8KQ21y3rO7rUguEYfaP",
     "section": "technique",
     "subject": "info",
     "folder": "Résumés"
@@ -21183,20 +19111,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_3febf6b9249405e463b43559462b9ad4",
-    "name": "Manuel-de-révision-bac-pratique (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1z_FGgsAq4syAhcrYTj8kzFQg8Z7Wy-kY/preview",
-    "previewUrl": "https://drive.google.com/file/d/1z_FGgsAq4syAhcrYTj8kzFQg8Z7Wy-kY/preview",
-    "viewUrl": "https://drive.google.com/file/d/1z_FGgsAq4syAhcrYTj8kzFQg8Z7Wy-kY/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1z_FGgsAq4syAhcrYTj8kzFQg8Z7Wy-kY",
-    "driveId": "1z_FGgsAq4syAhcrYTj8kzFQg8Z7Wy-kY",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_c17d89a925ae01a679c879d7f93bbba7",
     "name": "Revision-pratique-Info (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -21321,20 +19235,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "mathssvt",
     "folder": "Exercices"
-  },
-  {
-    "id": "preload_d4ffe9b10d85abded211bda1207ad2b0",
-    "name": "Fonction composé (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1f7LPBrsXM8JO7CTm1s58_JLsYe3ksVwP/preview",
-    "previewUrl": "https://drive.google.com/file/d/1f7LPBrsXM8JO7CTm1s58_JLsYe3ksVwP/preview",
-    "viewUrl": "https://drive.google.com/file/d/1f7LPBrsXM8JO7CTm1s58_JLsYe3ksVwP/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1f7LPBrsXM8JO7CTm1s58_JLsYe3ksVwP",
-    "driveId": "1f7LPBrsXM8JO7CTm1s58_JLsYe3ksVwP",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Cours"
   },
   {
     "id": "preload_2fd2f8787695a0f767f681d61f9a3ef0",
@@ -21785,20 +19685,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_f091cb73da266e96f491d0dcb86370a3",
-    "name": "Copie de Fonction composé (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1QcO7pgH7TGuABozJua9VKHguiO4Msl9x/preview",
-    "previewUrl": "https://drive.google.com/file/d/1QcO7pgH7TGuABozJua9VKHguiO4Msl9x/preview",
-    "viewUrl": "https://drive.google.com/file/d/1QcO7pgH7TGuABozJua9VKHguiO4Msl9x/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1QcO7pgH7TGuABozJua9VKHguiO4Msl9x",
-    "driveId": "1QcO7pgH7TGuABozJua9VKHguiO4Msl9x",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_e9473168459c0d75e41ab58919d816dc",
     "name": "Cours Limites et Continuité (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -21967,20 +19853,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_bdbad640616bfbedf218a6cbada451df",
-    "name": "Résumé-fonction-ln_ (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1q5xndFXiK6P-GHLSR8c0kMK0ePoObbLP/preview",
-    "previewUrl": "https://drive.google.com/file/d/1q5xndFXiK6P-GHLSR8c0kMK0ePoObbLP/preview",
-    "viewUrl": "https://drive.google.com/file/d/1q5xndFXiK6P-GHLSR8c0kMK0ePoObbLP/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1q5xndFXiK6P-GHLSR8c0kMK0ePoObbLP",
-    "driveId": "1q5xndFXiK6P-GHLSR8c0kMK0ePoObbLP",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_9b7862b1ef31e51fc4107ac1e76435fb",
     "name": "ex ln avec corr (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -22135,20 +20007,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_79771c36ff6682196838c78ab9876fed",
-    "name": "Logarithme_A.B.O (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/19u3Njv9o9sDqnI4oUQjqAVUsDNxhQ3vr/preview",
-    "previewUrl": "https://drive.google.com/file/d/19u3Njv9o9sDqnI4oUQjqAVUsDNxhQ3vr/preview",
-    "viewUrl": "https://drive.google.com/file/d/19u3Njv9o9sDqnI4oUQjqAVUsDNxhQ3vr/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=19u3Njv9o9sDqnI4oUQjqAVUsDNxhQ3vr",
-    "driveId": "19u3Njv9o9sDqnI4oUQjqAVUsDNxhQ3vr",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_e8ae1ae167a96c3b10df473c5f5029be",
     "name": "Serie 3 Fontion Ln-Wael Ben Othmane (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -22284,20 +20142,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1xg-PUEt8BTqMsqvtuwJN9dAYj3_lKAWG/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1xg-PUEt8BTqMsqvtuwJN9dAYj3_lKAWG",
     "driveId": "1xg-PUEt8BTqMsqvtuwJN9dAYj3_lKAWG",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_6dd9e76d6e20e22d4c2f320fc110538e",
-    "name": "Serie_Primitive_A.B.O (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/17gH3SyRVdC3Txi57jW3AoNAck3pXoT8a/preview",
-    "previewUrl": "https://drive.google.com/file/d/17gH3SyRVdC3Txi57jW3AoNAck3pXoT8a/preview",
-    "viewUrl": "https://drive.google.com/file/d/17gH3SyRVdC3Txi57jW3AoNAck3pXoT8a/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=17gH3SyRVdC3Txi57jW3AoNAck3pXoT8a",
-    "driveId": "17gH3SyRVdC3Txi57jW3AoNAck3pXoT8a",
     "section": "technique",
     "subject": "mathssvt",
     "folder": "Exercices"
@@ -22555,34 +20399,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_2a5ba57b79a9e950a5791893a8b5f2f8",
-    "name": "Cmplx+Continuité-3-A.B.O-corr (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1q6vqj1c3T6Li-eivSwnpNusYDhn4jYFm/preview",
-    "previewUrl": "https://drive.google.com/file/d/1q6vqj1c3T6Li-eivSwnpNusYDhn4jYFm/preview",
-    "viewUrl": "https://drive.google.com/file/d/1q6vqj1c3T6Li-eivSwnpNusYDhn4jYFm/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1q6vqj1c3T6Li-eivSwnpNusYDhn4jYFm",
-    "driveId": "1q6vqj1c3T6Li-eivSwnpNusYDhn4jYFm",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_37b3fd70c14f47aa822134296bf94c20",
-    "name": "Corr-Cmplx+Continuité-A.B.O (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1gWs3kVDv8g30gYRjxeXUJZzBrOfBzcVW/preview",
-    "previewUrl": "https://drive.google.com/file/d/1gWs3kVDv8g30gYRjxeXUJZzBrOfBzcVW/preview",
-    "viewUrl": "https://drive.google.com/file/d/1gWs3kVDv8g30gYRjxeXUJZzBrOfBzcVW/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1gWs3kVDv8g30gYRjxeXUJZzBrOfBzcVW",
-    "driveId": "1gWs3kVDv8g30gYRjxeXUJZzBrOfBzcVW",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_e49bbd68d63e4c136d3a314da368974d",
     "name": "corr-Limites et Complexe-A.B.O (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -22606,34 +20422,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1CqOgNrAkUNjWF4lWjpNYMapUDPx2Etgb/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1CqOgNrAkUNjWF4lWjpNYMapUDPx2Etgb",
     "driveId": "1CqOgNrAkUNjWF4lWjpNYMapUDPx2Etgb",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_8459858458e4e3979ca7c8c1747072bd",
-    "name": "corr_Proba+Integrale+exp(x)_A.B.O (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1pYnvF8oO_G_ReQwHpXbyjp8MlNA6olnY/preview",
-    "previewUrl": "https://drive.google.com/file/d/1pYnvF8oO_G_ReQwHpXbyjp8MlNA6olnY/preview",
-    "viewUrl": "https://drive.google.com/file/d/1pYnvF8oO_G_ReQwHpXbyjp8MlNA6olnY/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1pYnvF8oO_G_ReQwHpXbyjp8MlNA6olnY",
-    "driveId": "1pYnvF8oO_G_ReQwHpXbyjp8MlNA6olnY",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_0fb65a0367863d972ab721c4e028df29",
-    "name": "corr serie 11 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1nuHrusnxZe3npg0lefezah2fevlf7MXo/preview",
-    "previewUrl": "https://drive.google.com/file/d/1nuHrusnxZe3npg0lefezah2fevlf7MXo/preview",
-    "viewUrl": "https://drive.google.com/file/d/1nuHrusnxZe3npg0lefezah2fevlf7MXo/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1nuHrusnxZe3npg0lefezah2fevlf7MXo",
-    "driveId": "1nuHrusnxZe3npg0lefezah2fevlf7MXo",
     "section": "technique",
     "subject": "mathssvt",
     "folder": "Exercices"
@@ -23199,20 +20987,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_9e97a5868a057fe52726511fbdd0c345",
-    "name": "Espace_A.B.O (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/10txaW7IBIBnzhsHyy78HEAtlqgJDJhDx/preview",
-    "previewUrl": "https://drive.google.com/file/d/10txaW7IBIBnzhsHyy78HEAtlqgJDJhDx/preview",
-    "viewUrl": "https://drive.google.com/file/d/10txaW7IBIBnzhsHyy78HEAtlqgJDJhDx/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=10txaW7IBIBnzhsHyy78HEAtlqgJDJhDx",
-    "driveId": "10txaW7IBIBnzhsHyy78HEAtlqgJDJhDx",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_040256a17c4d819979139047da35779b",
     "name": "Géométrie-dans-lespace-24-25_Laataoui (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -23255,20 +21029,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_6ad1be6e0782626861fe3b5c12f07913",
-    "name": "Serie_espace_A.B.O (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1kxpzShkGRrTJt8TPn2plaKsjFQXd2HE3/preview",
-    "previewUrl": "https://drive.google.com/file/d/1kxpzShkGRrTJt8TPn2plaKsjFQXd2HE3/preview",
-    "viewUrl": "https://drive.google.com/file/d/1kxpzShkGRrTJt8TPn2plaKsjFQXd2HE3/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1kxpzShkGRrTJt8TPn2plaKsjFQXd2HE3",
-    "driveId": "1kxpzShkGRrTJt8TPn2plaKsjFQXd2HE3",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_310128fbf227e9b14bff555c4c077e18",
     "name": "Serie_Espace_Guiga (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -23278,20 +21038,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1BPkFMA9E_cADpydfnE-_QDEWMDMEZTre/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1BPkFMA9E_cADpydfnE-_QDEWMDMEZTre",
     "driveId": "1BPkFMA9E_cADpydfnE-_QDEWMDMEZTre",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_081d5f1bee96a836780b49e81960f27b",
-    "name": "Space(+corr) (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1zGBLuz_FBnHwjCSrw5W0xZ0GoUnpVV2s/preview",
-    "previewUrl": "https://drive.google.com/file/d/1zGBLuz_FBnHwjCSrw5W0xZ0GoUnpVV2s/preview",
-    "viewUrl": "https://drive.google.com/file/d/1zGBLuz_FBnHwjCSrw5W0xZ0GoUnpVV2s/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1zGBLuz_FBnHwjCSrw5W0xZ0GoUnpVV2s",
-    "driveId": "1zGBLuz_FBnHwjCSrw5W0xZ0GoUnpVV2s",
     "section": "technique",
     "subject": "mathssvt",
     "folder": "Exercices"
@@ -23661,34 +21407,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_b959f9d9b218e20f3f7be8f1c151f86b",
-    "name": "Résumé-probabilités. (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1wW4Igyd_dP9Lt_9B-OA578plw2gl33XH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1wW4Igyd_dP9Lt_9B-OA578plw2gl33XH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1wW4Igyd_dP9Lt_9B-OA578plw2gl33XH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1wW4Igyd_dP9Lt_9B-OA578plw2gl33XH",
-    "driveId": "1wW4Igyd_dP9Lt_9B-OA578plw2gl33XH",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_d9bd12e25a2a3582b886493e4dd022d3",
-    "name": "Résumé-probabilités. (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/15CD4AYZYdRCgwlHVQBZ5FMEvWv7n4iUf/preview",
-    "previewUrl": "https://drive.google.com/file/d/15CD4AYZYdRCgwlHVQBZ5FMEvWv7n4iUf/preview",
-    "viewUrl": "https://drive.google.com/file/d/15CD4AYZYdRCgwlHVQBZ5FMEvWv7n4iUf/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=15CD4AYZYdRCgwlHVQBZ5FMEvWv7n4iUf",
-    "driveId": "15CD4AYZYdRCgwlHVQBZ5FMEvWv7n4iUf",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_a7fc49c09ca2fcd5b309e103379ff0e1",
     "name": "proba_A.B.O-1 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -23857,34 +21575,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_923ca8ff124355ac6859aa53ddb8fbbe",
-    "name": "corr-dc1-4éme-Sc-2021-2022 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1qHiHE3Ye3pMieXQOZObmNLQD_StoKX6y/preview",
-    "previewUrl": "https://drive.google.com/file/d/1qHiHE3Ye3pMieXQOZObmNLQD_StoKX6y/preview",
-    "viewUrl": "https://drive.google.com/file/d/1qHiHE3Ye3pMieXQOZObmNLQD_StoKX6y/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1qHiHE3Ye3pMieXQOZObmNLQD_StoKX6y",
-    "driveId": "1qHiHE3Ye3pMieXQOZObmNLQD_StoKX6y",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_08126e32162cb1fcdbb697c0d98aee80",
-    "name": "corr ex 2 3 4 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1j9RM4_yqMA-iC0bklYG0DGVuAV72P0ys/preview",
-    "previewUrl": "https://drive.google.com/file/d/1j9RM4_yqMA-iC0bklYG0DGVuAV72P0ys/preview",
-    "viewUrl": "https://drive.google.com/file/d/1j9RM4_yqMA-iC0bklYG0DGVuAV72P0ys/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1j9RM4_yqMA-iC0bklYG0DGVuAV72P0ys",
-    "driveId": "1j9RM4_yqMA-iC0bklYG0DGVuAV72P0ys",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_3c0a27fb8646388ca2eba69f156ce40d",
     "name": "DC1_Rev_A.B.O (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -23894,34 +21584,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1BXuq_oGR6FM8Md42VlSesiCM95KBFQco/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1BXuq_oGR6FM8Md42VlSesiCM95KBFQco",
     "driveId": "1BXuq_oGR6FM8Md42VlSesiCM95KBFQco",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_030602736aa847504f41da3cfa52bbce",
-    "name": "DC1-A.B.O.. (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Tgiq_HyOx9w6QRcjJLGxzpnXmsPxv1tA/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Tgiq_HyOx9w6QRcjJLGxzpnXmsPxv1tA/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Tgiq_HyOx9w6QRcjJLGxzpnXmsPxv1tA/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Tgiq_HyOx9w6QRcjJLGxzpnXmsPxv1tA",
-    "driveId": "1Tgiq_HyOx9w6QRcjJLGxzpnXmsPxv1tA",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_96d8f24a5e41942ab10895955ca8d7f6",
-    "name": "DC1-A.B.O (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1MyT3jyIUCjCQzTGnkDS2d6i8sB7VCJiQ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1MyT3jyIUCjCQzTGnkDS2d6i8sB7VCJiQ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1MyT3jyIUCjCQzTGnkDS2d6i8sB7VCJiQ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1MyT3jyIUCjCQzTGnkDS2d6i8sB7VCJiQ",
-    "driveId": "1MyT3jyIUCjCQzTGnkDS2d6i8sB7VCJiQ",
     "section": "technique",
     "subject": "mathssvt",
     "folder": "Exercices"
@@ -24095,20 +21757,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_d09da0750beb835cb3e5dfb29244f1d6",
-    "name": "DC2_4tech_2024_Atef_chaieb (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1JvtT_rr-IBcb2-y5G_TocCFWaP_n9rka/preview",
-    "previewUrl": "https://drive.google.com/file/d/1JvtT_rr-IBcb2-y5G_TocCFWaP_n9rka/preview",
-    "viewUrl": "https://drive.google.com/file/d/1JvtT_rr-IBcb2-y5G_TocCFWaP_n9rka/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1JvtT_rr-IBcb2-y5G_TocCFWaP_n9rka",
-    "driveId": "1JvtT_rr-IBcb2-y5G_TocCFWaP_n9rka",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_9cf7b5edf4bfab72015af7fa5b650673",
     "name": "DC2_4tech_jamel_2022 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -24207,34 +21855,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_3c404813850e84966815f8c03742b666",
-    "name": "Dvr sc (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/17SDu1HERGExEOmj1X17tcuquhhw-Kt9m/preview",
-    "previewUrl": "https://drive.google.com/file/d/17SDu1HERGExEOmj1X17tcuquhhw-Kt9m/preview",
-    "viewUrl": "https://drive.google.com/file/d/17SDu1HERGExEOmj1X17tcuquhhw-Kt9m/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=17SDu1HERGExEOmj1X17tcuquhhw-Kt9m",
-    "driveId": "17SDu1HERGExEOmj1X17tcuquhhw-Kt9m",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_80f59bba850960093b0c6b98320daafc",
-    "name": "Dvr sc (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1IhA_MDlLH69pLkAobhMfVmzwXg_GuP_n/preview",
-    "previewUrl": "https://drive.google.com/file/d/1IhA_MDlLH69pLkAobhMfVmzwXg_GuP_n/preview",
-    "viewUrl": "https://drive.google.com/file/d/1IhA_MDlLH69pLkAobhMfVmzwXg_GuP_n/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1IhA_MDlLH69pLkAobhMfVmzwXg_GuP_n",
-    "driveId": "1IhA_MDlLH69pLkAobhMfVmzwXg_GuP_n",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_ccc9d68d8f04349d6264204c6d52657d",
     "name": "DS1-Corr (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -24305,20 +21925,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_5ff670f631cf45d06cc4f30b10b4ad92",
-    "name": "DS1_4sc_ISE_2024_2025 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1GiGbf6J1aZKXQ_wNB3939BNPoA4lwLVG/preview",
-    "previewUrl": "https://drive.google.com/file/d/1GiGbf6J1aZKXQ_wNB3939BNPoA4lwLVG/preview",
-    "viewUrl": "https://drive.google.com/file/d/1GiGbf6J1aZKXQ_wNB3939BNPoA4lwLVG/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1GiGbf6J1aZKXQ_wNB3939BNPoA4lwLVG",
-    "driveId": "1GiGbf6J1aZKXQ_wNB3939BNPoA4lwLVG",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_cf86990f80dfcd97b8ccb97e52c9bd6b",
     "name": "Dvr-math2019 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -24328,20 +21934,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1Vx8FIN6JYpztH-S0aoUTScIScz9t9Euq/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Vx8FIN6JYpztH-S0aoUTScIScz9t9Euq",
     "driveId": "1Vx8FIN6JYpztH-S0aoUTScIScz9t9Euq",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_f7a6e524630d2522e5437496d00c101c",
-    "name": "correction du sujet de révision N°27 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/11UNK5S9BgyMzgAP2P8iemaV0AET-59rs/preview",
-    "previewUrl": "https://drive.google.com/file/d/11UNK5S9BgyMzgAP2P8iemaV0AET-59rs/preview",
-    "viewUrl": "https://drive.google.com/file/d/11UNK5S9BgyMzgAP2P8iemaV0AET-59rs/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=11UNK5S9BgyMzgAP2P8iemaV0AET-59rs",
-    "driveId": "11UNK5S9BgyMzgAP2P8iemaV0AET-59rs",
     "section": "technique",
     "subject": "mathssvt",
     "folder": "Exercices"
@@ -25043,7 +22635,7 @@ window.PRELOADED_FILES = [
     "downloadUrl": "https://drive.google.com/uc?export=download&id=160n7OdD2vCcG63e86z5Bf0RmTAqQF5IF",
     "driveId": "160n7OdD2vCcG63e86z5Bf0RmTAqQF5IF",
     "section": "technique",
-    "subject": "mathssvt",
+    "subject": "physiquetech",
     "folder": "Exercices"
   },
   {
@@ -25057,7 +22649,7 @@ window.PRELOADED_FILES = [
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1J41K2lDPTTJs_MnugLLecJsN57NORvIt",
     "driveId": "1J41K2lDPTTJs_MnugLLecJsN57NORvIt",
     "section": "technique",
-    "subject": "mathssvt",
+    "subject": "physiquetech",
     "folder": "Exercices"
   },
   {
@@ -25071,36 +22663,8 @@ window.PRELOADED_FILES = [
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1-Z2knirQJxuhIsBXSrlJCKjNHXdqFflv",
     "driveId": "1-Z2knirQJxuhIsBXSrlJCKjNHXdqFflv",
     "section": "technique",
-    "subject": "mathssvt",
+    "subject": "physiquetech",
     "folder": "Exercices"
-  },
-  {
-    "id": "preload_073be7d9106b7b196dd4c9c8283ae092",
-    "name": "Cahiers_2_maths_Analyse_Bac_teknik (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1-H6siAEqc-wrdYvrJcX9kRPKf11cUYph/preview",
-    "previewUrl": "https://drive.google.com/file/d/1-H6siAEqc-wrdYvrJcX9kRPKf11cUYph/preview",
-    "viewUrl": "https://drive.google.com/file/d/1-H6siAEqc-wrdYvrJcX9kRPKf11cUYph/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1-H6siAEqc-wrdYvrJcX9kRPKf11cUYph",
-    "driveId": "1-H6siAEqc-wrdYvrJcX9kRPKf11cUYph",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_ec8aba85843ae93d05b6f6d862fd83cc",
-    "name": "resume analyse Mr Chahed (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1mwoTqquRUdCpvejB7mwr1mgx6FKAyNOJ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1mwoTqquRUdCpvejB7mwr1mgx6FKAyNOJ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1mwoTqquRUdCpvejB7mwr1mgx6FKAyNOJ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1mwoTqquRUdCpvejB7mwr1mgx6FKAyNOJ",
-    "driveId": "1mwoTqquRUdCpvejB7mwr1mgx6FKAyNOJ",
-    "section": "technique",
-    "subject": "mathssvt",
-    "folder": "Résumés"
   },
   {
     "id": "preload_041f9e685003742f559c80fa1eab8378",
@@ -25157,20 +22721,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "mec",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_96ebcbc4476b96656a35eb92fc281085",
-    "name": "cour avec video pour tp (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1mpHwo0qUcAHFZjcCK9J6uwKLhJiEuoDM/preview",
-    "previewUrl": "https://drive.google.com/file/d/1mpHwo0qUcAHFZjcCK9J6uwKLhJiEuoDM/preview",
-    "viewUrl": "https://drive.google.com/file/d/1mpHwo0qUcAHFZjcCK9J6uwKLhJiEuoDM/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1mpHwo0qUcAHFZjcCK9J6uwKLhJiEuoDM",
-    "driveId": "1mpHwo0qUcAHFZjcCK9J6uwKLhJiEuoDM",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
   },
   {
     "id": "preload_ef10bf8a5b0dfac95985f7153a12abbf",
@@ -25285,34 +22835,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_473b856b45021ae4ded2746a9e17318c",
-    "name": "guide de montage (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1RG8jBam2NAf4jucJiS1A6w1zXKAJ4RrU/preview",
-    "previewUrl": "https://drive.google.com/file/d/1RG8jBam2NAf4jucJiS1A6w1zXKAJ4RrU/preview",
-    "viewUrl": "https://drive.google.com/file/d/1RG8jBam2NAf4jucJiS1A6w1zXKAJ4RrU/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1RG8jBam2NAf4jucJiS1A6w1zXKAJ4RrU",
-    "driveId": "1RG8jBam2NAf4jucJiS1A6w1zXKAJ4RrU",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_628a59c9bc6fd6654b70601c7dae56a2",
-    "name": "Designation des Materiaux (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1en_3jAIs-Upo0MLa1-2vPYhALavEU0po/preview",
-    "previewUrl": "https://drive.google.com/file/d/1en_3jAIs-Upo0MLa1-2vPYhALavEU0po/preview",
-    "viewUrl": "https://drive.google.com/file/d/1en_3jAIs-Upo0MLa1-2vPYhALavEU0po/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1en_3jAIs-Upo0MLa1-2vPYhALavEU0po",
-    "driveId": "1en_3jAIs-Upo0MLa1-2vPYhALavEU0po",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_08784375ed9b2cb1ecf118f8060358a0",
     "name": "Les Liaisons Mécaniques (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -25341,20 +22863,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_e29259fba00323981725cc28713ebff1",
-    "name": "DP REVISION 2024 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1jKed6__4I4u4g8XKGkjrwD3j8qX61MaN/preview",
-    "previewUrl": "https://drive.google.com/file/d/1jKed6__4I4u4g8XKGkjrwD3j8qX61MaN/preview",
-    "viewUrl": "https://drive.google.com/file/d/1jKed6__4I4u4g8XKGkjrwD3j8qX61MaN/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1jKed6__4I4u4g8XKGkjrwD3j8qX61MaN",
-    "driveId": "1jKed6__4I4u4g8XKGkjrwD3j8qX61MaN",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_a5d339cad802f52ad77dd12b7703e98b",
     "name": "TST4_GENIE_MECANIQUE_BAC_TECHNIQUE (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -25367,34 +22875,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "mec",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_4e80e98bab4ee0a2074a59fbe9a1d086",
-    "name": "CHARIOT ELEVATEUR A TROIS ROUES (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1GPs74pbYfWCFx3w-LRgArxdu1GEJVCnS/preview",
-    "previewUrl": "https://drive.google.com/file/d/1GPs74pbYfWCFx3w-LRgArxdu1GEJVCnS/preview",
-    "viewUrl": "https://drive.google.com/file/d/1GPs74pbYfWCFx3w-LRgArxdu1GEJVCnS/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1GPs74pbYfWCFx3w-LRgArxdu1GEJVCnS",
-    "driveId": "1GPs74pbYfWCFx3w-LRgArxdu1GEJVCnS",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_128a5d5118a507bc646e2cfe9546965d",
-    "name": "DS1 4ScT (Chariot élévateur à Trois Roues) 23-24 + Correction (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1AB88m5M4Jgx37pQL2WN7KQF4DNLEukjH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1AB88m5M4Jgx37pQL2WN7KQF4DNLEukjH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1AB88m5M4Jgx37pQL2WN7KQF4DNLEukjH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1AB88m5M4Jgx37pQL2WN7KQF4DNLEukjH",
-    "driveId": "1AB88m5M4Jgx37pQL2WN7KQF4DNLEukjH",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
   },
   {
     "id": "preload_7f34e3b6df49f0ca2c2eab5881761470",
@@ -25411,20 +22891,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_533d4e1636cbe9e6b32ac17c4fb4fa79",
-    "name": "dossier technique traité (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1IKKxfq0MHeBo9x4evqfT8AMhzLuYE8bH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1IKKxfq0MHeBo9x4evqfT8AMhzLuYE8bH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1IKKxfq0MHeBo9x4evqfT8AMhzLuYE8bH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1IKKxfq0MHeBo9x4evqfT8AMhzLuYE8bH",
-    "driveId": "1IKKxfq0MHeBo9x4evqfT8AMhzLuYE8bH",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_e540a58a65c22e225ead668c389dfcfd",
     "name": "DR (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -25434,20 +22900,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1T3rrp5m8afd13d7By_UYD5ELwKs8S37p/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1T3rrp5m8afd13d7By_UYD5ELwKs8S37p",
     "driveId": "1T3rrp5m8afd13d7By_UYD5ELwKs8S37p",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_8e9efd7316a1ca678b7b2408821708f6",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1shWisy2sZWvym2BGB_wbXMgBUoHaiZ_k/preview",
-    "previewUrl": "https://drive.google.com/file/d/1shWisy2sZWvym2BGB_wbXMgBUoHaiZ_k/preview",
-    "viewUrl": "https://drive.google.com/file/d/1shWisy2sZWvym2BGB_wbXMgBUoHaiZ_k/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1shWisy2sZWvym2BGB_wbXMgBUoHaiZ_k",
-    "driveId": "1shWisy2sZWvym2BGB_wbXMgBUoHaiZ_k",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -25579,20 +23031,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_10282249f63c09ae91398e7d2a5fe9fa",
-    "name": "dossier tech (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1TusUB96Tvn7nu5brpD-7hbrHPNE-Tlj8/preview",
-    "previewUrl": "https://drive.google.com/file/d/1TusUB96Tvn7nu5brpD-7hbrHPNE-Tlj8/preview",
-    "viewUrl": "https://drive.google.com/file/d/1TusUB96Tvn7nu5brpD-7hbrHPNE-Tlj8/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1TusUB96Tvn7nu5brpD-7hbrHPNE-Tlj8",
-    "driveId": "1TusUB96Tvn7nu5brpD-7hbrHPNE-Tlj8",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_d30f8048672985f9916b541519cbd033",
     "name": "Correction-devoir-de-Contrôle-2-2025-idéal (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -25719,48 +23157,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_c5e26793c4964243aab1a2e5ba5941f8",
-    "name": "Corrigé sujet N1 -DR (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1QAR2eTlu7lgM0mmO36a7Vc37cvm3riYl/preview",
-    "previewUrl": "https://drive.google.com/file/d/1QAR2eTlu7lgM0mmO36a7Vc37cvm3riYl/preview",
-    "viewUrl": "https://drive.google.com/file/d/1QAR2eTlu7lgM0mmO36a7Vc37cvm3riYl/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1QAR2eTlu7lgM0mmO36a7Vc37cvm3riYl",
-    "driveId": "1QAR2eTlu7lgM0mmO36a7Vc37cvm3riYl",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_872c91d3f5dea01895bdfb1399be73ac",
-    "name": "sujet N1-DR (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Q7HrulMf7ulAP7_VUrGxmihmFzyaSURn/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Q7HrulMf7ulAP7_VUrGxmihmFzyaSURn/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Q7HrulMf7ulAP7_VUrGxmihmFzyaSURn/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Q7HrulMf7ulAP7_VUrGxmihmFzyaSURn",
-    "driveId": "1Q7HrulMf7ulAP7_VUrGxmihmFzyaSURn",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_66735c21ac41df2a1d6cb398ead67daf",
-    "name": "sujet N1-DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Q6lv2yvpca8nWahPGgJ-L3sWFEKNLxQk/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Q6lv2yvpca8nWahPGgJ-L3sWFEKNLxQk/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Q6lv2yvpca8nWahPGgJ-L3sWFEKNLxQk/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Q6lv2yvpca8nWahPGgJ-L3sWFEKNLxQk",
-    "driveId": "1Q6lv2yvpca8nWahPGgJ-L3sWFEKNLxQk",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_fd86b1e26627424b99e81e125cd52f6c",
     "name": "dessin d'ensemble (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -25859,34 +23255,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_87a445324c5a4cae2338328c14a02459",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1lffjvSV96edhlVd_kgR9mEplBNd7Sv-5/preview",
-    "previewUrl": "https://drive.google.com/file/d/1lffjvSV96edhlVd_kgR9mEplBNd7Sv-5/preview",
-    "viewUrl": "https://drive.google.com/file/d/1lffjvSV96edhlVd_kgR9mEplBNd7Sv-5/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1lffjvSV96edhlVd_kgR9mEplBNd7Sv-5",
-    "driveId": "1lffjvSV96edhlVd_kgR9mEplBNd7Sv-5",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_afda64af524db72ce408c05c17a55bd1",
-    "name": "corr (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1lqQQswsyWjRRaZlam88BZ2kcCMWk0dvR/preview",
-    "previewUrl": "https://drive.google.com/file/d/1lqQQswsyWjRRaZlam88BZ2kcCMWk0dvR/preview",
-    "viewUrl": "https://drive.google.com/file/d/1lqQQswsyWjRRaZlam88BZ2kcCMWk0dvR/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1lqQQswsyWjRRaZlam88BZ2kcCMWk0dvR",
-    "driveId": "1lqQQswsyWjRRaZlam88BZ2kcCMWk0dvR",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_aab12c76837cec1c2e3dc986e1a677cc",
     "name": "DESSIN D'ENSEMBLE (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -25896,34 +23264,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1llWGFRzvUeLZSnGyiDpCgXRQZnd-eZSa/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1llWGFRzvUeLZSnGyiDpCgXRQZnd-eZSa",
     "driveId": "1llWGFRzvUeLZSnGyiDpCgXRQZnd-eZSa",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_67b00a582232ff201dc565fe44ee0c5a",
-    "name": "DR (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1lhVlEc1w0YbiT93G1UwxBqwoKevWE8f6/preview",
-    "previewUrl": "https://drive.google.com/file/d/1lhVlEc1w0YbiT93G1UwxBqwoKevWE8f6/preview",
-    "viewUrl": "https://drive.google.com/file/d/1lhVlEc1w0YbiT93G1UwxBqwoKevWE8f6/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1lhVlEc1w0YbiT93G1UwxBqwoKevWE8f6",
-    "driveId": "1lhVlEc1w0YbiT93G1UwxBqwoKevWE8f6",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_bac511c7625ed19deefdfe991a5fd3cc",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1lgj2NiUtBq1uu-7AyjKS__0CbLS3aiJ4/preview",
-    "previewUrl": "https://drive.google.com/file/d/1lgj2NiUtBq1uu-7AyjKS__0CbLS3aiJ4/preview",
-    "viewUrl": "https://drive.google.com/file/d/1lgj2NiUtBq1uu-7AyjKS__0CbLS3aiJ4/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1lgj2NiUtBq1uu-7AyjKS__0CbLS3aiJ4",
-    "driveId": "1lgj2NiUtBq1uu-7AyjKS__0CbLS3aiJ4",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -25999,34 +23339,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_0eefc96e3fe6be2b27ec103193e7435c",
-    "name": "2014 SP BAC (Installation de Stockage de Blé) (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1vyF9W635gqIvxFewOs2CXDAutkDve0z7/preview",
-    "previewUrl": "https://drive.google.com/file/d/1vyF9W635gqIvxFewOs2CXDAutkDve0z7/preview",
-    "viewUrl": "https://drive.google.com/file/d/1vyF9W635gqIvxFewOs2CXDAutkDve0z7/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1vyF9W635gqIvxFewOs2CXDAutkDve0z7",
-    "driveId": "1vyF9W635gqIvxFewOs2CXDAutkDve0z7",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_69c3c276abea9fb4fb2555b9adb9ffff",
-    "name": "2014 SP BAC (Installation de Stockage de Blé)_2 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1AJrB3idyCm8sb4s4w7VzPdPA5cFAhJMU/preview",
-    "previewUrl": "https://drive.google.com/file/d/1AJrB3idyCm8sb4s4w7VzPdPA5cFAhJMU/preview",
-    "viewUrl": "https://drive.google.com/file/d/1AJrB3idyCm8sb4s4w7VzPdPA5cFAhJMU/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1AJrB3idyCm8sb4s4w7VzPdPA5cFAhJMU",
-    "driveId": "1AJrB3idyCm8sb4s4w7VzPdPA5cFAhJMU",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_a1e825df738f245c3031cab8b8e54f71",
     "name": "BAC 2010 Session Contrôle (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26055,20 +23367,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_84dfc1a44bb397158377656a5714070a",
-    "name": "BAC 2012 Session Contrôle (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1-PiCvhykvBDz5KePO971fZu_qOWA5jyY/preview",
-    "previewUrl": "https://drive.google.com/file/d/1-PiCvhykvBDz5KePO971fZu_qOWA5jyY/preview",
-    "viewUrl": "https://drive.google.com/file/d/1-PiCvhykvBDz5KePO971fZu_qOWA5jyY/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1-PiCvhykvBDz5KePO971fZu_qOWA5jyY",
-    "driveId": "1-PiCvhykvBDz5KePO971fZu_qOWA5jyY",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_f9f9462c48ff97732ddd8cd7e308e236",
     "name": "BAC 2013 Session Contrôle (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26078,20 +23376,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1zkgJoZyJt7FPoo2vl76GFAJJYgvYSe6f/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1zkgJoZyJt7FPoo2vl76GFAJJYgvYSe6f",
     "driveId": "1zkgJoZyJt7FPoo2vl76GFAJJYgvYSe6f",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_500766afd4309db0d7c2c656100196b1",
-    "name": "BAC SC 2009 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1g6Q9aaT5yNHr3btxngt5dEhVXsTeytyT/preview",
-    "previewUrl": "https://drive.google.com/file/d/1g6Q9aaT5yNHr3btxngt5dEhVXsTeytyT/preview",
-    "viewUrl": "https://drive.google.com/file/d/1g6Q9aaT5yNHr3btxngt5dEhVXsTeytyT/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1g6Q9aaT5yNHr3btxngt5dEhVXsTeytyT",
-    "driveId": "1g6Q9aaT5yNHr3btxngt5dEhVXsTeytyT",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -26265,62 +23549,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_329d7261a0da5e04ec7291f23981108e",
-    "name": "Sujet Technologie Bac 2019 SC + Corrigé (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1jQFKdEbGIcbaf5xzHRXTpEobH_bHXbqq/preview",
-    "previewUrl": "https://drive.google.com/file/d/1jQFKdEbGIcbaf5xzHRXTpEobH_bHXbqq/preview",
-    "viewUrl": "https://drive.google.com/file/d/1jQFKdEbGIcbaf5xzHRXTpEobH_bHXbqq/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1jQFKdEbGIcbaf5xzHRXTpEobH_bHXbqq",
-    "driveId": "1jQFKdEbGIcbaf5xzHRXTpEobH_bHXbqq",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_61887cb10a95bac8b99b99b1312daed0",
-    "name": "Sujet Technologie Bac 2019 SP + Corrigé (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Auej5UY9xmrXqanXc4JbBKz7dR5YOpd3/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Auej5UY9xmrXqanXc4JbBKz7dR5YOpd3/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Auej5UY9xmrXqanXc4JbBKz7dR5YOpd3/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Auej5UY9xmrXqanXc4JbBKz7dR5YOpd3",
-    "driveId": "1Auej5UY9xmrXqanXc4JbBKz7dR5YOpd3",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_4630b1c5654f6bd4f03ec385d4c2e0f7",
-    "name": "Sujet Technologie Bac 2020 SC_2 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/13PKd1HegRTBuO70xmArc0GTcsm-CX6fg/preview",
-    "previewUrl": "https://drive.google.com/file/d/13PKd1HegRTBuO70xmArc0GTcsm-CX6fg/preview",
-    "viewUrl": "https://drive.google.com/file/d/13PKd1HegRTBuO70xmArc0GTcsm-CX6fg/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=13PKd1HegRTBuO70xmArc0GTcsm-CX6fg",
-    "driveId": "13PKd1HegRTBuO70xmArc0GTcsm-CX6fg",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_12110d077145f97beb70c60b46bb0bac",
-    "name": "Sujet Technologie Bac 2020 SP (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1hltd94bTc2QE8fA4tI4JHg718BNiSrWK/preview",
-    "previewUrl": "https://drive.google.com/file/d/1hltd94bTc2QE8fA4tI4JHg718BNiSrWK/preview",
-    "viewUrl": "https://drive.google.com/file/d/1hltd94bTc2QE8fA4tI4JHg718BNiSrWK/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1hltd94bTc2QE8fA4tI4JHg718BNiSrWK",
-    "driveId": "1hltd94bTc2QE8fA4tI4JHg718BNiSrWK",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_be90dc8d4609bef6f58163dbbda882b2",
     "name": "2022 SC BAC (Conditionnement de Canettes de Boisson) (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26363,34 +23591,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_ded0700ed3a06d6ea7a3560fd312338e",
-    "name": "2023 SP (Panneau Publicitaire) (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1zjdLpcjP1m35IzvveK5ZLRaOSqF_4Ps4/preview",
-    "previewUrl": "https://drive.google.com/file/d/1zjdLpcjP1m35IzvveK5ZLRaOSqF_4Ps4/preview",
-    "viewUrl": "https://drive.google.com/file/d/1zjdLpcjP1m35IzvveK5ZLRaOSqF_4Ps4/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1zjdLpcjP1m35IzvveK5ZLRaOSqF_4Ps4",
-    "driveId": "1zjdLpcjP1m35IzvveK5ZLRaOSqF_4Ps4",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_75686028fc9ea5ddd25569ee21d5494c",
-    "name": "2024 SC BAC (Système Automatique de Stockage de Batteries) NR + Correction (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1vSp4hhl7oKEitXR7UQoBkdDu9OcBSCol/preview",
-    "previewUrl": "https://drive.google.com/file/d/1vSp4hhl7oKEitXR7UQoBkdDu9OcBSCol/preview",
-    "viewUrl": "https://drive.google.com/file/d/1vSp4hhl7oKEitXR7UQoBkdDu9OcBSCol/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1vSp4hhl7oKEitXR7UQoBkdDu9OcBSCol",
-    "driveId": "1vSp4hhl7oKEitXR7UQoBkdDu9OcBSCol",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_685c5f5a6fea8eabec7c07a69e48ad8d",
     "name": "2024 SC BAC (Unité de Tri de Bouteilles) AR + Correction (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26405,34 +23605,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_ad491dcb5750542375da4627b1fc71e8",
-    "name": "Bac 2024 SP (Ascenseur à Trois Niveaux) (AR) + Correction (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1G9kqkM6IcM8VAxBtH48LPSe_ILuy5UpT/preview",
-    "previewUrl": "https://drive.google.com/file/d/1G9kqkM6IcM8VAxBtH48LPSe_ILuy5UpT/preview",
-    "viewUrl": "https://drive.google.com/file/d/1G9kqkM6IcM8VAxBtH48LPSe_ILuy5UpT/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1G9kqkM6IcM8VAxBtH48LPSe_ILuy5UpT",
-    "driveId": "1G9kqkM6IcM8VAxBtH48LPSe_ILuy5UpT",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_bb5558ca6da95b3a2d3a1d688e444381",
-    "name": "Bac 2024 SP (Bus Electrique) (NR) + Correction (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1EJPVXdr2zzYp58ouOe5CiKKXRmdMSUnW/preview",
-    "previewUrl": "https://drive.google.com/file/d/1EJPVXdr2zzYp58ouOe5CiKKXRmdMSUnW/preview",
-    "viewUrl": "https://drive.google.com/file/d/1EJPVXdr2zzYp58ouOe5CiKKXRmdMSUnW/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1EJPVXdr2zzYp58ouOe5CiKKXRmdMSUnW",
-    "driveId": "1EJPVXdr2zzYp58ouOe5CiKKXRmdMSUnW",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_8190ee5f44b099676e4d71035de7751a",
     "name": "technique-2015 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26442,20 +23614,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1Xi3SUfGlCtZff-yXP0vZipuIkaqOn0q6/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Xi3SUfGlCtZff-yXP0vZipuIkaqOn0q6",
     "driveId": "1Xi3SUfGlCtZff-yXP0vZipuIkaqOn0q6",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_dc72abef59f90aad76d8e631fa813f4d",
-    "name": "technique_c-2015 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/15zom3dWZFMRJQkhevFWgxSw-JikapKFn/preview",
-    "previewUrl": "https://drive.google.com/file/d/15zom3dWZFMRJQkhevFWgxSw-JikapKFn/preview",
-    "viewUrl": "https://drive.google.com/file/d/15zom3dWZFMRJQkhevFWgxSw-JikapKFn/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=15zom3dWZFMRJQkhevFWgxSw-JikapKFn",
-    "driveId": "15zom3dWZFMRJQkhevFWgxSw-JikapKFn",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -26531,20 +23689,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_3d089db7f5268117ef673f5061dcba73",
-    "name": "technique-2019 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1KquVUPGkLAWkTWJ06akr0aI0XxWV819R/preview",
-    "previewUrl": "https://drive.google.com/file/d/1KquVUPGkLAWkTWJ06akr0aI0XxWV819R/preview",
-    "viewUrl": "https://drive.google.com/file/d/1KquVUPGkLAWkTWJ06akr0aI0XxWV819R/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1KquVUPGkLAWkTWJ06akr0aI0XxWV819R",
-    "driveId": "1KquVUPGkLAWkTWJ06akr0aI0XxWV819R",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_8dce7c707122da98d792bbc0eebd91b4",
     "name": "technique_c-2019 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26554,20 +23698,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1UnAQ4NogfupMa7T0QPcwQVRS5R1nOeSP/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1UnAQ4NogfupMa7T0QPcwQVRS5R1nOeSP",
     "driveId": "1UnAQ4NogfupMa7T0QPcwQVRS5R1nOeSP",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_57980e37c846d7f805af0c1282d21d93",
-    "name": "technique-2020 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/19tTUinqUC7zqTGEW-sQOsIsmtYZ0LfSS/preview",
-    "previewUrl": "https://drive.google.com/file/d/19tTUinqUC7zqTGEW-sQOsIsmtYZ0LfSS/preview",
-    "viewUrl": "https://drive.google.com/file/d/19tTUinqUC7zqTGEW-sQOsIsmtYZ0LfSS/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=19tTUinqUC7zqTGEW-sQOsIsmtYZ0LfSS",
-    "driveId": "19tTUinqUC7zqTGEW-sQOsIsmtYZ0LfSS",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -26615,20 +23745,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_59628270313ee5e327e6c28259706b37",
-    "name": "technique_c-2022 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1exnBc7VlEPD5ygbcmIiAIHddRiQVO1UB/preview",
-    "previewUrl": "https://drive.google.com/file/d/1exnBc7VlEPD5ygbcmIiAIHddRiQVO1UB/preview",
-    "viewUrl": "https://drive.google.com/file/d/1exnBc7VlEPD5ygbcmIiAIHddRiQVO1UB/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1exnBc7VlEPD5ygbcmIiAIHddRiQVO1UB",
-    "driveId": "1exnBc7VlEPD5ygbcmIiAIHddRiQVO1UB",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_52c6e52f188689a45a7a105b913681de",
     "name": "DR (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26638,20 +23754,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1uW-5IRmSZPxztZRl7EnZDh01z_A0qjso/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1uW-5IRmSZPxztZRl7EnZDh01z_A0qjso",
     "driveId": "1uW-5IRmSZPxztZRl7EnZDh01z_A0qjso",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_5168dc6af07db2a2457b7d5de06d5684",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1TSdRWHaF90k31o7xxnKdflzxhn0Yqg0l/preview",
-    "previewUrl": "https://drive.google.com/file/d/1TSdRWHaF90k31o7xxnKdflzxhn0Yqg0l/preview",
-    "viewUrl": "https://drive.google.com/file/d/1TSdRWHaF90k31o7xxnKdflzxhn0Yqg0l/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1TSdRWHaF90k31o7xxnKdflzxhn0Yqg0l",
-    "driveId": "1TSdRWHaF90k31o7xxnKdflzxhn0Yqg0l",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -26694,20 +23796,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1L8pYGg30JEX2bbsbPWdwBJmlfB6OfK7Y/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1L8pYGg30JEX2bbsbPWdwBJmlfB6OfK7Y",
     "driveId": "1L8pYGg30JEX2bbsbPWdwBJmlfB6OfK7Y",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_c514e4bc18f22bbd99e5976ce2c5ac83",
-    "name": "technique_c-2016 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1m9yLVBY8Cn6sSnq8mYyTCXXKlnmn-UlD/preview",
-    "previewUrl": "https://drive.google.com/file/d/1m9yLVBY8Cn6sSnq8mYyTCXXKlnmn-UlD/preview",
-    "viewUrl": "https://drive.google.com/file/d/1m9yLVBY8Cn6sSnq8mYyTCXXKlnmn-UlD/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1m9yLVBY8Cn6sSnq8mYyTCXXKlnmn-UlD",
-    "driveId": "1m9yLVBY8Cn6sSnq8mYyTCXXKlnmn-UlD",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -26769,20 +23857,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_189d4be1df577327c6006736d16025fe",
-    "name": "technique-2019 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1jnaygsDZ_rHQFd_qs1H4Kt1cIBNkLBwB/preview",
-    "previewUrl": "https://drive.google.com/file/d/1jnaygsDZ_rHQFd_qs1H4Kt1cIBNkLBwB/preview",
-    "viewUrl": "https://drive.google.com/file/d/1jnaygsDZ_rHQFd_qs1H4Kt1cIBNkLBwB/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1jnaygsDZ_rHQFd_qs1H4Kt1cIBNkLBwB",
-    "driveId": "1jnaygsDZ_rHQFd_qs1H4Kt1cIBNkLBwB",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_5e232a016a30034776202b5e09c06d96",
     "name": "technique_c-2019 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26792,34 +23866,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1jgrh39A8wan02k3KZsg481NAUdPDFkjO/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1jgrh39A8wan02k3KZsg481NAUdPDFkjO",
     "driveId": "1jgrh39A8wan02k3KZsg481NAUdPDFkjO",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_1601f552e25ac67dae2f0fcb1521ec12",
-    "name": "technique-2020 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1V3mSbNtv_iQyLDnt4PLFsm6O4uvIJLGu/preview",
-    "previewUrl": "https://drive.google.com/file/d/1V3mSbNtv_iQyLDnt4PLFsm6O4uvIJLGu/preview",
-    "viewUrl": "https://drive.google.com/file/d/1V3mSbNtv_iQyLDnt4PLFsm6O4uvIJLGu/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1V3mSbNtv_iQyLDnt4PLFsm6O4uvIJLGu",
-    "driveId": "1V3mSbNtv_iQyLDnt4PLFsm6O4uvIJLGu",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_20d2461b0abf8f0bee87cb70eda792af",
-    "name": "technique-2021 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1WP6G96flUf-jRUAuYqkZY0tBac7NJYJH/preview",
-    "previewUrl": "https://drive.google.com/file/d/1WP6G96flUf-jRUAuYqkZY0tBac7NJYJH/preview",
-    "viewUrl": "https://drive.google.com/file/d/1WP6G96flUf-jRUAuYqkZY0tBac7NJYJH/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1WP6G96flUf-jRUAuYqkZY0tBac7NJYJH",
-    "driveId": "1WP6G96flUf-jRUAuYqkZY0tBac7NJYJH",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -26867,20 +23913,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_b2da172bba8edc27d252a8f030b713bb",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Ot1uWObal1ARJNkAg29LVkB1BMu20H7N/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Ot1uWObal1ARJNkAg29LVkB1BMu20H7N/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Ot1uWObal1ARJNkAg29LVkB1BMu20H7N/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Ot1uWObal1ARJNkAg29LVkB1BMu20H7N",
-    "driveId": "1Ot1uWObal1ARJNkAg29LVkB1BMu20H7N",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_18f392ab7f3275faced664aead89def1",
     "name": "DR-new (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26895,34 +23927,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_0e560dfea827f41c10cc61238b19d9bb",
-    "name": "DT-new (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1gLz8QeiX9-YrOmMnSFlf8ViibKVTLiFl/preview",
-    "previewUrl": "https://drive.google.com/file/d/1gLz8QeiX9-YrOmMnSFlf8ViibKVTLiFl/preview",
-    "viewUrl": "https://drive.google.com/file/d/1gLz8QeiX9-YrOmMnSFlf8ViibKVTLiFl/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1gLz8QeiX9-YrOmMnSFlf8ViibKVTLiFl",
-    "driveId": "1gLz8QeiX9-YrOmMnSFlf8ViibKVTLiFl",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_e1a6b4a64262d564faf3016fb0787525",
-    "name": "technique_2024 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1IxVeDjluugV47hYc1FKMd897vC0nYDB8/preview",
-    "previewUrl": "https://drive.google.com/file/d/1IxVeDjluugV47hYc1FKMd897vC0nYDB8/preview",
-    "viewUrl": "https://drive.google.com/file/d/1IxVeDjluugV47hYc1FKMd897vC0nYDB8/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1IxVeDjluugV47hYc1FKMd897vC0nYDB8",
-    "driveId": "1IxVeDjluugV47hYc1FKMd897vC0nYDB8",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_9a74453e4594a31f401a7fe9d0f85305",
     "name": "Table Coulissante 2025 test d'aptitude 3ème-Bac corrigé noté (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -26932,20 +23936,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1YKSejSV8mV8ZdlRJfsLH1fOmdyZTLfgu/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1YKSejSV8mV8ZdlRJfsLH1fOmdyZTLfgu",
     "driveId": "1YKSejSV8mV8ZdlRJfsLH1fOmdyZTLfgu",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_f83b6b5085e25adc61056f5d14082adc",
-    "name": "Table Coulissante Test d'aptitude 3ème-Bac 2025 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/135LX7UG1tCtnxVq-itRmiYeedbdckT6f/preview",
-    "previewUrl": "https://drive.google.com/file/d/135LX7UG1tCtnxVq-itRmiYeedbdckT6f/preview",
-    "viewUrl": "https://drive.google.com/file/d/135LX7UG1tCtnxVq-itRmiYeedbdckT6f/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=135LX7UG1tCtnxVq-itRmiYeedbdckT6f",
-    "driveId": "135LX7UG1tCtnxVq-itRmiYeedbdckT6f",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -26974,20 +23964,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/11WNq7Q8_FLZQERIvVt5MXdpmP40erNPz/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=11WNq7Q8_FLZQERIvVt5MXdpmP40erNPz",
     "driveId": "11WNq7Q8_FLZQERIvVt5MXdpmP40erNPz",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_7710e5a58e02bc287db27cc3a0e1bbdd",
-    "name": "TP-DAO-solidworks (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1n8E9qIwUXMQgy2QXxXRdwHLreI54D-Fb/preview",
-    "previewUrl": "https://drive.google.com/file/d/1n8E9qIwUXMQgy2QXxXRdwHLreI54D-Fb/preview",
-    "viewUrl": "https://drive.google.com/file/d/1n8E9qIwUXMQgy2QXxXRdwHLreI54D-Fb/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1n8E9qIwUXMQgy2QXxXRdwHLreI54D-Fb",
-    "driveId": "1n8E9qIwUXMQgy2QXxXRdwHLreI54D-Fb",
     "section": "technique",
     "subject": "mec",
     "folder": "Exercices"
@@ -27077,20 +24053,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_98bb0bf1fe2954fe61e3dcedb30ae744",
-    "name": "الدولة_pdf (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/18MLrWoiRreJ-V5RuHSytQ-_PDcH4hvIo/preview",
-    "previewUrl": "https://drive.google.com/file/d/18MLrWoiRreJ-V5RuHSytQ-_PDcH4hvIo/preview",
-    "viewUrl": "https://drive.google.com/file/d/18MLrWoiRreJ-V5RuHSytQ-_PDcH4hvIo/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=18MLrWoiRreJ-V5RuHSytQ-_PDcH4hvIo",
-    "driveId": "18MLrWoiRreJ-V5RuHSytQ-_PDcH4hvIo",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_4eefa2ffc62f5904f163f5a57530d4ce",
     "name": "تطبيقات منهجية السيادة و المواطنة (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -27103,132 +24065,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "philosophie",
     "folder": "Résumés"
-  },
-  {
-    "id": "preload_346a58992daa573e547428322636a10e",
-    "name": "_العلم-بين-الحقيقة-والنمذجة (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/16TdiYmgwn-WJfpgkDoRIFsg1TW23N6aN/preview",
-    "previewUrl": "https://drive.google.com/file/d/16TdiYmgwn-WJfpgkDoRIFsg1TW23N6aN/preview",
-    "viewUrl": "https://drive.google.com/file/d/16TdiYmgwn-WJfpgkDoRIFsg1TW23N6aN/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=16TdiYmgwn-WJfpgkDoRIFsg1TW23N6aN",
-    "driveId": "16TdiYmgwn-WJfpgkDoRIFsg1TW23N6aN",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_12b19eaa4b09c22a6ad7b355deda2f0d",
-    "name": "تفسير (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ghL54SgTtfReH6QKT17FGj4irmhokjI6/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ghL54SgTtfReH6QKT17FGj4irmhokjI6/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ghL54SgTtfReH6QKT17FGj4irmhokjI6/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ghL54SgTtfReH6QKT17FGj4irmhokjI6",
-    "driveId": "1ghL54SgTtfReH6QKT17FGj4irmhokjI6",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_177cc2fed0ac19c5e1355ac85c03dc05",
-    "name": "الاخلاق _ الخير والسعادةpdf (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/18Cl4yRX0e29EB26l8Iv1pisMCGj5uXe0/preview",
-    "previewUrl": "https://drive.google.com/file/d/18Cl4yRX0e29EB26l8Iv1pisMCGj5uXe0/preview",
-    "viewUrl": "https://drive.google.com/file/d/18Cl4yRX0e29EB26l8Iv1pisMCGj5uXe0/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=18Cl4yRX0e29EB26l8Iv1pisMCGj5uXe0",
-    "driveId": "18Cl4yRX0e29EB26l8Iv1pisMCGj5uXe0",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_37b4820221dfd8ae4a215ca179ca7a85",
-    "name": "المنهجيّة_pdf (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/188gsVEsUy1ytl14u-b2uTFGu_USSLvpN/preview",
-    "previewUrl": "https://drive.google.com/file/d/188gsVEsUy1ytl14u-b2uTFGu_USSLvpN/preview",
-    "viewUrl": "https://drive.google.com/file/d/188gsVEsUy1ytl14u-b2uTFGu_USSLvpN/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=188gsVEsUy1ytl14u-b2uTFGu_USSLvpN",
-    "driveId": "188gsVEsUy1ytl14u-b2uTFGu_USSLvpN",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_caa74287f64155fc038c823f9ba831b0",
-    "name": "corr a5la9 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1on57PjW-S2S7HiE9ps7_7cY4CXWcnLiA/preview",
-    "previewUrl": "https://drive.google.com/file/d/1on57PjW-S2S7HiE9ps7_7cY4CXWcnLiA/preview",
-    "viewUrl": "https://drive.google.com/file/d/1on57PjW-S2S7HiE9ps7_7cY4CXWcnLiA/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1on57PjW-S2S7HiE9ps7_7cY4CXWcnLiA",
-    "driveId": "1on57PjW-S2S7HiE9ps7_7cY4CXWcnLiA",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_e81d65c9d5cd1eebcd95587dc5bfc1e5",
-    "name": "موضوع في الأخلاق (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1oknJT4Ut6xNfxw980C1w89_lRpiizfrg/preview",
-    "previewUrl": "https://drive.google.com/file/d/1oknJT4Ut6xNfxw980C1w89_lRpiizfrg/preview",
-    "viewUrl": "https://drive.google.com/file/d/1oknJT4Ut6xNfxw980C1w89_lRpiizfrg/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1oknJT4Ut6xNfxw980C1w89_lRpiizfrg",
-    "driveId": "1oknJT4Ut6xNfxw980C1w89_lRpiizfrg",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_07772b2cd56db53b5e21bef6d25331a6",
-    "name": "موضوع في الدولة (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ogG2C-twgAraNiFlMVHRXnnkkLWuEJdB/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ogG2C-twgAraNiFlMVHRXnnkkLWuEJdB/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ogG2C-twgAraNiFlMVHRXnnkkLWuEJdB/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ogG2C-twgAraNiFlMVHRXnnkkLWuEJdB",
-    "driveId": "1ogG2C-twgAraNiFlMVHRXnnkkLWuEJdB",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_40f93c30e1a11dcd919280a4d934c40a",
-    "name": "corr (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Z0-Svtdyror0sv8PK6dP_04hWxKCIkZ7/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Z0-Svtdyror0sv8PK6dP_04hWxKCIkZ7/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Z0-Svtdyror0sv8PK6dP_04hWxKCIkZ7/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Z0-Svtdyror0sv8PK6dP_04hWxKCIkZ7",
-    "driveId": "1Z0-Svtdyror0sv8PK6dP_04hWxKCIkZ7",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_85480c4391965f22a5c1402991107db8",
-    "name": "corrr (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Z_pxDA0AvUJg_gowWVPpFncimtD3dLpe/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Z_pxDA0AvUJg_gowWVPpFncimtD3dLpe/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Z_pxDA0AvUJg_gowWVPpFncimtD3dLpe/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Z_pxDA0AvUJg_gowWVPpFncimtD3dLpe",
-    "driveId": "1Z_pxDA0AvUJg_gowWVPpFncimtD3dLpe",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Exercices"
   },
   {
     "id": "preload_3d9f9defb207ccf74fcfccac886cf06f",
@@ -27285,20 +24121,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "philosophie",
     "folder": "Résumés"
-  },
-  {
-    "id": "preload_57cd7549ca11d3a27696d940cbfee33e",
-    "name": "الفلسفة و مطلب الكلي (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/18nWDPBw_AM8zNNZzPwcu2u3DuaUiG00p/preview",
-    "previewUrl": "https://drive.google.com/file/d/18nWDPBw_AM8zNNZzPwcu2u3DuaUiG00p/preview",
-    "viewUrl": "https://drive.google.com/file/d/18nWDPBw_AM8zNNZzPwcu2u3DuaUiG00p/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=18nWDPBw_AM8zNNZzPwcu2u3DuaUiG00p",
-    "driveId": "18nWDPBw_AM8zNNZzPwcu2u3DuaUiG00p",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Cours"
   },
   {
     "id": "preload_cb6a5eb1de4c96984ad0c97cdedae347",
@@ -27385,34 +24207,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_ab017ee381833d31c53d1430e18a899b",
-    "name": "corr-ex1 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1BywQ-ljDo82dibL1pBVeIl-1Tv0Bsx2g/preview",
-    "previewUrl": "https://drive.google.com/file/d/1BywQ-ljDo82dibL1pBVeIl-1Tv0Bsx2g/preview",
-    "viewUrl": "https://drive.google.com/file/d/1BywQ-ljDo82dibL1pBVeIl-1Tv0Bsx2g/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1BywQ-ljDo82dibL1pBVeIl-1Tv0Bsx2g",
-    "driveId": "1BywQ-ljDo82dibL1pBVeIl-1Tv0Bsx2g",
-    "section": "technique",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_c3141915e2117469e7fc82a008cfaa78",
-    "name": "corr-ex2 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1C2CWWkdpA7lSqIpb8Hj1p4XbntU27qBx/preview",
-    "previewUrl": "https://drive.google.com/file/d/1C2CWWkdpA7lSqIpb8Hj1p4XbntU27qBx/preview",
-    "viewUrl": "https://drive.google.com/file/d/1C2CWWkdpA7lSqIpb8Hj1p4XbntU27qBx/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1C2CWWkdpA7lSqIpb8Hj1p4XbntU27qBx",
-    "driveId": "1C2CWWkdpA7lSqIpb8Hj1p4XbntU27qBx",
-    "section": "technique",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_e84c488e25a0b0a3f7445848581276a8",
     "name": "Avancement-Sahbi (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -27422,48 +24216,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1rVH8inmbn1EvQ8rpGx6BuYi-pn6eC59m/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1rVH8inmbn1EvQ8rpGx6BuYi-pn6eC59m",
     "driveId": "1rVH8inmbn1EvQ8rpGx6BuYi-pn6eC59m",
-    "section": "technique",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_48c99a3ad2a0c6f0f146ef1cd85af045",
-    "name": "ex 2 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1C0yX93Kgwl6HtWqenxWziVY88o2bxD9u/preview",
-    "previewUrl": "https://drive.google.com/file/d/1C0yX93Kgwl6HtWqenxWziVY88o2bxD9u/preview",
-    "viewUrl": "https://drive.google.com/file/d/1C0yX93Kgwl6HtWqenxWziVY88o2bxD9u/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1C0yX93Kgwl6HtWqenxWziVY88o2bxD9u",
-    "driveId": "1C0yX93Kgwl6HtWqenxWziVY88o2bxD9u",
-    "section": "technique",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_05d87297145edea7591e7bab9a5b0b10",
-    "name": "exercice 1 (avanceent) (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1BqlgiAxVr8d-r8AJdhhEKs4dNh5pIVJa/preview",
-    "previewUrl": "https://drive.google.com/file/d/1BqlgiAxVr8d-r8AJdhhEKs4dNh5pIVJa/preview",
-    "viewUrl": "https://drive.google.com/file/d/1BqlgiAxVr8d-r8AJdhhEKs4dNh5pIVJa/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1BqlgiAxVr8d-r8AJdhhEKs4dNh5pIVJa",
-    "driveId": "1BqlgiAxVr8d-r8AJdhhEKs4dNh5pIVJa",
-    "section": "technique",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_66d93cb187395decb8c0c53ad072773b",
-    "name": "corr_Dosage Acide-Base_Sahbi (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1wuXOKXhTWihfMF-oLXw8RUWuyaeR8B-s/preview",
-    "previewUrl": "https://drive.google.com/file/d/1wuXOKXhTWihfMF-oLXw8RUWuyaeR8B-s/preview",
-    "viewUrl": "https://drive.google.com/file/d/1wuXOKXhTWihfMF-oLXw8RUWuyaeR8B-s/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1wuXOKXhTWihfMF-oLXw8RUWuyaeR8B-s",
-    "driveId": "1wuXOKXhTWihfMF-oLXw8RUWuyaeR8B-s",
     "section": "technique",
     "subject": "chimiesvt",
     "folder": "Exercices"
@@ -27772,20 +24524,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1oqX8ZFLlA8CxmaCH2CZovo_FsuIa1gJt/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1oqX8ZFLlA8CxmaCH2CZovo_FsuIa1gJt",
     "driveId": "1oqX8ZFLlA8CxmaCH2CZovo_FsuIa1gJt",
-    "section": "technique",
-    "subject": "chimiesvt",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_1edd1365f0dee1e6a8451f2348170044",
-    "name": "serie-de-revision-bac-electrolyse (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1xAizuYk0ipABMvBnlonKdcwG_4OFP1Ns/preview",
-    "previewUrl": "https://drive.google.com/file/d/1xAizuYk0ipABMvBnlonKdcwG_4OFP1Ns/preview",
-    "viewUrl": "https://drive.google.com/file/d/1xAizuYk0ipABMvBnlonKdcwG_4OFP1Ns/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1xAizuYk0ipABMvBnlonKdcwG_4OFP1Ns",
-    "driveId": "1xAizuYk0ipABMvBnlonKdcwG_4OFP1Ns",
     "section": "technique",
     "subject": "chimiesvt",
     "folder": "Exercices"
@@ -28183,20 +24921,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_5a1f05f766b7b3e0f7bd17eb77b18994",
-    "name": "boubina-essa7bi (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1xaVKNtWW5xX7BMAR8gaFH4DfRqZ9IHgb/preview",
-    "previewUrl": "https://drive.google.com/file/d/1xaVKNtWW5xX7BMAR8gaFH4DfRqZ9IHgb/preview",
-    "viewUrl": "https://drive.google.com/file/d/1xaVKNtWW5xX7BMAR8gaFH4DfRqZ9IHgb/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1xaVKNtWW5xX7BMAR8gaFH4DfRqZ9IHgb",
-    "driveId": "1xaVKNtWW5xX7BMAR8gaFH4DfRqZ9IHgb",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_2fc2f89a7bed9e1c6736af4223517c2f",
     "name": "seri N5 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -28365,20 +25089,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_ed7a0b0f5e350edf4dabca0721ef70a2",
-    "name": "dipole rc (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/18jNNuQtIBmneG1EXGjVjTQfJJ9w5L7wF/preview",
-    "previewUrl": "https://drive.google.com/file/d/18jNNuQtIBmneG1EXGjVjTQfJJ9w5L7wF/preview",
-    "viewUrl": "https://drive.google.com/file/d/18jNNuQtIBmneG1EXGjVjTQfJJ9w5L7wF/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=18jNNuQtIBmneG1EXGjVjTQfJJ9w5L7wF",
-    "driveId": "18jNNuQtIBmneG1EXGjVjTQfJJ9w5L7wF",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_0d682e6f0ef689868b47a7551a16e777",
     "name": "Resume-Dipole-RC-Sahbi (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -28402,20 +25112,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/12qJzyL8wfMfTO5lR7uHlGmF1pmN_IDLO/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=12qJzyL8wfMfTO5lR7uHlGmF1pmN_IDLO",
     "driveId": "12qJzyL8wfMfTO5lR7uHlGmF1pmN_IDLO",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_88ffd9003c3d84ecede473ff3c3d16e9",
-    "name": "dipole rc (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ngwDcHQncEz6O2ETBIUVpqDy32zTz1-2/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ngwDcHQncEz6O2ETBIUVpqDy32zTz1-2/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ngwDcHQncEz6O2ETBIUVpqDy32zTz1-2/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ngwDcHQncEz6O2ETBIUVpqDy32zTz1-2",
-    "driveId": "1ngwDcHQncEz6O2ETBIUVpqDy32zTz1-2",
     "section": "technique",
     "subject": "physiquetech",
     "folder": "Exercices"
@@ -28631,20 +25327,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_e4c64158b8bf21a0b485d6ed983f844f",
-    "name": "correction-serie-onde-sonore (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/13OoIn_R4DASfAqQwXgeiFhUZH5F1Kjy3/preview",
-    "previewUrl": "https://drive.google.com/file/d/13OoIn_R4DASfAqQwXgeiFhUZH5F1Kjy3/preview",
-    "viewUrl": "https://drive.google.com/file/d/13OoIn_R4DASfAqQwXgeiFhUZH5F1Kjy3/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=13OoIn_R4DASfAqQwXgeiFhUZH5F1Kjy3",
-    "driveId": "13OoIn_R4DASfAqQwXgeiFhUZH5F1Kjy3",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_1a3e796c2b99563186900e377685693f",
     "name": "cours_Ondes_Sahbi (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -28785,20 +25467,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_126a79f290f339fab8171b3d8e0b9096",
-    "name": "Série-Onde.corde-2024.2025.Ali (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1a3QWHjh5KUOJ3EkeRcasLy7G4UknNXLC/preview",
-    "previewUrl": "https://drive.google.com/file/d/1a3QWHjh5KUOJ3EkeRcasLy7G4UknNXLC/preview",
-    "viewUrl": "https://drive.google.com/file/d/1a3QWHjh5KUOJ3EkeRcasLy7G4UknNXLC/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1a3QWHjh5KUOJ3EkeRcasLy7G4UknNXLC",
-    "driveId": "1a3QWHjh5KUOJ3EkeRcasLy7G4UknNXLC",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_4dba5393d1e5d6091261f15cc3db747d",
     "name": "corr_Pendule_Sahbi-my-work (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -28892,20 +25560,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1yaviHZY7yoGeaTSm9zTGp-vAcGroErD_/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1yaviHZY7yoGeaTSm9zTGp-vAcGroErD_",
     "driveId": "1yaviHZY7yoGeaTSm9zTGp-vAcGroErD_",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_a01dda4f237e22a6907000b8e693f28a",
-    "name": "Série RLC Forcé (1) correction (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1VNwk2ibbR7mirT616gqGVYJFuuWsHsF3/preview",
-    "previewUrl": "https://drive.google.com/file/d/1VNwk2ibbR7mirT616gqGVYJFuuWsHsF3/preview",
-    "viewUrl": "https://drive.google.com/file/d/1VNwk2ibbR7mirT616gqGVYJFuuWsHsF3/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1VNwk2ibbR7mirT616gqGVYJFuuWsHsF3",
-    "driveId": "1VNwk2ibbR7mirT616gqGVYJFuuWsHsF3",
     "section": "technique",
     "subject": "physiquetech",
     "folder": "Exercices"
@@ -29107,20 +25761,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_ee2f0970cb7c6f8096ff72ba9314a2a9",
-    "name": "Série RLC Forcé (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/17oBVO7h8I5VnP6U_LuLJdQVME-HTqp6u/preview",
-    "previewUrl": "https://drive.google.com/file/d/17oBVO7h8I5VnP6U_LuLJdQVME-HTqp6u/preview",
-    "viewUrl": "https://drive.google.com/file/d/17oBVO7h8I5VnP6U_LuLJdQVME-HTqp6u/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=17oBVO7h8I5VnP6U_LuLJdQVME-HTqp6u",
-    "driveId": "17oBVO7h8I5VnP6U_LuLJdQVME-HTqp6u",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_b8ae09294276d187dd5c08415508c2c3",
     "name": "correction-LC (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -29147,20 +25787,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "physiquetech",
     "folder": "Exercices"
-  },
-  {
-    "id": "preload_46a685847d5c4f2ebc9931688f31a475",
-    "name": "Cours RLC libre (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1tzB8EwD3Muk0gS-yJ9Kx_3uOihY-Ad9T/preview",
-    "previewUrl": "https://drive.google.com/file/d/1tzB8EwD3Muk0gS-yJ9Kx_3uOihY-Ad9T/preview",
-    "viewUrl": "https://drive.google.com/file/d/1tzB8EwD3Muk0gS-yJ9Kx_3uOihY-Ad9T/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tzB8EwD3Muk0gS-yJ9Kx_3uOihY-Ad9T",
-    "driveId": "1tzB8EwD3Muk0gS-yJ9Kx_3uOihY-Ad9T",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Cours"
   },
   {
     "id": "preload_16d261d76a7a59e1caec26b734c8aebf",
@@ -29513,20 +26139,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_54c5feb86b36a72a86ebdbe4bb9a33de",
-    "name": "Corrigé-DS1-2020-4M (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1HRLbUZThe1nqQEQc8NYOdgsOxGagT26e/preview",
-    "previewUrl": "https://drive.google.com/file/d/1HRLbUZThe1nqQEQc8NYOdgsOxGagT26e/preview",
-    "viewUrl": "https://drive.google.com/file/d/1HRLbUZThe1nqQEQc8NYOdgsOxGagT26e/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1HRLbUZThe1nqQEQc8NYOdgsOxGagT26e",
-    "driveId": "1HRLbUZThe1nqQEQc8NYOdgsOxGagT26e",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_e6fe5ae1298d0b6eebfe3c37569b1ff4",
     "name": "dev-tunis-regional-avec-corrige (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -29681,20 +26293,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_ea8c01de0e2a6900a775f8f88f414f01",
-    "name": "dvr synthese n2 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1i7n9fJbG6zrIijTRKmYsFa_hxMDdsPO8/preview",
-    "previewUrl": "https://drive.google.com/file/d/1i7n9fJbG6zrIijTRKmYsFa_hxMDdsPO8/preview",
-    "viewUrl": "https://drive.google.com/file/d/1i7n9fJbG6zrIijTRKmYsFa_hxMDdsPO8/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1i7n9fJbG6zrIijTRKmYsFa_hxMDdsPO8",
-    "driveId": "1i7n9fJbG6zrIijTRKmYsFa_hxMDdsPO8",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_e6f8848e17b8fea5094030d6a98ace0b",
     "name": "DVS2 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -29704,20 +26302,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/17mctbWeu575fhureInVB592mXleiL0v1/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=17mctbWeu575fhureInVB592mXleiL0v1",
     "driveId": "17mctbWeu575fhureInVB592mXleiL0v1",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_9fdb7487988b08f8ee84fbe6bb60ae59",
-    "name": "Régional Ariana 1 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ROihiG3y-OtqW0iR68W7RZb3YB5uFftZ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ROihiG3y-OtqW0iR68W7RZb3YB5uFftZ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ROihiG3y-OtqW0iR68W7RZb3YB5uFftZ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ROihiG3y-OtqW0iR68W7RZb3YB5uFftZ",
-    "driveId": "1ROihiG3y-OtqW0iR68W7RZb3YB5uFftZ",
     "section": "technique",
     "subject": "physiquetech",
     "folder": "Exercices"
@@ -29779,34 +26363,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_b39da465beaf9a4807cf08fe4ee47c8c",
-    "name": "corr-DS3-Almourabip (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1BbvfqpGXNw-tuUjBZc2Lpm5laEhWonam/preview",
-    "previewUrl": "https://drive.google.com/file/d/1BbvfqpGXNw-tuUjBZc2Lpm5laEhWonam/preview",
-    "viewUrl": "https://drive.google.com/file/d/1BbvfqpGXNw-tuUjBZc2Lpm5laEhWonam/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1BbvfqpGXNw-tuUjBZc2Lpm5laEhWonam",
-    "driveId": "1BbvfqpGXNw-tuUjBZc2Lpm5laEhWonam",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_a7495d6cc17be6334de30e857cea8681",
-    "name": "DS3-Almourabip (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1f32xgSydIfxWUSX7O2rmPRBXHVTa7ZCC/preview",
-    "previewUrl": "https://drive.google.com/file/d/1f32xgSydIfxWUSX7O2rmPRBXHVTa7ZCC/preview",
-    "viewUrl": "https://drive.google.com/file/d/1f32xgSydIfxWUSX7O2rmPRBXHVTa7ZCC/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1f32xgSydIfxWUSX7O2rmPRBXHVTa7ZCC",
-    "driveId": "1f32xgSydIfxWUSX7O2rmPRBXHVTa7ZCC",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_e7240d39164769f6e5355ed6754fb72e",
     "name": "DS3_Dhouib (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -29858,20 +26414,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1H7tAA8YMY5mLCki-PIQ_Yc0BNwudGj7K/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1H7tAA8YMY5mLCki-PIQ_Yc0BNwudGj7K",
     "driveId": "1H7tAA8YMY5mLCki-PIQ_Yc0BNwudGj7K",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_8e024e97f9d3225d394ddae24aea9027",
-    "name": "Dipôle-RL2023 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1FL_0P_s7xg3_sMFd5it9FTmqvPfDGysz/preview",
-    "previewUrl": "https://drive.google.com/file/d/1FL_0P_s7xg3_sMFd5it9FTmqvPfDGysz/preview",
-    "viewUrl": "https://drive.google.com/file/d/1FL_0P_s7xg3_sMFd5it9FTmqvPfDGysz/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1FL_0P_s7xg3_sMFd5it9FTmqvPfDGysz",
-    "driveId": "1FL_0P_s7xg3_sMFd5it9FTmqvPfDGysz",
     "section": "technique",
     "subject": "physiquetech",
     "folder": "Exercices"
@@ -29970,20 +26512,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1pGGZRr_kMOchKkRz9e0ymzu_xBMXWMM7/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1pGGZRr_kMOchKkRz9e0ymzu_xBMXWMM7",
     "driveId": "1pGGZRr_kMOchKkRz9e0ymzu_xBMXWMM7",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_aa5bfd2d1b653aae43f65cc4fa71d3af",
-    "name": "Ondes (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/18DIBRM-f_1s8aye8EHWhjKmcgQyrnjAD/preview",
-    "previewUrl": "https://drive.google.com/file/d/18DIBRM-f_1s8aye8EHWhjKmcgQyrnjAD/preview",
-    "viewUrl": "https://drive.google.com/file/d/18DIBRM-f_1s8aye8EHWhjKmcgQyrnjAD/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=18DIBRM-f_1s8aye8EHWhjKmcgQyrnjAD",
-    "driveId": "18DIBRM-f_1s8aye8EHWhjKmcgQyrnjAD",
     "section": "technique",
     "subject": "physiquetech",
     "folder": "Exercices"
@@ -30283,20 +26811,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_51de1acb6017c27f48709cb75662f21a",
-    "name": "physique-2018 (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1_VYXGJEJTyxkR6vp6Jemvk2bfOqQGYxP/preview",
-    "previewUrl": "https://drive.google.com/file/d/1_VYXGJEJTyxkR6vp6Jemvk2bfOqQGYxP/preview",
-    "viewUrl": "https://drive.google.com/file/d/1_VYXGJEJTyxkR6vp6Jemvk2bfOqQGYxP/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1_VYXGJEJTyxkR6vp6Jemvk2bfOqQGYxP",
-    "driveId": "1_VYXGJEJTyxkR6vp6Jemvk2bfOqQGYxP",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_2f6176bb66bd6b307b1df2f97aeca810",
     "name": "physique-2019 (Zakaria Ayachi).pdf",
     "type": "application/pdf",
@@ -30446,20 +26960,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1XXoCipziUQXstBU_EpUVoUVyJ8Qk3BbD/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1XXoCipziUQXstBU_EpUVoUVyJ8Qk3BbD",
     "driveId": "1XXoCipziUQXstBU_EpUVoUVyJ8Qk3BbD",
-    "section": "technique",
-    "subject": "allemand",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_9564c25c4b0ae0e6a55c2ff8c9b04899",
-    "name": "Résumé Allemand (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1KoYgHXpzLIgsdIMHvaX7IP5cBk0H4k23/preview",
-    "previewUrl": "https://drive.google.com/file/d/1KoYgHXpzLIgsdIMHvaX7IP5cBk0H4k23/preview",
-    "viewUrl": "https://drive.google.com/file/d/1KoYgHXpzLIgsdIMHvaX7IP5cBk0H4k23/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1KoYgHXpzLIgsdIMHvaX7IP5cBk0H4k23",
-    "driveId": "1KoYgHXpzLIgsdIMHvaX7IP5cBk0H4k23",
     "section": "technique",
     "subject": "allemand",
     "folder": "Résumés"
@@ -30661,20 +27161,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_97cca138f38772a3ac6134d0842fad9c",
-    "name": "Manuel de révision (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Gs7rdnKcnCY5L-QuGBQgNIZQKUC_0qpz/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Gs7rdnKcnCY5L-QuGBQgNIZQKUC_0qpz/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Gs7rdnKcnCY5L-QuGBQgNIZQKUC_0qpz/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Gs7rdnKcnCY5L-QuGBQgNIZQKUC_0qpz",
-    "driveId": "1Gs7rdnKcnCY5L-QuGBQgNIZQKUC_0qpz",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_e1d4528e186eba0a37577e44412672f7",
     "name": "bac_technique_math_2020_2015 (Rayen Fitouri).pdf",
     "type": "application/pdf",
@@ -30714,20 +27200,6 @@ window.PRELOADED_FILES = [
     "driveId": "1SEfddd3TG2Nqx41681BbbpVBDvPL_FAk",
     "section": "technique",
     "subject": "mec",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_9300d8ddae756f2c52525a8b724f18d1",
-    "name": "Cahiers_2_maths_Analyse_Bac_teknik (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/12O4gm2wRP2Be0_kwLSseDUAXkgf4GJA5/preview",
-    "previewUrl": "https://drive.google.com/file/d/12O4gm2wRP2Be0_kwLSseDUAXkgf4GJA5/preview",
-    "viewUrl": "https://drive.google.com/file/d/12O4gm2wRP2Be0_kwLSseDUAXkgf4GJA5/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=12O4gm2wRP2Be0_kwLSseDUAXkgf4GJA5",
-    "driveId": "12O4gm2wRP2Be0_kwLSseDUAXkgf4GJA5",
-    "section": "technique",
-    "subject": "mathssvt",
     "folder": "Cours"
   },
   {
@@ -30969,20 +27441,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_46c82a5bc7984137ac35660168c9acf6",
-    "name": "Représentation d'un écrou à encoches et d'une rondelle frein(ex) (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1rwMZUisd_eZaSYBjiXZiO2E9tqBVStjI/preview",
-    "previewUrl": "https://drive.google.com/file/d/1rwMZUisd_eZaSYBjiXZiO2E9tqBVStjI/preview",
-    "viewUrl": "https://drive.google.com/file/d/1rwMZUisd_eZaSYBjiXZiO2E9tqBVStjI/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1rwMZUisd_eZaSYBjiXZiO2E9tqBVStjI",
-    "driveId": "1rwMZUisd_eZaSYBjiXZiO2E9tqBVStjI",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_a1617c4568fc4a7638aa25d7ff66cb7c",
     "name": "Correction Transformation & Transmission de mouvement (Rayen Fitouri).pdf",
     "type": "application/pdf",
@@ -31053,62 +27511,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_b85f79be410d36e722733481d5ef6fbd",
-    "name": "Isostatisme d'une pièce cylindrique courte (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1A-KFkO9emVhwpdXsU7ZslvU3Mc8NPnsN/preview",
-    "previewUrl": "https://drive.google.com/file/d/1A-KFkO9emVhwpdXsU7ZslvU3Mc8NPnsN/preview",
-    "viewUrl": "https://drive.google.com/file/d/1A-KFkO9emVhwpdXsU7ZslvU3Mc8NPnsN/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1A-KFkO9emVhwpdXsU7ZslvU3Mc8NPnsN",
-    "driveId": "1A-KFkO9emVhwpdXsU7ZslvU3Mc8NPnsN",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_349ee0886a94932f11a770a4d619e4a7",
-    "name": "Isostatisme d'une pièce cylindrique longue (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1DgvV6NISwsCJvce5Y-UfGs2k2P7F-Beu/preview",
-    "previewUrl": "https://drive.google.com/file/d/1DgvV6NISwsCJvce5Y-UfGs2k2P7F-Beu/preview",
-    "viewUrl": "https://drive.google.com/file/d/1DgvV6NISwsCJvce5Y-UfGs2k2P7F-Beu/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1DgvV6NISwsCJvce5Y-UfGs2k2P7F-Beu",
-    "driveId": "1DgvV6NISwsCJvce5Y-UfGs2k2P7F-Beu",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_6c8617ab27381cbedbf8606496df9e4f",
-    "name": "Isostatisme d'une pièce prismatique (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1z25xyO7E5w2mES7Ds8poqObjDpzqEVT0/preview",
-    "previewUrl": "https://drive.google.com/file/d/1z25xyO7E5w2mES7Ds8poqObjDpzqEVT0/preview",
-    "viewUrl": "https://drive.google.com/file/d/1z25xyO7E5w2mES7Ds8poqObjDpzqEVT0/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1z25xyO7E5w2mES7Ds8poqObjDpzqEVT0",
-    "driveId": "1z25xyO7E5w2mES7Ds8poqObjDpzqEVT0",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_5cb12328ef989f3bcf93a4df7e3391cf",
-    "name": "Résumé MEC (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1yvrnfgys-nTexu_qrqmqviF2n5V5r1h5/preview",
-    "previewUrl": "https://drive.google.com/file/d/1yvrnfgys-nTexu_qrqmqviF2n5V5r1h5/preview",
-    "viewUrl": "https://drive.google.com/file/d/1yvrnfgys-nTexu_qrqmqviF2n5V5r1h5/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1yvrnfgys-nTexu_qrqmqviF2n5V5r1h5",
-    "driveId": "1yvrnfgys-nTexu_qrqmqviF2n5V5r1h5",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_027cec4bc3ac50508c9ac0a99af98f38",
     "name": "Paragraphes Ben Zeyda (Rayen Fitouri).pdf",
     "type": "application/pdf",
@@ -31135,20 +27537,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "anglais",
     "folder": "Résumés"
-  },
-  {
-    "id": "preload_ce1c6b052dec9ec35b4eb7d8d7a35715",
-    "name": "arguments sur les souvenirs 2 (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1l66voxkRZ5HyyVc7v_iWwOnAiUMmLXOp/preview",
-    "previewUrl": "https://drive.google.com/file/d/1l66voxkRZ5HyyVc7v_iWwOnAiUMmLXOp/preview",
-    "viewUrl": "https://drive.google.com/file/d/1l66voxkRZ5HyyVc7v_iWwOnAiUMmLXOp/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1l66voxkRZ5HyyVc7v_iWwOnAiUMmLXOp",
-    "driveId": "1l66voxkRZ5HyyVc7v_iWwOnAiUMmLXOp",
-    "section": "technique",
-    "subject": "francais",
-    "folder": "Cours"
   },
   {
     "id": "preload_5a3f2f7d8d9dedad9c3490a00f5e165f",
@@ -31417,34 +27805,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_c99eeb41522c759a358e7b9b324fbb80",
-    "name": "Série Jaouhar (A.L.I) (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1fjQAlUsv3ND-jmE9y3HtxUf09t04YDGx/preview",
-    "previewUrl": "https://drive.google.com/file/d/1fjQAlUsv3ND-jmE9y3HtxUf09t04YDGx/preview",
-    "viewUrl": "https://drive.google.com/file/d/1fjQAlUsv3ND-jmE9y3HtxUf09t04YDGx/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1fjQAlUsv3ND-jmE9y3HtxUf09t04YDGx",
-    "driveId": "1fjQAlUsv3ND-jmE9y3HtxUf09t04YDGx",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_f76a6a04ca1a42c7ca557401b0e90f7e",
-    "name": "cours système triphasé (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Oq_UQu03JqID3efMkT3bvO7A_bsQuuZz/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Oq_UQu03JqID3efMkT3bvO7A_bsQuuZz/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Oq_UQu03JqID3efMkT3bvO7A_bsQuuZz/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Oq_UQu03JqID3efMkT3bvO7A_bsQuuZz",
-    "driveId": "1Oq_UQu03JqID3efMkT3bvO7A_bsQuuZz",
-    "section": "technique",
-    "subject": "elect",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_dd61626f5df43748a6e3894517e44cbd",
     "name": "Moteur CC (part 1) (Rayen Fitouri).pdf",
     "type": "application/pdf",
@@ -31585,20 +27945,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_7178104237094106800eaa7a335fe869",
-    "name": "Cours RLC libre (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1bL7AuNM2kXPEnE1xqLjfKJqZH316kIrV/preview",
-    "previewUrl": "https://drive.google.com/file/d/1bL7AuNM2kXPEnE1xqLjfKJqZH316kIrV/preview",
-    "viewUrl": "https://drive.google.com/file/d/1bL7AuNM2kXPEnE1xqLjfKJqZH316kIrV/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1bL7AuNM2kXPEnE1xqLjfKJqZH316kIrV",
-    "driveId": "1bL7AuNM2kXPEnE1xqLjfKJqZH316kIrV",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_08cf61fc9b39ed444e263e31e2a7ded7",
     "name": "Oscillation libres amorties-Sahbi (Rayen Fitouri).pdf",
     "type": "application/pdf",
@@ -31611,20 +27957,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "physiquetech",
     "folder": "Exercices"
-  },
-  {
-    "id": "preload_f69ff828d5129c7acbd07ef51de62093",
-    "name": "Cours RLC libre (Rayen Fitouri).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1AMohWjnOebYCXV0szB913EC0WVcaqeRA/preview",
-    "previewUrl": "https://drive.google.com/file/d/1AMohWjnOebYCXV0szB913EC0WVcaqeRA/preview",
-    "viewUrl": "https://drive.google.com/file/d/1AMohWjnOebYCXV0szB913EC0WVcaqeRA/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1AMohWjnOebYCXV0szB913EC0WVcaqeRA",
-    "driveId": "1AMohWjnOebYCXV0szB913EC0WVcaqeRA",
-    "section": "technique",
-    "subject": "physiquetech",
-    "folder": "Cours"
   },
   {
     "id": "preload_fd847b920d117264c03a94d0efcdeadc",
@@ -31907,20 +28239,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_8854f935f7c2a2b6ad0c5712ce980fc0",
-    "name": "Manuel-de-révision-bac-pratique-2 (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1KAwoPL1nKjxZBrFgJe0XlFKyoNxygYPZ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1KAwoPL1nKjxZBrFgJe0XlFKyoNxygYPZ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1KAwoPL1nKjxZBrFgJe0XlFKyoNxygYPZ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1KAwoPL1nKjxZBrFgJe0XlFKyoNxygYPZ",
-    "driveId": "1KAwoPL1nKjxZBrFgJe0XlFKyoNxygYPZ",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_aa36672a826f6d6454d7450b35da75f7",
     "name": "Bac blanc (théoriques) corrigés 2022-2025 (Mariem Ben Kaid).pdf",
     "type": "application/pdf",
@@ -31961,34 +28279,6 @@ window.PRELOADED_FILES = [
     "section": "technique",
     "subject": "info",
     "folder": "Cours"
-  },
-  {
-    "id": "preload_9f9cc6aed9369d5825d5d5156add81f1",
-    "name": "résumé algo (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1kGfC2-J4Vy6SId9UIehhMxtVePJphTJP/preview",
-    "previewUrl": "https://drive.google.com/file/d/1kGfC2-J4Vy6SId9UIehhMxtVePJphTJP/preview",
-    "viewUrl": "https://drive.google.com/file/d/1kGfC2-J4Vy6SId9UIehhMxtVePJphTJP/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1kGfC2-J4Vy6SId9UIehhMxtVePJphTJP",
-    "driveId": "1kGfC2-J4Vy6SId9UIehhMxtVePJphTJP",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_c4c7643b9608f810b446129a5640654c",
-    "name": "résumé python (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1jof4IqiRpr8ycymN5rV366f4CUH_BAKY/preview",
-    "previewUrl": "https://drive.google.com/file/d/1jof4IqiRpr8ycymN5rV366f4CUH_BAKY/preview",
-    "viewUrl": "https://drive.google.com/file/d/1jof4IqiRpr8ycymN5rV366f4CUH_BAKY/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1jof4IqiRpr8ycymN5rV366f4CUH_BAKY",
-    "driveId": "1jof4IqiRpr8ycymN5rV366f4CUH_BAKY",
-    "section": "technique",
-    "subject": "info",
-    "folder": "Résumés"
   },
   {
     "id": "preload_3824aefeed9b467b817b388d23bbe321",
@@ -32238,20 +28528,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1QLqCAI1yNMbBv51ay3t936kCyw8Cm7AR/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1QLqCAI1yNMbBv51ay3t936kCyw8Cm7AR",
     "driveId": "1QLqCAI1yNMbBv51ay3t936kCyw8Cm7AR",
-    "section": "technique",
-    "subject": "francais",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_593be4373ce2b15ab932f76cc3450cb1",
-    "name": "Resume-Souvenir-pilote-Monastir-Waeldocuments.pdf (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1HAK23m9LRMimd1LrtnKz0PAH8C59f0Fo/preview",
-    "previewUrl": "https://drive.google.com/file/d/1HAK23m9LRMimd1LrtnKz0PAH8C59f0Fo/preview",
-    "viewUrl": "https://drive.google.com/file/d/1HAK23m9LRMimd1LrtnKz0PAH8C59f0Fo/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1HAK23m9LRMimd1LrtnKz0PAH8C59f0Fo",
-    "driveId": "1HAK23m9LRMimd1LrtnKz0PAH8C59f0Fo",
     "section": "technique",
     "subject": "francais",
     "folder": "Résumés"
@@ -32635,48 +28911,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_de378b33fd51515316f9f8ef55281d73",
-    "name": "Sujet de révision DC2 (2) corrigé (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1KG6QqbCO13C2m96Nda-tb5va3HbDvwZZ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1KG6QqbCO13C2m96Nda-tb5va3HbDvwZZ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1KG6QqbCO13C2m96Nda-tb5va3HbDvwZZ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1KG6QqbCO13C2m96Nda-tb5va3HbDvwZZ",
-    "driveId": "1KG6QqbCO13C2m96Nda-tb5va3HbDvwZZ",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_e5813b14abfef10d5e56acbfce509317",
-    "name": "DC3 4ScT (Station de Lavage Véhicule Prépayé) 22-23+correction (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ACpFuVSa31CDbwp4PFig-XJrTjSWLUNr/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ACpFuVSa31CDbwp4PFig-XJrTjSWLUNr/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ACpFuVSa31CDbwp4PFig-XJrTjSWLUNr/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ACpFuVSa31CDbwp4PFig-XJrTjSWLUNr",
-    "driveId": "1ACpFuVSa31CDbwp4PFig-XJrTjSWLUNr",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_95070843f6f4a9a0c9d0e50858a93f9a",
-    "name": "DC3 4ScT(Convoyeur à Bande Transporteuse) 22-23 + Correction (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1-x4cZl69BrOMyy2FH3YTQcKwwFpeoJNG/preview",
-    "previewUrl": "https://drive.google.com/file/d/1-x4cZl69BrOMyy2FH3YTQcKwwFpeoJNG/preview",
-    "viewUrl": "https://drive.google.com/file/d/1-x4cZl69BrOMyy2FH3YTQcKwwFpeoJNG/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1-x4cZl69BrOMyy2FH3YTQcKwwFpeoJNG",
-    "driveId": "1-x4cZl69BrOMyy2FH3YTQcKwwFpeoJNG",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_f79f7014a48525705a5d2b51d9e8a776",
     "name": "corrigé  DS1 (2) (Mariem Ben Kaid).pdf",
     "type": "application/pdf",
@@ -32803,34 +29037,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_8cbb93a9937fbabf8fdeb00b536ad61e",
-    "name": "Résumé MEC (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1z4T3S8spobqZmKSLQLOxr7TOHCVfwCvk/preview",
-    "previewUrl": "https://drive.google.com/file/d/1z4T3S8spobqZmKSLQLOxr7TOHCVfwCvk/preview",
-    "viewUrl": "https://drive.google.com/file/d/1z4T3S8spobqZmKSLQLOxr7TOHCVfwCvk/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1z4T3S8spobqZmKSLQLOxr7TOHCVfwCvk",
-    "driveId": "1z4T3S8spobqZmKSLQLOxr7TOHCVfwCvk",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_fc1fd0d61d817bab4820aa5f8b37553f",
-    "name": "résumé mécanique (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1yRDs2_-nmnCQyeMMhwxdY9KIYMEZcDl2/preview",
-    "previewUrl": "https://drive.google.com/file/d/1yRDs2_-nmnCQyeMMhwxdY9KIYMEZcDl2/preview",
-    "viewUrl": "https://drive.google.com/file/d/1yRDs2_-nmnCQyeMMhwxdY9KIYMEZcDl2/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1yRDs2_-nmnCQyeMMhwxdY9KIYMEZcDl2",
-    "driveId": "1yRDs2_-nmnCQyeMMhwxdY9KIYMEZcDl2",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_2af2644fde807078e5aa658222730aec",
     "name": "divers sujets de révision meca  (Mariem Ben Kaid).pdf",
     "type": "application/pdf",
@@ -32868,20 +29074,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1cpK8Y6_y0OIpJKnifDULloQm9VQthTRz/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1cpK8Y6_y0OIpJKnifDULloQm9VQthTRz",
     "driveId": "1cpK8Y6_y0OIpJKnifDULloQm9VQthTRz",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_83f07a80f60b6ba13a7a5acfed0f7fde",
-    "name": "Dossier Technique Msaken (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1qqZC-yBYdet0PQLC1zwlooQhQhl72LaP/preview",
-    "previewUrl": "https://drive.google.com/file/d/1qqZC-yBYdet0PQLC1zwlooQhQhl72LaP/preview",
-    "viewUrl": "https://drive.google.com/file/d/1qqZC-yBYdet0PQLC1zwlooQhQhl72LaP/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1qqZC-yBYdet0PQLC1zwlooQhQhl72LaP",
-    "driveId": "1qqZC-yBYdet0PQLC1zwlooQhQhl72LaP",
     "section": "technique",
     "subject": "mec",
     "folder": "Cours"
@@ -33153,20 +29345,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_e7068e107f82f857d872927da162c9a8",
-    "name": "منهجية الفلسفة  (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1wSCY_kc7rOZtMqCCZ2aKUa8DgoAocuvG/preview",
-    "previewUrl": "https://drive.google.com/file/d/1wSCY_kc7rOZtMqCCZ2aKUa8DgoAocuvG/preview",
-    "viewUrl": "https://drive.google.com/file/d/1wSCY_kc7rOZtMqCCZ2aKUa8DgoAocuvG/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1wSCY_kc7rOZtMqCCZ2aKUa8DgoAocuvG",
-    "driveId": "1wSCY_kc7rOZtMqCCZ2aKUa8DgoAocuvG",
-    "section": "technique",
-    "subject": "philosophie",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_315b961fd37b36e5652b15570b873f8f",
     "name": "correction-RLC-libre (Mariem Ben Kaid).pdf",
     "type": "application/pdf",
@@ -33346,20 +29524,6 @@ window.PRELOADED_FILES = [
     "driveId": "1YfoJhZiFm7PQJ3OyiLN72nCLFSnfMZKy",
     "section": "technique",
     "subject": "physiquetech",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_e5325270028e332136eb841af4f4d3f1",
-    "name": "série-Avancement-d (Mariem Ben Kaid).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1UqDv_dM_GXCwIk4W0kvyQwWecEUAhLqw/preview",
-    "previewUrl": "https://drive.google.com/file/d/1UqDv_dM_GXCwIk4W0kvyQwWecEUAhLqw/preview",
-    "viewUrl": "https://drive.google.com/file/d/1UqDv_dM_GXCwIk4W0kvyQwWecEUAhLqw/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1UqDv_dM_GXCwIk4W0kvyQwWecEUAhLqw",
-    "driveId": "1UqDv_dM_GXCwIk4W0kvyQwWecEUAhLqw",
-    "section": "technique",
-    "subject": "chimiesvt",
     "folder": "Exercices"
   },
   {
@@ -33685,20 +29849,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_ee0457342383477f774a4696edf5e806",
-    "name": "Paragrafen und ideen.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1-PG0capllGX471Ywttt5OuJ1E0qoBSTJ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1-PG0capllGX471Ywttt5OuJ1E0qoBSTJ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1-PG0capllGX471Ywttt5OuJ1E0qoBSTJ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1-PG0capllGX471Ywttt5OuJ1E0qoBSTJ",
-    "driveId": "1-PG0capllGX471Ywttt5OuJ1E0qoBSTJ",
-    "section": "math",
-    "subject": "allemand",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_56b17a2c26a894d82680ae099c07196b",
     "name": "Paragraphes toute l'année.pdf",
     "type": "application/pdf",
@@ -33711,48 +29861,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "allemand",
     "folder": "Résumés"
-  },
-  {
-    "id": "preload_dab7f8b32a72ee83ae9b8f30ad9aadf6",
-    "name": "Perfekt 1.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1HF0qMdgGz8YP8Wc-GtzPtPK9pOR9vkEU/preview",
-    "previewUrl": "https://drive.google.com/file/d/1HF0qMdgGz8YP8Wc-GtzPtPK9pOR9vkEU/preview",
-    "viewUrl": "https://drive.google.com/file/d/1HF0qMdgGz8YP8Wc-GtzPtPK9pOR9vkEU/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1HF0qMdgGz8YP8Wc-GtzPtPK9pOR9vkEU",
-    "driveId": "1HF0qMdgGz8YP8Wc-GtzPtPK9pOR9vkEU",
-    "section": "math",
-    "subject": "allemand",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_7d31d14a8430ff6c18d27dc92fadb887",
-    "name": "Perfekt 2.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ySszZiU21VcdNbGJteZCHytsZLnH_QgQ/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ySszZiU21VcdNbGJteZCHytsZLnH_QgQ/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ySszZiU21VcdNbGJteZCHytsZLnH_QgQ/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ySszZiU21VcdNbGJteZCHytsZLnH_QgQ",
-    "driveId": "1ySszZiU21VcdNbGJteZCHytsZLnH_QgQ",
-    "section": "math",
-    "subject": "allemand",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_9edc242a5e1ad80dad61b0f697eacb16",
-    "name": "Perfekt 3.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1r0xMMHAv1RR9sKLi8IWSPbhkmhpk1Rch/preview",
-    "previewUrl": "https://drive.google.com/file/d/1r0xMMHAv1RR9sKLi8IWSPbhkmhpk1Rch/preview",
-    "viewUrl": "https://drive.google.com/file/d/1r0xMMHAv1RR9sKLi8IWSPbhkmhpk1Rch/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1r0xMMHAv1RR9sKLi8IWSPbhkmhpk1Rch",
-    "driveId": "1r0xMMHAv1RR9sKLi8IWSPbhkmhpk1Rch",
-    "section": "math",
-    "subject": "allemand",
-    "folder": "Cours"
   },
   {
     "id": "preload_832e579897aeed3d0b8fbfa4672bc5b3",
@@ -33879,62 +29987,6 @@ window.PRELOADED_FILES = [
     "section": "math",
     "subject": "anglais",
     "folder": "Résumés"
-  },
-  {
-    "id": "preload_a44fd4d47071df0c716e10b6b70d9133",
-    "name": "Résumé ; English (Language).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1KiP62qOMfpFPGN34We5PRudA14l5k2Ly/preview",
-    "previewUrl": "https://drive.google.com/file/d/1KiP62qOMfpFPGN34We5PRudA14l5k2Ly/preview",
-    "viewUrl": "https://drive.google.com/file/d/1KiP62qOMfpFPGN34We5PRudA14l5k2Ly/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1KiP62qOMfpFPGN34We5PRudA14l5k2Ly",
-    "driveId": "1KiP62qOMfpFPGN34We5PRudA14l5k2Ly",
-    "section": "math",
-    "subject": "anglais",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_8bb4eb074eaf965095e113240b6950b0",
-    "name": "Résumé ; English (Writing).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1hhl8gbe6ZPTvJpcsnu5I01-95DMTyDsk/preview",
-    "previewUrl": "https://drive.google.com/file/d/1hhl8gbe6ZPTvJpcsnu5I01-95DMTyDsk/preview",
-    "viewUrl": "https://drive.google.com/file/d/1hhl8gbe6ZPTvJpcsnu5I01-95DMTyDsk/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1hhl8gbe6ZPTvJpcsnu5I01-95DMTyDsk",
-    "driveId": "1hhl8gbe6ZPTvJpcsnu5I01-95DMTyDsk",
-    "section": "math",
-    "subject": "anglais",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_81d35cd939345e887d1d1fabfe5b9e1b",
-    "name": "Sujet-1 ; English.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ugNB9BaaTYqi6DtRKsjKUkM8ZPqJwwK9/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ugNB9BaaTYqi6DtRKsjKUkM8ZPqJwwK9/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ugNB9BaaTYqi6DtRKsjKUkM8ZPqJwwK9/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ugNB9BaaTYqi6DtRKsjKUkM8ZPqJwwK9",
-    "driveId": "1ugNB9BaaTYqi6DtRKsjKUkM8ZPqJwwK9",
-    "section": "math",
-    "subject": "anglais",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_5e147f0d28f4e4dc597bb67b769651bc",
-    "name": "Sujet-1 Correction : English.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1GPgRUDDgvvUDsaJ_2LMcj7pfcsRqHe1n/preview",
-    "previewUrl": "https://drive.google.com/file/d/1GPgRUDDgvvUDsaJ_2LMcj7pfcsRqHe1n/preview",
-    "viewUrl": "https://drive.google.com/file/d/1GPgRUDDgvvUDsaJ_2LMcj7pfcsRqHe1n/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1GPgRUDDgvvUDsaJ_2LMcj7pfcsRqHe1n",
-    "driveId": "1GPgRUDDgvvUDsaJ_2LMcj7pfcsRqHe1n",
-    "section": "math",
-    "subject": "anglais",
-    "folder": "Exercices"
   },
   {
     "id": "preload_ad9504f6a031e06a9f09399ae3890348",
@@ -34371,20 +30423,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_654334e36bd78b744bf8b6766ff9d820",
-    "name": "ROBOT 2020 ; Sciences Informatique.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Q5R5gnQU28tzhYztqrzr0sCyqxyJpB6S/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Q5R5gnQU28tzhYztqrzr0sCyqxyJpB6S/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Q5R5gnQU28tzhYztqrzr0sCyqxyJpB6S/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Q5R5gnQU28tzhYztqrzr0sCyqxyJpB6S",
-    "driveId": "1Q5R5gnQU28tzhYztqrzr0sCyqxyJpB6S",
-    "section": "math",
-    "subject": "info",
-    "folder": "Cours"
-  },
-  {
     "id": "preload_d38d9f7d8d2cb9db28916ba4578d36e5",
     "name": "Résumé d'i formatique, By Wal eed.pdf",
     "type": "application/pdf",
@@ -34590,20 +30628,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1q0sn07Y1rarKinVwv13GYebeTdB8r66b/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1q0sn07Y1rarKinVwv13GYebeTdB8r66b",
     "driveId": "1q0sn07Y1rarKinVwv13GYebeTdB8r66b",
-    "section": "math",
-    "subject": "info",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_26fd56f7703d759f73a27f5fec1d2907",
-    "name": "Manuel-de-révision-bac-pratique.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1WU7nuf0FMQ469LC2n23P6lncsknhJ79Z/preview",
-    "previewUrl": "https://drive.google.com/file/d/1WU7nuf0FMQ469LC2n23P6lncsknhJ79Z/preview",
-    "viewUrl": "https://drive.google.com/file/d/1WU7nuf0FMQ469LC2n23P6lncsknhJ79Z/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1WU7nuf0FMQ469LC2n23P6lncsknhJ79Z",
-    "driveId": "1WU7nuf0FMQ469LC2n23P6lncsknhJ79Z",
     "section": "math",
     "subject": "info",
     "folder": "Exercices"
@@ -34973,20 +30997,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_1ad0194ddc58eb9d583195a66ad8a171",
-    "name": "Résumé de cours ; Primitives (Mersani Imed).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1UtOnQl8N4xlsp-ST0hS6tw0eMHb5FKR8/preview",
-    "previewUrl": "https://drive.google.com/file/d/1UtOnQl8N4xlsp-ST0hS6tw0eMHb5FKR8/preview",
-    "viewUrl": "https://drive.google.com/file/d/1UtOnQl8N4xlsp-ST0hS6tw0eMHb5FKR8/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1UtOnQl8N4xlsp-ST0hS6tw0eMHb5FKR8",
-    "driveId": "1UtOnQl8N4xlsp-ST0hS6tw0eMHb5FKR8",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_231ace388fac76be272a06a5ea12188e",
     "name": "Lycée Pilote Sfax - Résumé Probabilités.pdf",
     "type": "application/pdf",
@@ -35052,20 +31062,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1lKdjtLsY_UHOhph9EhHG3P7t2f3mf136/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1lKdjtLsY_UHOhph9EhHG3P7t2f3mf136",
     "driveId": "1lKdjtLsY_UHOhph9EhHG3P7t2f3mf136",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_e7a9e15f89e7c6cc59a502c0a06b2594",
-    "name": "Fiche méthodes - Statistiques.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1h32aNfW0CtZlveUt0qdmZq6i1F_RPVH3/preview",
-    "previewUrl": "https://drive.google.com/file/d/1h32aNfW0CtZlveUt0qdmZq6i1F_RPVH3/preview",
-    "viewUrl": "https://drive.google.com/file/d/1h32aNfW0CtZlveUt0qdmZq6i1F_RPVH3/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1h32aNfW0CtZlveUt0qdmZq6i1F_RPVH3",
-    "driveId": "1h32aNfW0CtZlveUt0qdmZq6i1F_RPVH3",
     "section": "math",
     "subject": "mathsM",
     "folder": "Résumés"
@@ -35248,20 +31244,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1bjoIqxIiSP6V9IT6D-iBEDTz-AUjJ2-0/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1bjoIqxIiSP6V9IT6D-iBEDTz-AUjJ2-0",
     "driveId": "1bjoIqxIiSP6V9IT6D-iBEDTz-AUjJ2-0",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_62e1f8d6de52e4e3853864a984852205",
-    "name": "Correction de devoir de contrôle N°1 ; Mathématiques Lycée Pilote Médenine (2022-2023).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1xQMzY0D5OLEaRb9bIyjso7jxRy2yDOND/preview",
-    "previewUrl": "https://drive.google.com/file/d/1xQMzY0D5OLEaRb9bIyjso7jxRy2yDOND/preview",
-    "viewUrl": "https://drive.google.com/file/d/1xQMzY0D5OLEaRb9bIyjso7jxRy2yDOND/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1xQMzY0D5OLEaRb9bIyjso7jxRy2yDOND",
-    "driveId": "1xQMzY0D5OLEaRb9bIyjso7jxRy2yDOND",
     "section": "math",
     "subject": "mathsM",
     "folder": "Exercices"
@@ -36667,20 +32649,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_f3dd98186cee2cbcc1eae54975a70b76",
-    "name": "Devoir-de-controle-n°2-4eme-Maths-Mr-Afli-Ahmed-15-16.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1wT4C4PVU25aSQ_8qTMDlbJQpskL8vcx-/preview",
-    "previewUrl": "https://drive.google.com/file/d/1wT4C4PVU25aSQ_8qTMDlbJQpskL8vcx-/preview",
-    "viewUrl": "https://drive.google.com/file/d/1wT4C4PVU25aSQ_8qTMDlbJQpskL8vcx-/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1wT4C4PVU25aSQ_8qTMDlbJQpskL8vcx-",
-    "driveId": "1wT4C4PVU25aSQ_8qTMDlbJQpskL8vcx-",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_c1bfd007ee82e7333d4a66a7a558da8a",
     "name": "Devoir-de-controle-n°2-4eme-Maths-Mr-Afli-Ahmed-19-20.pdf",
     "type": "application/pdf",
@@ -37213,20 +33181,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_7e6409c36a8529645a918bc87b35313d",
-    "name": "Devoir de synthèse N°1 ; Mathématiques (2021).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1BNh1owlzsLKD0Xb5lATne1dmjfrKEs1W/preview",
-    "previewUrl": "https://drive.google.com/file/d/1BNh1owlzsLKD0Xb5lATne1dmjfrKEs1W/preview",
-    "viewUrl": "https://drive.google.com/file/d/1BNh1owlzsLKD0Xb5lATne1dmjfrKEs1W/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1BNh1owlzsLKD0Xb5lATne1dmjfrKEs1W",
-    "driveId": "1BNh1owlzsLKD0Xb5lATne1dmjfrKEs1W",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_4c3aaf89725237075c6eaff60244b157",
     "name": "Devoir De Synthèse N°1 ; Mathématiques (Décembre 2014).pdf",
     "type": "application/pdf",
@@ -37684,20 +33638,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1qhkm8Y3AW5jY3bjfhJ9gP8o8GjL5yl7r/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1qhkm8Y3AW5jY3bjfhJ9gP8o8GjL5yl7r",
     "driveId": "1qhkm8Y3AW5jY3bjfhJ9gP8o8GjL5yl7r",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_50b21a87c621fbb19353d3c06003f01d",
-    "name": "Devoir de Synthèse N°2 ; Mathématiques (2024) Médenine.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1I4mh7iZJJnRvglWuxZNEK9_HaeD3ZjCO/preview",
-    "previewUrl": "https://drive.google.com/file/d/1I4mh7iZJJnRvglWuxZNEK9_HaeD3ZjCO/preview",
-    "viewUrl": "https://drive.google.com/file/d/1I4mh7iZJJnRvglWuxZNEK9_HaeD3ZjCO/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1I4mh7iZJJnRvglWuxZNEK9_HaeD3ZjCO",
-    "driveId": "1I4mh7iZJJnRvglWuxZNEK9_HaeD3ZjCO",
     "section": "math",
     "subject": "mathsM",
     "folder": "Exercices"
@@ -38314,20 +34254,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1kGrTDaDmPHjm2KAn4zIqnAcysG8v-ZzZ/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1kGrTDaDmPHjm2KAn4zIqnAcysG8v-ZzZ",
     "driveId": "1kGrTDaDmPHjm2KAn4zIqnAcysG8v-ZzZ",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_a53dd9423c846721681fec8fba667ead",
-    "name": "Lycée Pilote Ariana - Sujet de Révision 1.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1tVUzs-EcVaIkbglqumaIHO4MePbIGZUx/preview",
-    "previewUrl": "https://drive.google.com/file/d/1tVUzs-EcVaIkbglqumaIHO4MePbIGZUx/preview",
-    "viewUrl": "https://drive.google.com/file/d/1tVUzs-EcVaIkbglqumaIHO4MePbIGZUx/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tVUzs-EcVaIkbglqumaIHO4MePbIGZUx",
-    "driveId": "1tVUzs-EcVaIkbglqumaIHO4MePbIGZUx",
     "section": "math",
     "subject": "mathsM",
     "folder": "Exercices"
@@ -39187,20 +35113,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_6d79ffcbe1b4dfc8fb160d53471a11e6",
-    "name": "Serie n°8 ; Continuité et limites.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1nD_pY5hcRyJgHDMpYnYRKWcjfUbmH2-P/preview",
-    "previewUrl": "https://drive.google.com/file/d/1nD_pY5hcRyJgHDMpYnYRKWcjfUbmH2-P/preview",
-    "viewUrl": "https://drive.google.com/file/d/1nD_pY5hcRyJgHDMpYnYRKWcjfUbmH2-P/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1nD_pY5hcRyJgHDMpYnYRKWcjfUbmH2-P",
-    "driveId": "1nD_pY5hcRyJgHDMpYnYRKWcjfUbmH2-P",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_648ccfd32afb1b0f4ebc3163ef35de89",
     "name": "Series ; Continuité Et Limites.pdf",
     "type": "application/pdf",
@@ -39803,20 +35715,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_db5c00649916ecfe0373577443f86ecc",
-    "name": "Problème ; Fonctions logarithmes.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1h6IVC8QpNWCJZMoGNAE4yWy3NbZ-pQxz/preview",
-    "previewUrl": "https://drive.google.com/file/d/1h6IVC8QpNWCJZMoGNAE4yWy3NbZ-pQxz/preview",
-    "viewUrl": "https://drive.google.com/file/d/1h6IVC8QpNWCJZMoGNAE4yWy3NbZ-pQxz/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1h6IVC8QpNWCJZMoGNAE4yWy3NbZ-pQxz",
-    "driveId": "1h6IVC8QpNWCJZMoGNAE4yWy3NbZ-pQxz",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_091818416a8c9a435d8ab6d093b0d0e2",
     "name": "Problème de révision ; Fonctions Logarithmes.pdf",
     "type": "application/pdf",
@@ -39938,20 +35836,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/10JEPfeM1YbpCFOkteL-FpWCSsI0Jatiz/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=10JEPfeM1YbpCFOkteL-FpWCSsI0Jatiz",
     "driveId": "10JEPfeM1YbpCFOkteL-FpWCSsI0Jatiz",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_ced7dd9e379b33d7ccb77b3820a518ed",
-    "name": "Série d'exercices ; Fonction Logarithme (Meddeb Tarek).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Yi6uFzIeP_dCDl4XpUKOW9C9wNoMilLI/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Yi6uFzIeP_dCDl4XpUKOW9C9wNoMilLI/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Yi6uFzIeP_dCDl4XpUKOW9C9wNoMilLI/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Yi6uFzIeP_dCDl4XpUKOW9C9wNoMilLI",
-    "driveId": "1Yi6uFzIeP_dCDl4XpUKOW9C9wNoMilLI",
     "section": "math",
     "subject": "mathsM",
     "folder": "Exercices"
@@ -40433,20 +36317,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_72b6f68012eb7bba0a2243feb725821a",
-    "name": "Cinq séries ; Déplacement et Antidéplacement (Mersani Imed).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1BTwE-nQie0qh-XMFaXmB5PrJCKCX6GPD/preview",
-    "previewUrl": "https://drive.google.com/file/d/1BTwE-nQie0qh-XMFaXmB5PrJCKCX6GPD/preview",
-    "viewUrl": "https://drive.google.com/file/d/1BTwE-nQie0qh-XMFaXmB5PrJCKCX6GPD/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1BTwE-nQie0qh-XMFaXmB5PrJCKCX6GPD",
-    "driveId": "1BTwE-nQie0qh-XMFaXmB5PrJCKCX6GPD",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_62552a6a37cd0efcca601838a36218fb",
     "name": "Devoir De Synthése N°1 ; Mathématiques (2007) sans correction.pdf",
     "type": "application/pdf",
@@ -40699,20 +36569,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_330c86360d3db8df8c60cba42df288b6",
-    "name": "Serie ; Nombres complexes.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1qni4lDkm0yHbwbEZ6e-imJIBwuVMFjmu/preview",
-    "previewUrl": "https://drive.google.com/file/d/1qni4lDkm0yHbwbEZ6e-imJIBwuVMFjmu/preview",
-    "viewUrl": "https://drive.google.com/file/d/1qni4lDkm0yHbwbEZ6e-imJIBwuVMFjmu/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1qni4lDkm0yHbwbEZ6e-imJIBwuVMFjmu",
-    "driveId": "1qni4lDkm0yHbwbEZ6e-imJIBwuVMFjmu",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_8bd2ca0b5b0e093ba437b4f9083dea2a",
     "name": "Serie ; Nombres complexes.pdf",
     "type": "application/pdf",
@@ -40909,20 +36765,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_b99a1b6924926ac868eb2e7b10629905",
-    "name": "S1(Primitives 4 Maths).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1LROjxBeqz6RejocrkJtukjuiomOIpvtf/preview",
-    "previewUrl": "https://drive.google.com/file/d/1LROjxBeqz6RejocrkJtukjuiomOIpvtf/preview",
-    "viewUrl": "https://drive.google.com/file/d/1LROjxBeqz6RejocrkJtukjuiomOIpvtf/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1LROjxBeqz6RejocrkJtukjuiomOIpvtf",
-    "driveId": "1LROjxBeqz6RejocrkJtukjuiomOIpvtf",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_0b9cff4fa595ecca09bc25e4b7b7a069",
     "name": "Série 11 ; Primitives.pdf",
     "type": "application/pdf",
@@ -40974,34 +36816,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1H2g90geLmReav8o6oVCNEzNi50vRStu_/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1H2g90geLmReav8o6oVCNEzNi50vRStu_",
     "driveId": "1H2g90geLmReav8o6oVCNEzNi50vRStu_",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_87a8ad4d440d8fec9e2287916bf90dc1",
-    "name": "Série N°2 ; Primitives (Mersani Imed).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1NcNJIVRFfCJPnPwusIjEVQxhSIOvqq52/preview",
-    "previewUrl": "https://drive.google.com/file/d/1NcNJIVRFfCJPnPwusIjEVQxhSIOvqq52/preview",
-    "viewUrl": "https://drive.google.com/file/d/1NcNJIVRFfCJPnPwusIjEVQxhSIOvqq52/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1NcNJIVRFfCJPnPwusIjEVQxhSIOvqq52",
-    "driveId": "1NcNJIVRFfCJPnPwusIjEVQxhSIOvqq52",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_1941eb33cacd79837d0c6f00fb632611",
-    "name": "Série n°23 Primitives (Znaidi Fayçal).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1kqcc__kyAHGSjBfth4KtZdx3gAT-rmHf/preview",
-    "previewUrl": "https://drive.google.com/file/d/1kqcc__kyAHGSjBfth4KtZdx3gAT-rmHf/preview",
-    "viewUrl": "https://drive.google.com/file/d/1kqcc__kyAHGSjBfth4KtZdx3gAT-rmHf/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1kqcc__kyAHGSjBfth4KtZdx3gAT-rmHf",
-    "driveId": "1kqcc__kyAHGSjBfth4KtZdx3gAT-rmHf",
     "section": "math",
     "subject": "mathsM",
     "folder": "Exercices"
@@ -41436,20 +37250,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/18JlWgIwhevTAAH5AkvLFLAfl1-5p6hAp/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=18JlWgIwhevTAAH5AkvLFLAfl1-5p6hAp",
     "driveId": "18JlWgIwhevTAAH5AkvLFLAfl1-5p6hAp",
-    "section": "math",
-    "subject": "mathsM",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_5b6624be96763b7b58f60a7c272dd9bd",
-    "name": "Serie d'exercices corrigés ; Similitudes (Ammar Bouajila).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1tvswtrjb6VPo6bxi4cPfRB-fBqvNrdq9/preview",
-    "previewUrl": "https://drive.google.com/file/d/1tvswtrjb6VPo6bxi4cPfRB-fBqvNrdq9/preview",
-    "viewUrl": "https://drive.google.com/file/d/1tvswtrjb6VPo6bxi4cPfRB-fBqvNrdq9/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1tvswtrjb6VPo6bxi4cPfRB-fBqvNrdq9",
-    "driveId": "1tvswtrjb6VPo6bxi4cPfRB-fBqvNrdq9",
     "section": "math",
     "subject": "mathsM",
     "folder": "Exercices"
@@ -41973,20 +37773,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_652b05314e38c0e3a48c95ebc314bec0",
-    "name": "Fiche de méthode - Cinétiques Chimique.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Jdj3t_ekAi1fijDSAl5najliGKOiiyOT/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Jdj3t_ekAi1fijDSAl5najliGKOiiyOT/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Jdj3t_ekAi1fijDSAl5najliGKOiiyOT/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Jdj3t_ekAi1fijDSAl5najliGKOiiyOT",
-    "driveId": "1Jdj3t_ekAi1fijDSAl5najliGKOiiyOT",
-    "section": "math",
-    "subject": "chimiesvt",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_c0bea63335c11a3e3caa65d8d06a25cc",
     "name": "L'essentiel du cours ; Cinétique Chimique.pdf",
     "type": "application/pdf",
@@ -42211,20 +37997,6 @@ window.PRELOADED_FILES = [
     "folder": "Cours"
   },
   {
-    "id": "preload_63ba3d6c139386609cca0290230b12a5",
-    "name": "Fiche de méthode - Dipole RL.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1Eb2vgcQ3JBbFh8WepWnnGzhWvUxkK_O6/preview",
-    "previewUrl": "https://drive.google.com/file/d/1Eb2vgcQ3JBbFh8WepWnnGzhWvUxkK_O6/preview",
-    "viewUrl": "https://drive.google.com/file/d/1Eb2vgcQ3JBbFh8WepWnnGzhWvUxkK_O6/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Eb2vgcQ3JBbFh8WepWnnGzhWvUxkK_O6",
-    "driveId": "1Eb2vgcQ3JBbFh8WepWnnGzhWvUxkK_O6",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_434c71d2be9431b5b734c5bcabb3b71d",
     "name": "L'essentiel du cours ; Le Dipôle RL.pdf",
     "type": "application/pdf",
@@ -42304,20 +38076,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1FL46ySRdc5Vcot_uUsGigLn8JhYfJazC/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1FL46ySRdc5Vcot_uUsGigLn8JhYfJazC",
     "driveId": "1FL46ySRdc5Vcot_uUsGigLn8JhYfJazC",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_eb1b1a7b1a7f04e61de6760a41f5250a",
-    "name": "Fiche de méthode - Dipole RC.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/184pA27cgx3X6sUX0RJkJw2kLHuhKiUys/preview",
-    "previewUrl": "https://drive.google.com/file/d/184pA27cgx3X6sUX0RJkJw2kLHuhKiUys/preview",
-    "viewUrl": "https://drive.google.com/file/d/184pA27cgx3X6sUX0RJkJw2kLHuhKiUys/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=184pA27cgx3X6sUX0RJkJw2kLHuhKiUys",
-    "driveId": "184pA27cgx3X6sUX0RJkJw2kLHuhKiUys",
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Résumés"
@@ -42729,20 +38487,6 @@ window.PRELOADED_FILES = [
     "folder": "Résumés"
   },
   {
-    "id": "preload_3ccada6c5712e6bfd10a90d1ca1a1430",
-    "name": "Fiche de méthode - Réactions nucléaires.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1teUpUBS6TUbGhEVX5EKHm4GhQ28NW9jU/preview",
-    "previewUrl": "https://drive.google.com/file/d/1teUpUBS6TUbGhEVX5EKHm4GhQ28NW9jU/preview",
-    "viewUrl": "https://drive.google.com/file/d/1teUpUBS6TUbGhEVX5EKHm4GhQ28NW9jU/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1teUpUBS6TUbGhEVX5EKHm4GhQ28NW9jU",
-    "driveId": "1teUpUBS6TUbGhEVX5EKHm4GhQ28NW9jU",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
-  },
-  {
     "id": "preload_327d2a448adc9d2fd75bf4ca48a4dbe7",
     "name": "Résumé de cours ; La radioactivité.pdf",
     "type": "application/pdf",
@@ -42752,20 +38496,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/11R7Mxc5b9ykU8Vv9t0tkfnyepRFofwFb/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=11R7Mxc5b9ykU8Vv9t0tkfnyepRFofwFb",
     "driveId": "11R7Mxc5b9ykU8Vv9t0tkfnyepRFofwFb",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Résumés"
-  },
-  {
-    "id": "preload_fc709467e81b7287b4dc7bd528bad035",
-    "name": "Fiche de méthode - Spectre Atomique.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1QCOoQ89FGJ6MdgVP6rIj0_3caQkAi07B/preview",
-    "previewUrl": "https://drive.google.com/file/d/1QCOoQ89FGJ6MdgVP6rIj0_3caQkAi07B/preview",
-    "viewUrl": "https://drive.google.com/file/d/1QCOoQ89FGJ6MdgVP6rIj0_3caQkAi07B/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1QCOoQ89FGJ6MdgVP6rIj0_3caQkAi07B",
-    "driveId": "1QCOoQ89FGJ6MdgVP6rIj0_3caQkAi07B",
     "section": "math",
     "subject": "physiquesvt",
     "folder": "Résumés"
@@ -45529,20 +41259,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_3bf3cfb5ab12c88eb1f591c0fc90822f",
-    "name": "Série N°7 ; Radioactivité.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1ug8sFkX3BgNBfwOgss1KrFTqsi42VHVy/preview",
-    "previewUrl": "https://drive.google.com/file/d/1ug8sFkX3BgNBfwOgss1KrFTqsi42VHVy/preview",
-    "viewUrl": "https://drive.google.com/file/d/1ug8sFkX3BgNBfwOgss1KrFTqsi42VHVy/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ug8sFkX3BgNBfwOgss1KrFTqsi42VHVy",
-    "driveId": "1ug8sFkX3BgNBfwOgss1KrFTqsi42VHVy",
-    "section": "math",
-    "subject": "physiquesvt",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_bcf473fe5a3e6af6a2a701d39d7362cd",
     "name": "Exercice ; Oscillations mécaniques libres.pdf",
     "type": "application/pdf",
@@ -45846,20 +41562,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1Dl9TCkatWATWLBWIeYtCo1N2ov5B0B6D/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Dl9TCkatWATWLBWIeYtCo1N2ov5B0B6D",
     "driveId": "1Dl9TCkatWATWLBWIeYtCo1N2ov5B0B6D",
-    "section": "math",
-    "subject": "svtmath",
-    "folder": "Exercices"
-  },
-  {
-    "id": "preload_ac669982d087e93d0cae36567af2a1d9",
-    "name": "Exercice Analyse ; Reproduction chez la femme.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1PSLN1JfIcLsC-8MtmbK6i1sF_OUDcE2A/preview",
-    "previewUrl": "https://drive.google.com/file/d/1PSLN1JfIcLsC-8MtmbK6i1sF_OUDcE2A/preview",
-    "viewUrl": "https://drive.google.com/file/d/1PSLN1JfIcLsC-8MtmbK6i1sF_OUDcE2A/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1PSLN1JfIcLsC-8MtmbK6i1sF_OUDcE2A",
-    "driveId": "1PSLN1JfIcLsC-8MtmbK6i1sF_OUDcE2A",
     "section": "math",
     "subject": "svtmath",
     "folder": "Exercices"
@@ -46336,20 +42038,6 @@ window.PRELOADED_FILES = [
     "viewUrl": "https://drive.google.com/file/d/1_4aOvp_CqQ1l7-jYXvcAAY0TB3P3jcfK/view?usp=sharing",
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1_4aOvp_CqQ1l7-jYXvcAAY0TB3P3jcfK",
     "driveId": "1_4aOvp_CqQ1l7-jYXvcAAY0TB3P3jcfK",
-    "section": "math",
-    "subject": "philosophie",
-    "folder": "Cours"
-  },
-  {
-    "id": "preload_bee8d3ea649cc48c25315f2acccaf768",
-    "name": "السيادة والمواطنة.pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1J-zzD7pVMC63LHMV4QWCxICqeXjQCowr/preview",
-    "previewUrl": "https://drive.google.com/file/d/1J-zzD7pVMC63LHMV4QWCxICqeXjQCowr/preview",
-    "viewUrl": "https://drive.google.com/file/d/1J-zzD7pVMC63LHMV4QWCxICqeXjQCowr/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1J-zzD7pVMC63LHMV4QWCxICqeXjQCowr",
-    "driveId": "1J-zzD7pVMC63LHMV4QWCxICqeXjQCowr",
     "section": "math",
     "subject": "philosophie",
     "folder": "Cours"
