@@ -23199,20 +23199,6 @@ window.PRELOADED_FILES = [
     "folder": "Exercices"
   },
   {
-    "id": "preload_7b2e9c72b2f41230b357a91d8d404448",
-    "name": "DT (Zakaria Ayachi).pdf",
-    "type": "application/pdf",
-    "size": 2500000,
-    "content": "https://drive.google.com/file/d/1h9qGDn6O83-sHeaILTxbjcq47OUwu599/preview",
-    "previewUrl": "https://drive.google.com/file/d/1h9qGDn6O83-sHeaILTxbjcq47OUwu599/preview",
-    "viewUrl": "https://drive.google.com/file/d/1h9qGDn6O83-sHeaILTxbjcq47OUwu599/view?usp=sharing",
-    "downloadUrl": "https://drive.google.com/uc?export=download&id=1h9qGDn6O83-sHeaILTxbjcq47OUwu599",
-    "driveId": "1h9qGDn6O83-sHeaILTxbjcq47OUwu599",
-    "section": "technique",
-    "subject": "mec",
-    "folder": "Exercices"
-  },
-  {
     "id": "preload_fdcdbcee557b69cb2e7a9be4f1918077",
     "name": "Sujet complet 2025 sollicitation composée (Zakaria Ayachi).pdf",
     "type": "application/pdf",
