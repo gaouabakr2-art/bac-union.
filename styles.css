@@ -283,6 +283,44 @@ body {
   gap: 1.2rem;
 }
 
+.header-instagram-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: #E1306C;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.92rem;
+  padding: 0.45rem 0.85rem;
+  border-radius: var(--radius-xl);
+  background-color: rgba(225, 48, 108, 0.08);
+  border: 1px solid rgba(225, 48, 108, 0.25);
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.header-instagram-btn:hover {
+  background-color: rgba(225, 48, 108, 0.16);
+  border-color: #E1306C;
+  color: #E1306C;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(225, 48, 108, 0.25);
+}
+
+[data-theme="dark"] .header-instagram-btn {
+  background-color: rgba(225, 48, 108, 0.14);
+  border-color: rgba(225, 48, 108, 0.35);
+  color: #FF4D88;
+}
+
+[data-theme="dark"] .header-instagram-btn:hover {
+  background-color: rgba(225, 48, 108, 0.24);
+  border-color: #FF4D88;
+  color: #FF4D88;
+  box-shadow: 0 4px 14px rgba(225, 48, 108, 0.35);
+}
+
 .icon-btn {
   background-color: var(--bg-secondary);
   border: 1.5px solid var(--border-color);
@@ -1646,6 +1684,22 @@ body {
   
   .header-search {
     max-width: 200px;
+  }
+
+  .header-actions {
+    gap: 0.6rem;
+  }
+
+  .header-instagram-text {
+    display: none;
+  }
+
+  .header-instagram-btn {
+    padding: 0.5rem;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    justify-content: center;
   }
   
   .welcome-banner {
