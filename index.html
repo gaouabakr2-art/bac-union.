@@ -55,9 +55,135 @@
 </head>
 <body>
 
+  <!-- Mobile Sidebar Backdrop Overlay -->
+  <div class="sidebar-backdrop" id="sidebar-backdrop"></div>
+
+  <!-- Persistent Left Sidebar (Flush to Left Edge, Like Testini) -->
+  <aside class="app-sidebar" id="app-sidebar">
+    <div class="sidebar-top">
+      <!-- Logo Branding at top of sidebar -->
+      <div class="sidebar-brand-area" id="btn-sidebar-logo" title="Retour à l'accueil">
+        <div class="logo-icon">🎓</div>
+        <span class="logo-text">Bac<span>Union</span></span>
+      </div>
+
+      <!-- Navigation Menu -->
+      <div class="sidebar-nav-container">
+        <!-- Home Link -->
+        <a href="#" class="home-nav-item active" id="nav-item-home" data-target="home-view">
+          <span class="home-nav-badge badge-home">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+          </span>
+          <div class="home-nav-info">
+            <span class="home-nav-title">Accueil</span>
+          </div>
+        </a>
+
+        <span class="home-nav-category">ESPACES DU SITE</span>
+        
+        <nav class="home-nav-list">
+          <!-- 1. Conseils -->
+          <a href="#home-motivation-section" class="home-nav-item" data-target="home-motivation-section">
+            <span class="home-nav-badge badge-conseils">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+            </span>
+            <div class="home-nav-info">
+              <span class="home-nav-title">Conseils & Astuces</span>
+              <span class="home-nav-desc">Retours des anciens</span>
+            </div>
+          </a>
+
+          <!-- 2. Invocations -->
+          <a href="#home-duaa-section" class="home-nav-item" data-target="home-duaa-section">
+            <span class="home-nav-badge badge-invocations">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+            </span>
+            <div class="home-nav-info">
+              <span class="home-nav-title">Invocations</span>
+              <span class="home-nav-desc">Douas & concentration</span>
+            </div>
+          </a>
+
+          <!-- 3. Sections & Direct 1-Click Stream Access -->
+          <div class="home-nav-section-wrapper">
+            <a href="#section-chooser-container" class="home-nav-item" data-target="section-chooser-container">
+              <span class="home-nav-badge badge-sections">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+              </span>
+              <div class="home-nav-info">
+                <span class="home-nav-title">Filières & Sections</span>
+                <span class="home-nav-desc">Choisir sa filière</span>
+              </div>
+            </a>
+
+            <!-- Sub-items: Direct 1-Click Access to Each Section -->
+            <div class="home-subnav-list" id="global-sidebar-sections">
+              <button type="button" class="home-subnav-item" data-section="technique" title="Accéder directement à la section Technique">
+                <span class="subnav-indicator" style="background-color: var(--color-technique); color: var(--color-technique);"></span>
+                <span class="subnav-label">Technique</span>
+                <svg class="subnav-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+              </button>
+
+              <button type="button" class="home-subnav-item" data-section="math" title="Accéder directement à la section Mathématiques">
+                <span class="subnav-indicator" style="background-color: var(--color-math); color: var(--color-math);"></span>
+                <span class="subnav-label">Mathématiques</span>
+                <svg class="subnav-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+              </button>
+
+              <button type="button" class="home-subnav-item" data-section="science" title="Accéder directement à la section Sciences Expérimentales">
+                <span class="subnav-indicator" style="background-color: var(--color-science); color: var(--color-science);"></span>
+                <span class="subnav-label">Sciences Exp.</span>
+                <svg class="subnav-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+              </button>
+
+              <button type="button" class="home-subnav-item" data-section="informatique" title="Accéder directement à la section Informatique">
+                <span class="subnav-indicator" style="background-color: var(--color-informatique); color: var(--color-informatique);"></span>
+                <span class="subnav-label">Informatique</span>
+                <svg class="subnav-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+              </button>
+
+              <button type="button" class="home-subnav-item" data-section="economie" title="Accéder directement à la section Économie & Gestion">
+                <span class="subnav-indicator" style="background-color: var(--color-economie); color: var(--color-economie);"></span>
+                <span class="subnav-label">Économie & Gestion</span>
+                <svg class="subnav-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+              </button>
+
+              <button type="button" class="home-subnav-item" data-section="lettre" title="Accéder directement à la section Lettres">
+                <span class="subnav-indicator" style="background-color: var(--color-lettre); color: var(--color-lettre);"></span>
+                <span class="subnav-label">Lettres</span>
+                <svg class="subnav-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+              </button>
+            </div>
+          </div>
+        </nav>
+
+        <span class="home-nav-category sub-group">COMMUNAUTÉ</span>
+        <nav class="home-nav-list">
+          <!-- 4. Remerciements -->
+          <a href="#remerciements-section" class="home-nav-item" data-target="remerciements-section">
+            <span class="home-nav-badge badge-remerciements">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+            </span>
+            <div class="home-nav-info">
+              <span class="home-nav-title">Remerciements</span>
+              <span class="home-nav-desc">Contributeurs du projet</span>
+            </div>
+          </a>
+        </nav>
+      </div>
+    </div>
+  </aside>
+
+
   <!-- App Header -->
   <header class="app-header">
     <div class="header-container">
+
+      <!-- Mobile Sidebar Toggle -->
+      <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Ouvrir le menu">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+      </button>
+
       <div class="logo-area" id="btn-header-logo">
         <div class="logo-icon">🎓</div>
         <span class="logo-text">Bac<span>Union</span></span>
@@ -96,16 +222,33 @@
           <h1>Bienvenue sur Bac Union 👋</h1>
           <p>Accédez à tous vos cours, résumés et fiches de révision pour préparer vos examens sereinement.</p>
         </div>
-        <div class="welcome-stats">
-          <div class="stat-bubble">
-            <span class="stat-num" id="total-files-stat">1235</span>
-            <span class="stat-lbl">Fichiers Stockés</span>
+        
+        <div class="banner-right-area">
+          <!-- 3D Floating Elements Stage -->
+          <div class="banner-3d-stage" aria-hidden="true">
+            <div class="shape-glow"></div>
+            <div class="shape-capsule"></div>
+            <div class="shape-cube"></div>
+            <div class="shape-sphere"></div>
+            <div class="shape-ring shape-ring-1"></div>
+            <div class="shape-ring shape-ring-2"></div>
+            <div class="shape-dot shape-dot-1"></div>
+            <div class="shape-dot shape-dot-2"></div>
+          </div>
+
+          <div class="welcome-stats">
+            <div class="stat-bubble">
+              <span class="stat-num" id="total-files-stat">1235</span>
+              <span class="stat-lbl">Fichiers Stockés</span>
+            </div>
           </div>
         </div>
       </div>
 
-      <!-- Alumni Advices Section (8 scrolling boxes) -->
-      <div class="home-motivation-section">
+      
+
+          <!-- Alumni Advices Section (8 scrolling boxes) -->
+          <div class="home-motivation-section" id="home-motivation-section">
         <h2 class="view-title">Conseils & Astuces des Anciens Élèves 💡</h2>
         <p class="view-subtitle">Retours d'expérience et conseils pratiques partagés par de brillants anciens étudiants.</p>
         
@@ -455,7 +598,7 @@ Trakzouch yeser maa laabed lokhrin raw famech rectte wahda tee njeeh tejem tekhd
       </div>
 
       <!-- Douas Section (8 moving cards) -->
-      <div class="home-duaa-section">
+      <div class="home-duaa-section" id="home-duaa-section">
         <h2 class="view-title">Invocations pour l'Apprentissage & la Concentration 🤲</h2>
         <p class="view-subtitle">Sélection de douas recommandées pour faciliter l'assimilation et apaiser le stress.</p>
         
@@ -563,7 +706,7 @@ Trakzouch yeser maa laabed lokhrin raw famech rectte wahda tee njeeh tejem tekhd
       <!-- Studing Part (Section Chooser) -->
       <div class="header-banner-divider"></div>
       
-      <div class="section-chooser-container">
+      <div class="section-chooser-container" id="section-chooser-container">
         <h2 class="view-title">Choisissez votre section</h2>
         <p class="view-subtitle">Sélectionnez votre filière d'apprentissage pour accéder à vos cours et résumés.</p>
 
@@ -587,25 +730,6 @@ Trakzouch yeser maa laabed lokhrin raw famech rectte wahda tee njeeh tejem tekhd
 
     <!-- 2. SECTION VIEW -->
     <section id="section-view" class="view-panel">
-      <div class="section-layout">
-        
-        <!-- Sidebar Navigation -->
-        <aside class="section-sidebar">
-          <button class="back-home-btn" id="btn-back-home">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
-            Retour à l'accueil
-          </button>
-          
-          <div class="sidebar-divider"></div>
-          <span class="sidebar-label">Sections</span>
-          
-          <nav class="sidebar-nav" id="sidebar-section-list">
-            <!-- Dynamically populated sidebar list -->
-          </nav>
-        </aside>
-
-        <!-- Main Section Dashboard Content -->
-        <div class="section-main-area">
           
           <!-- Section Banner -->
           <div class="section-banner" id="section-banner-theme">
@@ -625,32 +749,17 @@ Trakzouch yeser maa laabed lokhrin raw famech rectte wahda tee njeeh tejem tekhd
               <!-- Dynamically populated subject cards -->
             </div>
           </div>
-
-        </div>
-      </div>
     </section>
 
     <!-- 3. SUBJECT DETAILS VIEW -->
     <section id="subject-view" class="view-panel">
-      <div class="section-layout">
-        
-        <!-- Subject View Sidebar Navigation -->
-        <aside class="section-sidebar">
-          <button class="back-home-btn" id="btn-back-to-section">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
-            Retour aux matières
-          </button>
-          
-          <div class="sidebar-divider"></div>
-          <span class="sidebar-label">Sections</span>
-          
-          <nav class="sidebar-nav" id="sidebar-subject-section-list">
-            <!-- Dynamically populated sidebar list -->
-          </nav>
-        </aside>
+      <div class="subject-top-bar" style="margin-bottom: 1.2rem;">
+        <button class="back-home-btn" id="btn-back-to-section" style="width: auto; display: inline-flex;">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+          <span>Retour aux matières</span>
+        </button>
+      </div>
 
-        <!-- Main Subject Content Area -->
-        <div class="section-main-area">
           
           <!-- Subject Banner -->
           <div class="section-banner" id="subject-banner-theme">
@@ -709,9 +818,6 @@ Trakzouch yeser maa laabed lokhrin raw famech rectte wahda tee njeeh tejem tekhd
           <div id="subject-specific-advice-container" style="display: none; margin-top: 2rem;">
             <!-- Dynamically populated -->
           </div>
-
-        </div>
-      </div>
     </section>
 
     <!-- Alumnus Advice Detail Modal -->
@@ -745,7 +851,7 @@ Trakzouch yeser maa laabed lokhrin raw famech rectte wahda tee njeeh tejem tekhd
 
   <!-- Site Footer: Contributors & Creator Signature -->
   <footer class="app-footer">
-    <div class="footer-container">
+    <div class="footer-container" id="remerciements-section">
       <div class="footer-contributors-header">
         <h3>Remerciements & Contributeurs 🤝</h3>
         <p>Un grand merci à tous les étudiants ayant contribué au partage de leurs fiches et documents de révision :</p>
