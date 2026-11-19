@@ -149,6 +149,10 @@ function navigateToHome() {
     item.classList.remove("active");
   });
 
+  if (typeof window.closeMobileSidebar === "function") {
+    window.closeMobileSidebar();
+  }
+
   renderHomeSections();
   updateGlobalStats();
   
@@ -641,10 +645,16 @@ function setupEventListeners() {
     headerLogo.addEventListener("click", navigateToHome);
   }
 
-  // Back to home button
+  // Back to home button (from Section view)
   const backHomeBtn = document.getElementById("btn-back-home");
   if (backHomeBtn) {
     backHomeBtn.addEventListener("click", navigateToHome);
+  }
+
+  // Back to home button (from Subject details view)
+  const backHomeFromSubjectBtn = document.getElementById("btn-back-home-from-subject");
+  if (backHomeFromSubjectBtn) {
+    backHomeFromSubjectBtn.addEventListener("click", navigateToHome);
   }
 
   // Back to section button from Subject details view
@@ -663,6 +673,18 @@ function setupEventListeners() {
       globalSearchQuery = e.target.value;
       if (activeSubject) {
         renderSubjectFiles();
+      }
+    });
+  }
+
+  // Explore sections CTA button
+  const exploreBtn = document.getElementById("btn-explore-sections");
+  if (exploreBtn) {
+    exploreBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      const targetEl = document.getElementById("section-chooser-container");
+      if (targetEl) {
+        targetEl.scrollIntoView({ behavior: "smooth", block: "start" });
       }
     });
   }
@@ -689,16 +711,19 @@ function setupHomeNavEvents() {
     document.body.style.overflow = "hidden";
   }
 
-  window.closeMobileSidebar = closeMobileSidebar;
-  window.openMobileSidebar = openMobileSidebar;
-  window.toggleMobileSidebar = function(e) {
-    if (e) { e.preventDefault(); e.stopPropagation(); }
+  function toggleMobileSidebar(e) {
+    if (e && typeof e.preventDefault === "function") e.preventDefault();
+    if (e && typeof e.stopPropagation === "function") e.stopPropagation();
     if (appSidebar && appSidebar.classList.contains("open")) {
       closeMobileSidebar();
     } else {
       openMobileSidebar();
     }
-  };
+  }
+
+  window.closeMobileSidebar = closeMobileSidebar;
+  window.openMobileSidebar = openMobileSidebar;
+  window.toggleMobileSidebar = toggleMobileSidebar;
 
   // Sidebar Logo Brand Click
   if (sidebarLogo) {
@@ -708,27 +733,34 @@ function setupHomeNavEvents() {
     });
   }
 
-  // Mobile Menu Button Toggle
+  // Mobile Menu Button Toggle (Single, robust event handler)
   if (mobileMenuBtn) {
-    mobileMenuBtn.addEventListener("click", () => {
-      if (appSidebar && appSidebar.classList.contains("open")) {
-        closeMobileSidebar();
-      } else {
-        openMobileSidebar();
-      }
-    });
+    mobileMenuBtn.addEventListener("click", toggleMobileSidebar);
   }
 
   // Backdrop click closes sidebar
   if (sidebarBackdrop) {
-    sidebarBackdrop.addEventListener("click", closeMobileSidebar);
+    sidebarBackdrop.addEventListener("click", (e) => {
+      e.preventDefault();
+      closeMobileSidebar();
+    });
   }
 
   // Sidebar Close button click (mobile drawer)
   const sidebarCloseBtn = document.getElementById("btn-sidebar-close");
   if (sidebarCloseBtn) {
-    sidebarCloseBtn.addEventListener("click", closeMobileSidebar);
+    sidebarCloseBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      closeMobileSidebar();
+    });
   }
+
+  // Close drawer on Escape key
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && appSidebar && appSidebar.classList.contains("open")) {
+      closeMobileSidebar();
+    }
+  });
 
   // Navigation Items
   navItems.forEach(item => {
