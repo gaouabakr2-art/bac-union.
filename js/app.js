@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setupMotivationCarousel();
   setupDuaaCarousel();
   setupModalOverlayEvents();
+  setupHomeNavEvents();
 });
 
 // Theme Toggle System
@@ -108,6 +109,18 @@ function navigateToSection(sectionId) {
   subjectView.classList.remove("active");
   sectionView.classList.add("active");
 
+  // Update persistent sidebar active states
+  const homeNavItem = document.getElementById("nav-item-home");
+  if (homeNavItem) homeNavItem.classList.remove("active");
+
+  document.querySelectorAll(".home-subnav-item").forEach(item => {
+    if (item.getAttribute("data-section") === sectionId) {
+      item.classList.add("active");
+    } else {
+      item.classList.remove("active");
+    }
+  });
+
   // Renders the Section Subjects Grid
   renderSidebarNav("sidebar-section-list");
   renderSectionBanner();
@@ -127,6 +140,14 @@ function navigateToHome() {
   sectionView.classList.remove("active");
   subjectView.classList.remove("active");
   homeView.classList.add("active");
+
+  // Update persistent sidebar active states
+  const homeNavItem = document.getElementById("nav-item-home");
+  if (homeNavItem) homeNavItem.classList.add("active");
+
+  document.querySelectorAll(".home-subnav-item").forEach(item => {
+    item.classList.remove("active");
+  });
 
   renderHomeSections();
   updateGlobalStats();
@@ -211,22 +232,34 @@ function renderSubjectSpecificAdvice() {
   }
 }
 
-// 2. RENDER SIDEBAR LIST
+// 2. RENDER SIDEBAR LIST (Unified with New Navigation)
 function renderSidebarNav(containerId) {
   const sidebarNav = document.getElementById(containerId);
   if (!sidebarNav) return;
   sidebarNav.innerHTML = "";
 
-  Object.values(SECTIONS).forEach(sec => {
+  const sectionOrder = [
+    { id: "technique", name: "Technique", color: "var(--color-technique)" },
+    { id: "math", name: "Mathématiques", color: "var(--color-math)" },
+    { id: "science", name: "Sciences Exp.", color: "var(--color-science)" },
+    { id: "informatique", name: "Informatique", color: "var(--color-informatique)" },
+    { id: "economie", name: "Économie & Gestion", color: "var(--color-economie)" },
+    { id: "lettre", name: "Lettres", color: "var(--color-lettre)" }
+  ];
+
+  sectionOrder.forEach(sec => {
     const btn = document.createElement("button");
-    btn.className = `sidebar-nav-item ${sec.id === currentSectionId ? 'active' : ''}`;
-    btn.style.setProperty("--accent-color", sec.color);
-    btn.style.setProperty("--bg-accent", sec.bgColor);
+    btn.type = "button";
+    btn.className = `home-subnav-item ${sec.id === currentSectionId ? 'active' : ''}`;
+    btn.setAttribute("data-section", sec.id);
+    btn.setAttribute("title", `Accéder directement à la section ${sec.name}`);
     btn.innerHTML = `
-      <span style="font-size: 1.2rem; margin-right: 6px;">🎓</span>
-      ${sec.name}
+      <span class="subnav-indicator" style="background-color: ${sec.color}; color: ${sec.color};"></span>
+      <span class="subnav-label">${sec.name}</span>
+      <svg class="subnav-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
     `;
-    btn.addEventListener("click", () => {
+    btn.addEventListener("click", (e) => {
+      e.preventDefault();
       navigateToSection(sec.id);
     });
     sidebarNav.appendChild(btn);
@@ -633,6 +666,145 @@ function setupEventListeners() {
       }
     });
   }
+}
+
+// Quick-Navigation Bar Events (Scroll Spy, Direct Stream Navigation & Mobile Drawer)
+function setupHomeNavEvents() {
+  const navItems = document.querySelectorAll(".home-nav-item");
+  const subnavItems = document.querySelectorAll(".home-subnav-item");
+  const appSidebar = document.getElementById("app-sidebar");
+  const sidebarBackdrop = document.getElementById("sidebar-backdrop");
+  const mobileMenuBtn = document.getElementById("mobile-menu-btn");
+  const sidebarLogo = document.getElementById("btn-sidebar-logo");
+
+  function closeMobileSidebar() {
+    if (appSidebar) appSidebar.classList.remove("open");
+    if (sidebarBackdrop) sidebarBackdrop.classList.remove("active");
+    document.body.style.overflow = "";
+  }
+
+  function openMobileSidebar() {
+    if (appSidebar) appSidebar.classList.add("open");
+    if (sidebarBackdrop) sidebarBackdrop.classList.add("active");
+    document.body.style.overflow = "hidden";
+  }
+
+  window.closeMobileSidebar = closeMobileSidebar;
+  window.openMobileSidebar = openMobileSidebar;
+  window.toggleMobileSidebar = function(e) {
+    if (e) { e.preventDefault(); e.stopPropagation(); }
+    if (appSidebar && appSidebar.classList.contains("open")) {
+      closeMobileSidebar();
+    } else {
+      openMobileSidebar();
+    }
+  };
+
+  // Sidebar Logo Brand Click
+  if (sidebarLogo) {
+    sidebarLogo.addEventListener("click", () => {
+      navigateToHome();
+      closeMobileSidebar();
+    });
+  }
+
+  // Mobile Menu Button Toggle
+  if (mobileMenuBtn) {
+    mobileMenuBtn.addEventListener("click", () => {
+      if (appSidebar && appSidebar.classList.contains("open")) {
+        closeMobileSidebar();
+      } else {
+        openMobileSidebar();
+      }
+    });
+  }
+
+  // Backdrop click closes sidebar
+  if (sidebarBackdrop) {
+    sidebarBackdrop.addEventListener("click", closeMobileSidebar);
+  }
+
+  // Sidebar Close button click (mobile drawer)
+  const sidebarCloseBtn = document.getElementById("btn-sidebar-close");
+  if (sidebarCloseBtn) {
+    sidebarCloseBtn.addEventListener("click", closeMobileSidebar);
+  }
+
+  // Navigation Items
+  navItems.forEach(item => {
+    item.addEventListener("click", (e) => {
+      e.preventDefault();
+      closeMobileSidebar();
+      const targetId = item.getAttribute("data-target");
+
+      if (targetId === "home-view") {
+        navigateToHome();
+        return;
+      }
+
+      const targetEl = document.getElementById(targetId);
+      if (targetEl) {
+        const homeView = document.getElementById("home-view");
+        if (homeView && !homeView.classList.contains("active")) {
+          navigateToHome();
+        }
+        setTimeout(() => {
+          targetEl.scrollIntoView({ behavior: "smooth", block: "start" });
+        }, 50);
+      }
+    });
+  });
+
+  // Direct 1-Click Stream / Section Navigation
+  subnavItems.forEach(item => {
+    item.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      closeMobileSidebar();
+      const secId = item.getAttribute("data-section");
+      if (secId && typeof navigateToSection === "function") {
+        navigateToSection(secId);
+      }
+    });
+  });
+
+  // Scroll spy on home sections
+  const sectionIds = ["home-motivation-section", "home-duaa-section", "section-chooser-container", "remerciements-section"];
+  window.addEventListener("scroll", () => {
+    const homeView = document.getElementById("home-view");
+    if (!homeView || !homeView.classList.contains("active")) return;
+
+    let current = "";
+    const scrollPos = window.scrollY + 200;
+    sectionIds.forEach(id => {
+      const el = document.getElementById(id);
+      if (el) {
+        const top = el.offsetTop;
+        const height = el.offsetHeight;
+        if (scrollPos >= top && scrollPos < top + height) {
+          current = id;
+        }
+      }
+    });
+
+    if (current) {
+      navItems.forEach(item => {
+        if (item.getAttribute("data-target") === current) {
+          item.classList.add("active");
+        } else {
+          item.classList.remove("active");
+        }
+      });
+    } else if (window.scrollY < 200) {
+      const homeNavItem = document.getElementById("nav-item-home");
+      if (homeNavItem) homeNavItem.classList.add("active");
+      navItems.forEach(item => {
+        if (item.getAttribute("data-target") !== "home-view") {
+          item.classList.remove("active");
+        }
+      });
+    }
+  }, { passive: true });
 }
 
 // 10. SETUP SUBJECT WORKSPACE SPECIFIC EVENTS
