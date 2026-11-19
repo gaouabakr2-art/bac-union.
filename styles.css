@@ -421,7 +421,7 @@ body {
   display: block;
 }
 
-/* 1. HOME VIEW STYLES */
+/* 1. HOME VIEW HERO BANNER (Restored Original Layout with Floating Ambient Bubbles & Rings) */
 .welcome-banner {
   background: linear-gradient(135deg, rgba(79, 70, 229, 0.08), rgba(99, 102, 241, 0.04));
   border: 1px solid rgba(79, 70, 229, 0.12);
@@ -444,6 +444,8 @@ body {
 .welcome-text {
   position: relative;
   z-index: 2;
+  flex: 1;
+  min-width: 260px;
 }
 
 .welcome-text h1 {
@@ -451,19 +453,20 @@ body {
   font-weight: 800;
   margin-bottom: 0.5rem;
   letter-spacing: -0.5px;
+  color: var(--text-primary);
 }
 
 .welcome-text p {
   color: var(--text-secondary);
   font-size: 1.05rem;
   max-width: 580px;
+  line-height: 1.5;
 }
 
-/* Right Side Area (3D Floating Art + Stats) */
 .banner-right-area {
   display: flex;
   align-items: center;
-  gap: 2rem;
+  gap: 1.5rem;
   position: relative;
   z-index: 2;
 }
@@ -472,7 +475,7 @@ body {
   display: flex;
   gap: 1.5rem;
   position: relative;
-  z-index: 3;
+  z-index: 2;
 }
 
 .stat-bubble {
@@ -502,7 +505,7 @@ body {
   margin-top: 0.3rem;
 }
 
-/* 3D FLOATING SHAPES STAGE (Video Inspired Design) */
+/* 3D FLOATING SHAPES STAGE (PC / Desktop Users) */
 .banner-3d-stage {
   position: relative;
   width: 220px;
@@ -510,6 +513,7 @@ body {
   pointer-events: none;
   user-select: none;
   flex-shrink: 0;
+  display: block;
 }
 
 /* Ambient Glow Layer */
@@ -638,50 +642,135 @@ body {
   z-index: 1;
 }
 
-/* Keyframe Animations */
+/* Keyframe Animations for 3D stage */
 @keyframes floatCube {
-  0% {
-    transform: translateY(0px) rotate(-14deg);
-  }
-  100% {
-    transform: translateY(-13px) rotate(-9deg);
-  }
+  0% { transform: translateY(0px) rotate(-14deg); }
+  100% { transform: translateY(-13px) rotate(-9deg); }
 }
 
 @keyframes floatCapsule {
-  0% {
-    transform: translateY(0px) rotate(-12deg) scale(1);
-  }
-  100% {
-    transform: translateY(-8px) rotate(-16deg) scale(1.02);
-  }
+  0% { transform: translateY(0px) rotate(-12deg) scale(1); }
+  100% { transform: translateY(-8px) rotate(-16deg) scale(1.02); }
 }
 
 @keyframes floatSphere {
-  0% {
-    transform: translateY(0px) scale(1);
-  }
-  100% {
-    transform: translateY(-11px) scale(1.03);
-  }
+  0% { transform: translateY(0px) scale(1); }
+  100% { transform: translateY(-11px) scale(1.03); }
 }
 
 @keyframes floatRing {
-  0% {
-    transform: translateY(0px) rotate(0deg);
-  }
-  100% {
-    transform: translateY(-9px) rotate(35deg);
-  }
+  0% { transform: translateY(0px) rotate(0deg); }
+  100% { transform: translateY(-9px) rotate(35deg); }
 }
 
 @keyframes floatDot {
-  0% {
-    transform: translateY(0px) scale(1);
-  }
-  100% {
-    transform: translateY(-6px) scale(1.2);
-  }
+  0% { transform: translateY(0px) scale(1); }
+  100% { transform: translateY(-6px) scale(1.2); }
+}
+
+/* Floating Ambient Bubbles & Decorative Geometric Rings (Mobile Users Only) */
+.banner-ambient-stage {
+  display: none; /* Hidden on PC / Desktop */
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.ambient-glow {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(35px);
+  opacity: 0.55;
+}
+
+.ambient-glow-1 {
+  top: -30px;
+  right: 18%;
+  width: 250px;
+  height: 250px;
+  background: radial-gradient(circle, rgba(147, 197, 253, 0.35) 0%, transparent 70%);
+}
+
+.ambient-glow-2 {
+  bottom: -40px;
+  right: 6%;
+  width: 210px;
+  height: 210px;
+  background: radial-gradient(circle, rgba(196, 181, 253, 0.3) 0%, transparent 70%);
+}
+
+[data-theme="dark"] .ambient-glow-1 {
+  background: radial-gradient(circle, rgba(99, 102, 241, 0.22) 0%, transparent 70%);
+}
+
+[data-theme="dark"] .ambient-glow-2 {
+  background: radial-gradient(circle, rgba(147, 197, 253, 0.16) 0%, transparent 70%);
+}
+
+/* Geometric Rings & Floating Dots (Matching Testini Frame Elements) */
+.ring-decor {
+  position: absolute;
+  border-radius: 50%;
+  animation: floatRingDecor 6s ease-in-out infinite alternate;
+}
+
+.dot-decor {
+  position: absolute;
+  border-radius: 50%;
+  animation: floatDotDecor 4.5s ease-in-out infinite alternate;
+}
+
+.ring-grey-top {
+  top: 18px;
+  right: 32%;
+  width: 14px;
+  height: 14px;
+  border: 2px solid #94A3B8;
+  opacity: 0.85;
+}
+
+.ring-cyan-top {
+  top: 14px;
+  right: 12%;
+  width: 12px;
+  height: 12px;
+  border: 2.2px solid #06B6D4;
+}
+
+.ring-orange-top {
+  top: 55px;
+  right: 22%;
+  width: 19px;
+  height: 19px;
+  border: 2.2px solid #F97316;
+}
+
+.dot-cyan-1 {
+  top: 85px;
+  right: 38%;
+  width: 7px;
+  height: 7px;
+  background: #06B6D4;
+}
+
+.ring-orange-bottom {
+  bottom: 16px;
+  right: 28%;
+  width: 20px;
+  height: 20px;
+  border: 2.4px solid #F97316;
+}
+
+@keyframes floatRingDecor {
+  0% { transform: translateY(0) scale(1); }
+  100% { transform: translateY(-6px) scale(1.05); }
+}
+
+@keyframes floatDotDecor {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-4px); }
 }
 
 /* Home Layout: Sidebar Navigation & Content Stream */
@@ -2166,8 +2255,8 @@ body {
   }
   
   .welcome-banner {
-    padding: 1.5rem;
-    margin-bottom: 2rem;
+    padding: 1.6rem 1.4rem;
+    margin-bottom: 1.8rem;
   }
   
   .welcome-text h1 {
@@ -2179,16 +2268,19 @@ body {
   }
 
   .banner-3d-stage {
-    display: none;
+    display: none !important;
   }
-  
+
+  .banner-ambient-stage {
+    display: block !important;
+  }
+
   .welcome-stats {
     width: 100%;
-    justify-content: space-between;
   }
   
   .stat-bubble {
-    flex: 1;
+    width: 100%;
     min-width: unset;
   }
 
@@ -2794,6 +2886,7 @@ body {
 
   .stat-bubble {
     padding: 0.7rem 1.1rem !important;
+    width: 100% !important;
   }
 
   .stat-num {

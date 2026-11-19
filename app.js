@@ -676,6 +676,18 @@ function setupEventListeners() {
       }
     });
   }
+
+  // Explore sections CTA button
+  const exploreBtn = document.getElementById("btn-explore-sections");
+  if (exploreBtn) {
+    exploreBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      const targetEl = document.getElementById("section-chooser-container");
+      if (targetEl) {
+        targetEl.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    });
+  }
 }
 
 // Quick-Navigation Bar Events (Scroll Spy, Direct Stream Navigation & Mobile Drawer)
